@@ -1,5 +1,5 @@
 +++
-title = "Skycoin AMA Log (held at ark.io)"
+title = "Skycoin AMA Protokoll (gehalten auf ark.io)"
 tags = [
     "Ask the Developers",
 ]
@@ -8,89 +8,90 @@ categories = [
     "Ask the Developers",
     "Statement",
 ]
-description = "Log of AMA with Skycoin held at ark.io/slack/ (from 2017-07-02)"
+description = "Protokoll des Fragt-mich-alles(AMA) gehalten auf ark.io/slack/ (vom 02.07.2017)"
 +++
 
-*originally held July 2, 2017 in the [ark.io slack](https://ark.io/slack/)*
+*ursprünglich gehalten am 2 Juli, 2017 im [ark.io slack](https://ark.io/slack/)*
 
-*synth is the skycoin representative in this AMA*
+*synth ist Skycoins Stellvertreter in diesem Fragt-mich-alles(AMA)*
 
 **boldninja**
-Let's all give a warm welcome to @synth from SkyCoin.net and for taking the time to do this AMA
+Lasst uns alle @Synth von Skycoin.net herzlich willkommen heißen und uns bei ihm bedanken, dass er sich die Zeit für dieses AMA nimmt.
 
 **synth**
-*hello
+*Hallo.
 
 **mike**
-Hi Synth
+Hi Synth.
 
 **jakethepanda**
-Hey @synth
+Hey @synth.
 
 **thrice.pi**
-Hey synth
+Hey synth.
 
 **dr10**
-Hi
+Hi.
 
 **boldninja**
 I think we can start - you guys know the drill. Give him some time to respond (no more than 2-3 questions on backlog so he can catch up)
+Ich denke wir können beginnen - Leute ihr wisst wie es läuft. Gebt ihm etwas Zeit zu antworten (nicht mehr als 2-3 Fragen anhäufen damit er aufholen kann).
 
 **dr10**
-How would you - shortly & in easy words - sum-up the advantages of SkyCoin to magazines and non-crypto people?
+Wie würdest du - kurz & in einfachen Worten - die Vorteile von Skycoin für Zeitschriften und für nicht-crypto Leute zusammenfassen ?
 
 **mgaruccio**
-Can you explain a bit about the mesh net? Is it just an mpls network between nodes or is there something deeper going on?
+Kannst du etwas über das vermaschte Netz (mesh net) erklären? Ist es einfach nur ein MPLS-Netzwerk zwischen Knoten oder findet dort etwas anspruchsvolleres statt?
 
 **michaelthecryptoguy**
-Whassup @synth
+Was geht ab @synth.
 
 **tranzer**
-hi synth. I have a question - are those coins that are not in circulation in any cold wallets since only a portion is currently available according to CMC? What would you say is the 1 unique feature that Skycoin has?
+Hi Synth. Ich habe eine Frage - sind die nicht-zirkulierenden Coins in einem Offline-Wallet, da sich laut Coinmarketcap (CMC) zurzeit nur eine kleine Menge im Umlauf befindet? Was würdest du sagen ist die erstrangige, einzigartige Eigenschaft die Skycoin besitzt?
 
 **synth**
-It is very difficult, because Skycoin is a very large project and already has +6 years of development. Different parts of the project have different objectives.
-The cryto, coin part is about solving the problems with the existing consensus algorithms. Being able to do +300 transactions a second, transactions in seconds instead of minutes (faster than credit cards), eliminating miners, eliminating block rewards (eliminating inflation) and eliminating 51% attack and the other problems with mining.
-then there are other repos and experimental projects under https://github.com/skycoin such as a meshnet and distributed VPN prototype, where people will be paid coins for forwarding traffic. Also prototypes of distributed social media application, with peer to peer data replication and different experimental projects. Research into immutable data structures for next generation internet. Some of them are very radical.
+Das ist schwer zu sagen, denn Skycoin ist ein großes Projekt indem mittlerweile schon über 6 Jahre an Entwicklung stecken. Verschiedene Teile des Projektes haben verschiedene Ziele. 
+Der Crypto-Coin dreht sich darum die vorherrschenden Probleme mit einem Konsens-Algorithmus zu beheben. Die Möglichkeit zu haben +300 Transaktionen in der Sekunde auszuführen, Transaktionen innerhalb von Sekunden anstatt von Minuten zu vollführen (schneller als Kreditkarten), das Hinfällig werden der Miner, eliminieren der Block-Belohnungen (Eliminierung der Inflation) und Eliminierung der 51%-Attacke und anderer Probleme, die mit Mining zusammenhängen. 
+Außerdem gibt es andere Repository und experimentelle Projekte unter https://github.com/skycoin, wie z.B. das vermaschte Netz und der verteilte VPN-Prototyp, wo die Leute für das weiterleiten von Datenaufkommen in Coins bezahlt werden. Des Weiteren verteilte Social Media Sites, mit Peer-to-Peer Replikation aber auch andere verschiedene Versuche. Forschen an unveränderbaren Datenstrukturen für die nächste Generation des Internets. Einige von ihnen sind sehr radikal. 
 
 **dr10**
-How does the Network consensus algorithm Obelisk work and differ from widely known algorithms like Proof of Work and Proof of Stake?
+Wie funktioniert der Konsens-Algorithmus Obelisk und wie unterscheidet er sich von bekannten Algorithmen, wie 'Proof of Work' und 'Proof of Stake'?
 
 **mgaruccio**
-So how much exists today? Could I build an app on the platform if I wanted to?
+Wie viel ist bisher fertiggestellt? Könnte ich eine App auf der Plattform aufbauen, sofern ich das wollen würde?
 
 **mike**
-In terms of the rate of progress, what is currently your greatest limiting factor - like funding, manpower, currently available technology?
+Bezüglich der Fortschrittgeschwindigkeit, was ist aktuell euer größtes Hindernis - wie Finanzierung, Arbeitskräfte, zurzeit verfügbare Technologie?
 
 **synth**
 
-> Can you explain a bit about the mesh net? Is it just an mpls network between nodes or is there something deeper going on?
+> Kannst du etwas über das vermaschte Netz (mesh net) erklären? Ist es einfach nur ein MPLS-Netzwerk zwischen Knoten oder findet dort etwas anspruchsvolleres statt?
 
-It is not actually a meshnet. It is software defined networking, it is much more powerful than just meshnet. Its a new type of networking and new completely new protocol and networking namespace, independent of the existing internet.
-It supports source routing, while the existing internet does hot potato routing, so never achieves optimal latencies.
-It supports multi-homing, which IPv6 does not (Which is critical for when we have gigabit or terabit networking and multi-redundant bandwidth paths)
-It has default oppurunistic crypto, both link layer and end to end; so everything is encrypted by default, unlike the current internet.
-It has store and forward networking and will operate in Africa or even under conditions where latencies are in the minutes or hours and packet loss is excessive. Where existing protocols cannot operate reliability. It is much more robust than IPv4/IPv6 or TCP/ip
-It has improved privacy. If a packet takes a route that is 10 hops, each hop only knows the previous node in the route and the next node in the route. It is not like IPv4 where each packet gives the source and destination. The privacy level is something that does not exist on the current internet.
-IP addresses are replaced by public key and no one can read traffic to a destination, without knowing the private key of the public key that identifies the destination. The system does not need 3rd parties or certificate authorities. The design is a revolution.
+Es ist nicht wirklich ein vermaschtes Netz. Es ist ein per Software festgelegtes Netzwerk, welches viel mächtiger als ein einfaches vermaschtes Netz ist. Es ist eine neue Art eines Netzwerks mit komplett neuen Protokollen und Netzwerknamesgebung, unabhängig vom existierenden Internet.
+Es unterstützt Source-Routing, wohingegen das existierende Internet heiße-Kartoffel-Routing betreibt, also nie dieselbe optimale Latenzzeit erreichen wird.
+Es unterstützt Multihoming, was IPv6 nicht kann (was ausschlaggebend ist wenn man von Gigabit oder Terrabit-Netzwerken ausgeht und man mehrfach-redundante Bandbreitenpfade hat.
+Es hat standardmäßig opportunistische Kryptographie implementiert, zwischen Link und den Schichten sowie Ende-zu-Ende; also ist alles vorgegebenermaßen verschlüsselt, anders als im gegenwärtigen Internet.
+Es hat die Möglichkeit des Teilstreckenverfahrens und könnte in Afrika oder unter Bedingungen, in denen die Latenzzeit in die Minuten oder Stunden geht mit einhergehendem, exzessivem Paketverlust, funktionieren. Wo aktuell existierende Protokolle nicht verlässlich funktionieren. Es ist weitaus robuster als IPv4/IPv6 oder TCP/IP.
+Es bietet eine verbesserte Privatssphäre. Wenn ein Paket eine Route wählt die über 10 Teilstrecken (Hop) geht, dann ist jedem Hop nur sein Vorgänger und sein Nachfolger bekannt. Es ist nicht wie bei IPv4, wo jedes Paket Quelle und Ziel kennt. Das Privatssphäreniveau ist im existierenden Internet so aktuell nicht vorhanden.
+IP-Adressen werden mit öffentlichen Schlüsseln ersetzt damit den Datenverkehr zu einem Ziel auslesen kann, ohne den zugehörigen privaten Schlüssen, der das Ziel eindeutig identifiziert, zu kennen. Das System braucht keine Drittparteien oder Zertifizierungsstellen. Dieses Design ist eine Revolution.
 
-> are those coins that are not in circulation in any cold wallets since only a portion is currently available according to CMC?
+> sind die nicht-zirkulierenden Coins in einem Offline-Wallet, da sich laut Coinmarketcap (CMC) zurzeit nur eine kleine Menge im Umlauf befindet?
 
-The coins are locked into 100 addresses, each with 1 million coins each. And they are released sequentially.
-There is a complicated locking procedure and releasing new coins requires unamious consent and a shared secret among a group of developers. Anyone in the shared secret group can block distribution of more coins (to stop the problem that killed NXT). So by design the coins were supposed to be difficult to distribut, there had to be a good reason or justification before a distribution would be approved.
+Die Coins sind in 100 verschiedenen Addressen verschlossen, jede versehen mit 1 Millionen Coins. Sie werden nacheinander freigegeben. Es gibt eine komplizierte Verschlussprozedur und das Freigeben von neues Coins benötigt die einstimmige Zustimmung und ein unter den Entwicklern geteiltes Geheimnis. Jeder in der Gruppe dieses geteilten Geheimnisses kann die Freigabe von neuen Coins blockieren (um das Problem das NXT gekillt hat zu verhindern). Schon im Entwurf sollte es schwierig sein die Coins zu verteilen, es muss einen guten Grund oder Rechtfertigung für eine genehmigte Verteilung geben.
 
 **mike**
-What are the hardware requirements to operate a wireless Skywire (the name for the protocol described above) Node?
+Was sind die Hardwareanforderungen um einen drahtlosen Skywire-Knoten (Der Name des oben beschriebenen Protokolls) zu betreiben?
 
 **arc-over-water**
-nxt i think is doing ok..
+Ich denke NXT geht es gut..
 
 **synth**
 
-> How does the Network consensus algorithm Obelisk work and differ from widely known algorithms like Proof of Work and Proof of Stake?
+> Wie funktioniert der Konsens-Algorithmus Obelisk und wie unterscheidet er sich von bekannten Algorithmen, wie 'Proof of Work' und 'Proof of Stake'?
 
-PoS and PoW use miners. Miners receive new coins every block as a block reward. So miners are making money and will fight to control the network. An everyone will suffer because the newly created coins represent inflation.
-Skycoin was designed to eliminate mining and eliminate the inflation. No block rewards, no new coins. And we needed to develop a new consensus algorithm to do that and there are only a few methods that work, for these constraints. The consensus algorithm is based upon Ben-Or's randomization procedure for achieving consensus in a distributed system, with some improvements for detecting adversarial or malicious nodes who are trying to prevent the consensus process.
+PoS und PoW benutzen Miner. Miner erhalten Coins für jeden neuen Block als Blockbelohnung. Die Miner verdienen also Geld und werden über die Kontrolle des Netzwerkes kämpfen. Jeder wird darunter leiden, weil die neu geschaffenen Coins Inflation bedeuten.
+Skycoin wurde designt um Mining zu eliminieren und um Inflation zu eliminieren. Keine Blockbelohnungen, keine neuen Coins. Wir waren gezwungen deshalb einen neuen Konsens-Algorithmus zu entwickeln und es gibt nur einige Methoden, welche unter den Einschränkungen funktionieren. Der Konsens-Algorithmus basiert auf Ben-Or's Randomisierungsprozedur um Übereinstimmung in einem verteilten System zu erreichen, mit einigen Verbesserungen um konfliktreiche oder bösartige Knoten zu erkennen, welche versuchen den Konsens-Prozess zu verhindern.
+
 There are white papers on skycoin.net about the specifics. I would call it "network consensus" and it uses a sort of Web of Trust (WoT), where if the people creating blocks are doing a bad job or attacking the network, then the community can get rid of them. At the same time, the people who control the network, do not have any real power to attack the network except by slowing down transactions and being annoying, so even if they become malicious the only issue is how to get rid of them and select new people.
 
 **mike**
