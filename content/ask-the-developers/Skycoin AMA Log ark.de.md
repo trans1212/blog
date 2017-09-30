@@ -92,33 +92,37 @@ Ich denke NXT geht es gut..
 PoS und PoW benutzen Miner. Miner erhalten Coins für jeden neuen Block als Blockbelohnung. Die Miner verdienen also Geld und werden über die Kontrolle des Netzwerkes kämpfen. Jeder wird darunter leiden, weil die neu geschaffenen Coins Inflation bedeuten.
 Skycoin wurde designt um Mining zu eliminieren und um Inflation zu eliminieren. Keine Blockbelohnungen, keine neuen Coins. Wir waren gezwungen deshalb einen neuen Konsens-Algorithmus zu entwickeln und es gibt nur einige Methoden, welche unter den Einschränkungen funktionieren. Der Konsens-Algorithmus basiert auf Ben-Or's Randomisierungsprozedur um Übereinstimmung in einem verteilten System zu erreichen, mit einigen Verbesserungen um konfliktreiche oder bösartige Knoten zu erkennen, welche versuchen den Konsens-Prozess zu verhindern.
 
-There are white papers on skycoin.net about the specifics. I would call it "network consensus" and it uses a sort of Web of Trust (WoT), where if the people creating blocks are doing a bad job or attacking the network, then the community can get rid of them. At the same time, the people who control the network, do not have any real power to attack the network except by slowing down transactions and being annoying, so even if they become malicious the only issue is how to get rid of them and select new people.
+Es gibt auf skycoin.net whitepaper über die Spezifikationen. Ich würde es "Netzwerk-Konsens" nenne und es nutzt eine Art Netz des Vertrauens (WoT), indem die Community Leute, welche einen schlechten Job bei dem Erstellen von Blocks machen, oder das Netzwerk sogar angreifen, ausschließen können. Gleichzeitig haben die Leute, welche das Netzwerk kontrollieren keine wirkliche Macht um das Netzwerk anzugreifen, sie können lediglich die Transaktionsgeschwindigkeit verringern und nervtötend sein, deshalb ist das einzige Problem wenn sie bösartig werden die Frage wie man sie los wird und wie man neue Leute auswählt. 
 
 **mike**
-Any idea when Skywire will be released and ready to test on hardware nodes (testnet or mainnet)?
+Irgendeine Vorstellung wann Skywire veröffentlicht wird und bereit ist auf Hardware-Knoten getestet zu werden (Testnetz oder Hauptnetz)?
 
 **mgaruccio**
-So if there is no block reward what is the incentive to run a node?
+Wenn es keine Block-Belohnung gibt, was ist dann der Anreiz einen Knoten laufen zu lassen?
 
 **vega**
 What will be the actual function of Skycoin (the coin itself)? Will the coin be used as currency, as transfer of value in and between all these various developing functionalities, semi-separate projects to tie them all together or it's function will be more limited?
+Was wird die eigentliche Funktion von Skycoin selbst sein? Wird der Coin als Währung verwendet werden, als Werttransfer in und zwischen all diesen sich entwickelnden Funktionalitäten und halb-geteilten Projekten um sie zusammen zu binden oder wird seine Verwendung eingeschränkter sein?
 
 **michaelthecryptoguy**
-Do you have an idea on the specs of a node that would be required? In the beginning? What about with 10,000 users? (edited)
+Hast du eine Ahnung von den Spezifikationen die Knoten benötigen würde, zu Beginn oder auch mit 10.000 Usern? (bearbeitet)
 
 **synth**
 
-> nxt i think is doing ok..
+> Ich denke NXT geht es gut..
 
-There were three people that each owned 30% of the coin. One decided he wanted out and began dumping. NXT was over 150 million I think. When he started dumping, it basicly killed NXT.
-Skycoin's distribution was designed to stop dumping by the founders and early people.
-After Skycoin gets to 30% of the total coins distributed, there will probably a hard time lock on the remaining coins, so that a maximum of 5% of the remaining coins can be released per year. So the distribution for the other 70% of the coins will take a minimum of 14 years (and could be longer).
-We cannot even sell the rest of the coins, because if we sold 10% of the total now at $5 per coin, it would be 50 million or something and we cannot spend or even use that amount of money. Not at this stage.
-Ethereum spent 30 million or 70 million in their first year or two after the ICO and then nearly went bankrupt. Silicon Valley wages and offices etc. We have been very conservative and have kept costs down and kept them responsible. Now we have coins like EOS and they want to raise a billion dollars and have not produced anything yet, do not hav a blockchain and I have no idea what they would spend that money on, but they are throwing $350,000 parties in time square for marketing/PR etc...
+Es gab drei Leute, welche jeweils 30% des Coins besaßen. Einer entschied sich auszusteigen und begann damit rasant zu verkaufen. Ich glaube NXTs Börsenwert war damals über 150 Millionen. 
+Sobald er begann zu verkaufen hat es NXT praktisch getötet.
+Skycoins Distribution wurde so designt, dass Dumping durch die Gründer und Frühnutzer verhindert wird.
+Nachdem Skycoins Distribution zu 30% angestiegen ist, wird es vermutlich einen festes Zeitschloss für den Rest der Coins geben, sodass ein Maximum von 5% jährlich herausgegeben wird. Die Distribution der verbleibenen 70% wird also mindestens 14 Jahre und möglicherweise länger dauern.
+Wir können nichtmal den Rest der Coins verkaufen, denn wenn wir 10% des Gesamten für die jetzigen $5 pro Coin verkaufen, wären es 50 Millionen oder sowas in die Richtung und wir können soviel Geld nicht ausgeben oder nutzen. Nicht in dieser Phase.
+Ethereum hat 30 oder 70 Millionen in innerhalb ihres ersten oder ihrer ersten zwei Jahre nach der ICO ausgegeben und sind beinahe bankrott gegangen. Silicion Valley Büros und Gehälter und so weiter. Wir waren sehr konservativ und haben die Kosten unten gehalten und sie verantwortungsvoll geführt. Jetzt haben wir Coins wie EOS, welche eine Milliarde Dollar sammeln wollen und noch nichtmal ein Produkt besitzen, keine Blockchain haben und keine Idee wofür sie das Geld ausgeben würden, schmeißen aber $350.000 Feste im Time Square aus Marketing-/PR-Gründen etc...
 
 **arc-over-water**
 what prevents you from selling? anybody can spend that amount of money?
 nxt is a newer platform than sky, market value is $220 million plus $166 million, I get what you are saying but the evidence is wrong. Community is huge and active in Nxt. But you say it is killed, i dont get it?
+Was hindert dich daran zu verkaufen? Jeder könnte diese Menge an Geld ausgeben?
+NXT ist eine neuere Plattform aus SKY, der Börsenwert ist $220 Millionen plus $166 Millionen, ich verstehe was du sagst aber die Belege sind falsch. Die Community von NXT ist riesig und aktiv. Aber du sagst NXT ist tot, das begreif ich nicht?
 
 **synth**
 
