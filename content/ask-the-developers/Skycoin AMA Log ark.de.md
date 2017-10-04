@@ -156,49 +156,48 @@ GitHub skycoin/bss tragt zur Entwicklung der BBS-Entwicklung bei, indem ihr euch
 Also is Skycoin ein Proof of Resource coin, dessen Wert by nützlichen Services gedeckt wird, in diesem Fall sicheres und privates Networking? Gibt es Pläne für dezentrale Speicherung oder sogar verteilte Rechenleistung?
 
 **arc-over-water**
-so these 100 separate million coin accounts will be 100 ICOs or how is the distribution patterned? is it written into the code or up to the devs?
+Also diese 100 Millionen Coin-Accounts werden in 100 ICOs verteilt oder wie soll die Distribution stattfinden? Ist es im Code verankert oder obliegt es der Entscheidung der Entwickler?
 
 **rockyj**
-!calculate
+!Berechne
 
 **slackbot Custom Response**
 https://docs.google.com/spreadsheets/d/1FGo3FkC3uSWXGHatPQyny2brMWjAIJsHFCR-Lhkl_m0/edit#gid=0
 
 **synth**
 
-> So if there is no block reward what is the incentive to run a node?
+> Wenn es keine Block-Belohnung gibt, was ist dann der Anreiz einen Knoten laufen zu lassen?
 
-running a consensus node does not cost anything. You can run it on a raspberry pi.
-The important thing is that if the people doing consensus are doing a bad job, that the community can get rid of them and replace them. The other important thing, is that they can be audited and determined automatically if they are obeying the protocol.
-the miners in skycoin are not very powerful and cannot do anything except slow down transactions. They are unable to spend other people's money without their private keys, so the consensus/mining nodes are almost irrelevent. It is not like Bitcoin where the miners can hold the network hostage or act selfishly (driving up the transactions fees for their own personal benefit and delaying any innovations that would improve bitcoin for everyone, etc).
+Einen 'consensus'-Knoten laufen zu lassen kostet überhaupt nicht. Man kann es auf einem Raspberry Pi laufen lassen.
+Die wichtigste Sache ist, dass falls Leute einen schlechten Job bei der Konsens-Sache machen, kann die Community sie loswerden und austauschen. Die andere ebenfalls wichtige Sache ist, dass sie automatisch überprüft werden können, ob sie den Regeln des Protokolls gehorchen.
+Die Miner in Skycoin sind nicht sehr mächtig und können nichts anders tun, außer die Transaktionen zu verlangsamen. Sie sind nicht dazu fähig anderer Leute Geld ohne deren private Schlüssel auszugeben, also sind die Mining/'consensus'-Knoten fast schon irrelevant. Es ist nicht wie bei Bitcoin, wo die Miner das Netzwerk als Geisel nehmen kann und selbstbestimmt agieren können (die Transaktionsgebühren für ihren eigenen Vorteil erhöhen und Fortschritt zurückhalten, welcher Bitcoin für jedermann verbessern würde, etc.).
 
-> So Skycoin is a Proof of Resource coin where its value is actually backed by provision of a useful service, in this case private and secure networking? Are there plans to add decentralized storage and even distributed processing to it?
+> Also is Skycoin ein Proof of Resource coin, dessen Wert by nützlichen Services gedeckt wird, in diesem Fall sicheres und privates Networking? Gibt es Pläne für dezentrale Speicherung oder sogar verteilte Rechenleistung?
 
-We have decentralized storage, which is called CXO. But only the bandwidth is monetized by Skywire. We do not nickle and dime and try to attach a coin cost to every API call. Everything that should be free is free. So its a different philosphy.
-On top of CXO we also have distributed social media applications (simmilar to Steemit)
-CXO is very similar to IFPS, but simplier and designed for our internal infrastructure and with our crypto standards, instead of being a mismash.
+Wir haben bereits dezentrale Speicherung mit dem Namen CXO. Nur die Bandbreite ist monetarisiert über Skywire. Wir zählen nicht jeden Cent und versuchen den Coin an jeden API-Aufruf zu binden. Alles das umsonst sein sollte ist umsonst. Es ist also eine andere Philosophie. Aufgesetzt auf CXO haben wir außerdem soziale Medieneinsatzmöglichkeiten (ähnlich zu Steemit).
+CXO ist sehr ähnlich zu IFPS, aber einfacher und designt für unsere interne Infrastruktur und mit unseren Kryptographiestandards, anstatt einen Mix zu bilden.
 
 **mike**
-Is it possible for Skycoin to choose the best paths and route around bad or slow nodes as damage to the network, in effect reducing their impact on consensus?
-looks like you answered the question above while I was typing...
+Ist es Skycoin möglich die besten Pfade und Route um schlechte oder langsame Knoten, welche das Netzwerk beschädigen, zu suchen um deren Einfluss auf den Konsens zu verringern?
+Sieht so aus als hättest du die Frage oben schon beantwortet während ich am Schreiben war...
 
 **tranzer**
-How many tx/s can skycoin handle? What are block times?
+Wie viele Transaktionen pro Sekunde (tx/s) kann Skycoin verarbeiten? Wie lange ist die Blockdauer?
 
 **thrice.pi**
-300 right? ^
+300 richtig? ^
 
 **arc-over-water**
-on your website it says you will have a NON- Turing complete lisp language?
+Auf euerer Website sagt ihr, ihr werden eine nicht-turing-vollständigen Lisp-Dialekt haben?
 
 **synth**
 
->so these 100 separate million coin accounts will be 100 ICOs or how is the distribution patterned? is it written into the code or up to the devs?
+> Also diese 100 Millionen Coin-Accounts werden in 100 ICOs verteilt oder wie soll die Distribution stattfinden? Ist es im Code verankert oder obliegt es der Entscheidung der Entwickler?
 
-We will have a distribution page, up on the website soon. Its complicated.
-Skywire, is designed to pull coins out of circuation, through a sort of tithe on network activity and it does automatic buy backs effectively. So the distribution will actually peak and then decline. But one distribution is from the locked coins, and the locked coins are freed, then circulate, then end up at the foundation (from the skywire tithe are pulled out of circulation), but still count towards the free float.
-The coin holders also receive a coinhour dividend and there will be a market rate conversion between coin hours and Skycoins and coinhours are the actual currency for the Skywire network. If you do not have enough coin hours, then you sell Skycoin for CoinHour at the market rate, to purchase bandwidth; but if you have a lot of coins then you have enough coin hours for downloading movies or VPN or whatever you are doing and it is essentially free.
-So there is a dual level economic structure. Both with coin buybacks to pull coins out of circulation and with a dividend or incentive to encourage users to hold the coin if they are using the network.
+Wir werden bald eine Distributionsseite auf unserer Website haben. Es ist kompliziert.
+Skywire wurde designt um Coins aus der Zirkulation zu ziehen über eine Art 'zehnten Teil' und es kauft automatisch und effektiv Coins zurück. Die Distribution wird sich also zuspitzen und anschließend abfallen. Eine Distribution verteilt die weggeschlossenen Coins, diese zirkulieren anschließend und enden schließlich wieder am Ursprungsort (der 'zehnte Teil' von Skywire zieht sie aus der Zirkulation), welche aber dennoch zur freien Zirkulation gezählt werden.
+Die Coinbesitzer erhalten zudem eine Coinhour-Dividende (Coinstundendividende) und es wird eine Konversionsrate zwischen Coinhours und Skycoins geben, wobei Coinhours die tatsächliche Währung für das Skycoinnetzwerk sind. Wenn man nicht genügend Coinhours besitzt, dann verkauft man Skycoins für Coinhours zum Marktpreis und erwirbt damit Bandbreite; aber wenn man viele Coins besitzt, dann besitzt man genug Bandbreite um Filme herunterzuladen oder VPN-Dienste zu nutzen und es ist unterm Strich umsonst.
+Es ist also eine zweischichtige Ökonomiestrukture. Mit Coinrückkäufen Coins aus der Zirkulation zu ziehen und mittels der Dividende einen Ansporn für die User geben, den Coin nicht zu verkaufen, wenn sie das Netzwerk verwenden.
 
 **arc-over-water**
 so there will be two currencies, holding one reserves the other
