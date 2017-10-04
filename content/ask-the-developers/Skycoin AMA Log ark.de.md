@@ -101,7 +101,6 @@ Irgendeine Vorstellung wann Skywire veröffentlicht wird und bereit ist auf Hard
 Wenn es keine Block-Belohnung gibt, was ist dann der Anreiz einen Knoten laufen zu lassen?
 
 **vega**
-What will be the actual function of Skycoin (the coin itself)? Will the coin be used as currency, as transfer of value in and between all these various developing functionalities, semi-separate projects to tie them all together or it's function will be more limited?
 Was wird die eigentliche Funktion von Skycoin selbst sein? Wird der Coin als Währung verwendet werden, als Werttransfer in und zwischen all diesen sich entwickelnden Funktionalitäten und halb-geteilten Projekten um sie zusammen zu binden oder wird seine Verwendung eingeschränkter sein?
 
 **michaelthecryptoguy**
@@ -119,46 +118,42 @@ Wir können nichtmal den Rest der Coins verkaufen, denn wenn wir 10% des Gesamte
 Ethereum hat 30 oder 70 Millionen in innerhalb ihres ersten oder ihrer ersten zwei Jahre nach der ICO ausgegeben und sind beinahe bankrott gegangen. Silicion Valley Büros und Gehälter und so weiter. Wir waren sehr konservativ und haben die Kosten unten gehalten und sie verantwortungsvoll geführt. Jetzt haben wir Coins wie EOS, welche eine Milliarde Dollar sammeln wollen und noch nichtmal ein Produkt besitzen, keine Blockchain haben und keine Idee wofür sie das Geld ausgeben würden, schmeißen aber $350.000 Feste im Time Square aus Marketing-/PR-Gründen etc...
 
 **arc-over-water**
-what prevents you from selling? anybody can spend that amount of money?
-nxt is a newer platform than sky, market value is $220 million plus $166 million, I get what you are saying but the evidence is wrong. Community is huge and active in Nxt. But you say it is killed, i dont get it?
 Was hindert dich daran zu verkaufen? Jeder könnte diese Menge an Geld ausgeben?
 NXT ist eine neuere Plattform aus SKY, der Börsenwert ist $220 Millionen plus $166 Millionen, ich verstehe was du sagst aber die Belege sind falsch. Die Community von NXT ist riesig und aktiv. Aber du sagst NXT ist tot, das begreif ich nicht?
 
 **synth**
 
-> What will be the actual function of Skycoin (the coin itself)? Will the coin be used as currency, as transfer of value in and between all these various developing functionalities, semi-separate projects to tie them all together or it's function will be more limited?
+> Was wird die eigentliche Funktion von Skycoin selbst sein? Wird der Coin als Währung verwendet werden, als Werttransfer in und zwischen all diesen sich entwickelnden Funktionalitäten und halb-geteilten Projekten um sie zusammen zu binden oder wird seine Verwendung eingeschränkter sein?
 
-Yes. Bitcoin has no purpose. An altcoin does two things - check your balance - send money to other people
-Two features - check balance - send
-For a coin to have value, people need to be forced to buy it to consume specific services. There has to be stuff for people to spend the coin on, that there is demand for.
-So Bitcoin is really just a purely speculative asset. It generates no cashflow and its value is determined by perception or social convention.
-Ideally, Skycoin would start off as a "better Bitcoin" (faster, more secure, new algorithm, simplier, etc), then over time we would build up an ecosystem and have some type of backing and tie the coin's value into the network and usebase.
-The mesh netork (skywire) is good, because it gives something for people to do to get coins and it allows people to consume the coins. You can run your internet traffic through a VPN that tunnels over Skywire and maybe it will be a nominal amount (actually absurdly small amount of money), but there would be real economic activity and a real userbase and community using the coin. Not just speculation.
-Later on the scope is much wider.
+Ja. Bitcoin hat keinen Verwendungszweck. Ein Altcoin macht zwei Dinge - Prüfe deine Bilanz - Sende Geld zu anderen Leuten. Zwei Eigenschaften - Prüfe Balance - Versende.
+Damit ein Coin intrinsischesn Wert besitzt, müssen Leute gezwungen sein ihn zu kaufen um spezifische Service zu genießen. Um Nachfrage zu erzeugen muss es Sachen geben, für die Leute den Coin ausgeben können. Bitcoin ist demnach eine rein spekulative Anlage. Es wird kein Cashflow generiert und sein Wert ist bestimmt durch die Auffassung der Öffentlichkeit oder auch der sozialen Übereinkunft.
+Im Idealfall würde Skycoin als 'besserer Bitcoin' durchstarten (schneller, sicherer, neuer Algorithmus, einfacher, etc.) und mit der Zeit würden wir ein Ökosystem aufbauen um eine Art finanzielle Unterstützung zu haben, aber auch um den Wert des Coins an das Netzwerk und die grundlegende Nutzung zu binden. 
+Das vermaschte Netz (Skywire) ist gut, denn es stellt einen Grund dar, für den die Leute Coins kaufen können und es ermöglicht den Menschen diese auch wieder zu verbrauchen. Man keinen seinen Internet-Traffic über einen VPN laufen lassen der über Skywire tunnelt und möglicherweise wird dies einen nominellen Kostenpunkt haben (tatsächlich einen absurd kleine Geldmenge), aber es würde reale ökonomische Aktivität bedeuten und eine echte, reale Userbase und Community welche den Coin verwendet. Nicht nur Spekulation. Der spätere Anwendungsbereich ist wesentlich umfangreicher.
 
 **arc-over-water**
-So the skycoin wallet will be a VPN for our internet usage?
+Also wird das Skycoin-Wallet ein VPN für unsere Internetnutzung sein?
 
 **synth**
 
-> nxt is a newer platform than sky, market value is $220 million plus $166 million, I get what you are saying but the evidence is wrong. Community is huge and active in Nxt. But you say it is killed, i dont get it?
+> NXT ist eine neuere Plattform aus SKY, der Börsenwert ist $220 Millionen plus $166 Millionen, ich verstehe was du sagst aber die Belege sind falsch. Die Community von NXT ist riesig und aktiv. Aber du sagst NXT ist tot, das begreif ich nicht?
 
-What I am saying, is that NXT would be a lot further along than it is now and probably around where Ethereum is, except for that mistake in the distribution and keeping it too concentrated. It set them back by years. They did not consider what the impact on the price would be, over the long term, when one of the early whales started selling off or decided he wanted out.
+Was ich sage ist, dass NXT wesentlich fortgeschrittener wäre als es jetzt ist und wahrscheinlich auf der Stufe, auf der Ethereum jetzt ist, wenn der Fehler mit der zu bebündelten Distribution nicht gewesen wäre. Es hat sie Jahre zurückgesetzt. Sie haben es nicht in Betracht gezogen, was es für Auswirkungen auf den Preis über längere Zeit haben könnte, wenn einer der frühzeitigen Wale abrupt verkaufen würde oder sich dazu entscheidet raus zu wollen.
 
 **arc-over-water**
-But they did the same again with IOTA, same lead dev.. Its over a $Billion
-they released and let the market price distribute
+Aber sie haben dasselbe erneut mit IOTA gemacht, derselbe führende Entwickler.. Es wurde über eine $Milliarde freigegeben und sie lassen es über den Marktpreis verteilen.
 
 **synth**
 
-> So the skycoin wallet will be a VPN for our internet usage?
+> Also wird das Skycoin-Wallet ein VPN für unsere Internetnutzung sein?
 
-The VPN is just one application, that uses bandwidth over Skywire. There are several things in development.
-This is a BBS like 4chan, that is completely distributed, with CXO. https://github.com/skycoin/bbs
-It will run over Skywire also, This is like building a whole new internet from scratch. The apps that run on it are going to specialized and privacy focused, etc GitHub skycoin/bbs Contribute to bbs development by creating an account on GitHub.
+Das VPN ist nur eine Anwendung, welche Bandbreite über Skywire verwendet. Es sind mehrere Dinge in der Entwicklung.
+Dies ist ein BBS wie 4chan, welches vollständig mittels CXO dezentralisiert ist - https://github.com/skycoin/bbs.
+Es wird ebenfalls über Skywire laufen, das ist in etwa als wenn man ein komplett neues Internet vom Grund auf entwickelt. Die Anwendungen, die darauf laufen werden, sollen spezialisiert und fokusiert auf Privatsphäre sein etc. 
+GitHub skycoin/bbs Contribute to bbs development by creating an account on GitHub.
+GitHub skycoin/bss tragt zur Entwicklung der BBS-Entwicklung bei, indem ihr euch ein Account auf GitHub erstellt.
 
 **mike**
-So Skycoin is a Proof of Resource coin where its value is actually backed by provision of a useful service, in this case private and secure networking? Are there plans to add decentralized storage and even distributed processing to it?
+Also is Skycoin ein Proof of Resource coin, dessen Wert by nützlichen Services gedeckt wird, in diesem Fall sicheres und privates Networking? Gibt es Pläne für dezentrale Speicherung oder sogar verteilte Rechenleistung?
 
 **arc-over-water**
 so these 100 separate million coin accounts will be 100 ICOs or how is the distribution patterned? is it written into the code or up to the devs?
