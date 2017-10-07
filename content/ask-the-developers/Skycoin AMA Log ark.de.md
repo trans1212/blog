@@ -34,7 +34,6 @@ Hey synth.
 Hi.
 
 **boldninja**
-I think we can start - you guys know the drill. Give him some time to respond (no more than 2-3 questions on backlog so he can catch up)
 Ich denke wir können beginnen - Leute ihr wisst wie es läuft. Gebt ihm etwas Zeit zu antworten (nicht mehr als 2-3 Fragen anhäufen damit er aufholen kann).
 
 **dr10**
@@ -75,7 +74,7 @@ Es hat die Möglichkeit des Teilstreckenverfahrens und könnte in Afrika oder un
 Es bietet eine verbesserte Privatssphäre. Wenn ein Paket eine Route wählt die über 10 Teilstrecken (Hop) geht, dann ist jedem Hop nur sein Vorgänger und sein Nachfolger bekannt. Es ist nicht wie bei IPv4, wo jedes Paket Quelle und Ziel kennt. Das Privatssphäreniveau ist im existierenden Internet so aktuell nicht vorhanden.
 IP-Adressen werden mit öffentlichen Schlüsseln ersetzt damit den Datenverkehr zu einem Ziel auslesen kann, ohne den zugehörigen privaten Schlüssen, der das Ziel eindeutig identifiziert, zu kennen. Das System braucht keine Drittparteien oder Zertifizierungsstellen. Dieses Design ist eine Revolution.
 
-> sind die nicht-zirkulierenden Coins in einem Offline-Wallet, da sich laut Coinmarketcap (CMC) zurzeit nur eine kleine Menge im Umlauf befindet?
+> Sind die nicht-zirkulierenden Coins in einem Offline-Wallet, da sich laut Coinmarketcap (CMC) zurzeit nur eine kleine Menge im Umlauf befindet?
 
 Die Coins sind in 100 verschiedenen Addressen verschlossen, jede versehen mit 1 Millionen Coins. Sie werden nacheinander freigegeben. Es gibt eine komplizierte Verschlussprozedur und das Freigeben von neues Coins benötigt die einstimmige Zustimmung und ein unter den Entwicklern geteiltes Geheimnis. Jeder in der Gruppe dieses geteilten Geheimnisses kann die Freigabe von neuen Coins blockieren (um das Problem das NXT gekillt hat zu verhindern). Schon im Entwurf sollte es schwierig sein die Coins zu verteilen, es muss einen guten Grund oder Rechtfertigung für eine genehmigte Verteilung geben.
 
@@ -188,7 +187,7 @@ Wie viele Transaktionen pro Sekunde (tx/s) kann Skycoin verarbeiten? Wie lange i
 300 richtig? ^
 
 **arc-over-water**
-Auf euerer Website sagt ihr, ihr werden eine nicht-turing-vollständigen Lisp-Dialekt haben?
+Auf eurer Website sagt ihr, ihr werden eine nicht-turing-vollständigen Lisp-Dialekt haben?
 
 **synth**
 
@@ -200,63 +199,65 @@ Die Coinbesitzer erhalten zudem eine Coinhour-Dividende (Coinstundendividende) u
 Es ist also eine zweischichtige Ökonomiestrukture. Mit Coinrückkäufen Coins aus der Zirkulation zu ziehen und mittels der Dividende einen Ansporn für die User geben, den Coin nicht zu verkaufen, wenn sie das Netzwerk verwenden.
 
 **arc-over-water**
-so there will be two currencies, holding one reserves the other
+Es wird also zwei Währungen geben, die eine zu Besitzen wird einem Einkünfte in der Anderen geben.
 
 **synth**
 
-> Is it possible for Skycoin to choose the best paths and route around bad or slow nodes as damage to the network
+> Ist es Skycoin möglich die besten Pfade und Route um schlechte oder langsame Knoten, welche das Netzwerk beschädigen, zu suchen um deren Einfluss auf den Konsens zu verringern?
 
-Yes. This is very important.
-The person dialing a connection, chooses the path of the connection!
-You can choose the lowest latency path for video games or Skype, and choose highest throughput paths for video downloads etc. Or can choose paths through specific nodes or facilities or countries, for security concerns and to minimize the number of points that the traffic could be intercepted at.
+Ja. Das ist sehr wichtig.
+Die Person, welche die Verbindung aufbaut wählt den Pfad der Verbindung!
+Man kann den Pfad mit der geringsten Latenzzeit für Videospiele oder Skype wählen, oder Pfade mit der höchsten Durchsatzrate für Videodownloads etc. 
+Man kann auch Pfade wählen, welche über spezifische Knoten, Einrichtungen oder Länder gehen, sofern man Sicherheitsbedenken hat oder um die Anzahl der potentiellen Abhörstellen zu verringern.
 
 **mike**
-Will Skycoin still have the node subsidy plan for setting up and registering the mesh nodes like originally planned?
+Wird Skycoin den Subventionsplan für das Einrichten und Registrieren der Mesh-Knoten, wie ursprünglich geplant, beibehalten?
 
 **dr10**
-When do you plan to be able to present your planned technology and services to the masses? When can they use what you try do accomplish?
+Wann plant ihr eure geplante Technologie und Service der breiten Masse vorzustellen? Wann kann man benutzen was ihr versucht umzusetzen?
 
 **synth**
 
-> on your website it says you will have a NON- Turing complete lisp language?
+> Auf eurer Website sagt ihr, ihr werden eine nicht-turing-vollständigen Lisp-Dialekt haben?
 
-That is probably an error. LOL. We will have a new website soon.
-There is no scripting language on the skycoin blockchain. Each transaction is constant time (for efficiency and security and to achieve the highest transaction rate and to keep the coin simple).
-However, we have a language called CX in development, which is a next generation language that is beyond "smart contracts" and the toy things on ethereum. It uses immutable datastructures and is something completely new. Most of the skycoin "smart contracts" will probably be off blockchain or in personal blockchains and we do not want to shove all the data onto the main chain, because forcing everyone to download everyone one elses contracts it the world is just spamming the blockchain to death. There are better ways to do it.
+Das ist vermutlich ein Fehler. LOL. Wir werden bald eine neue Website haben.
+Es gibt keine Skriptsprache auf der Skycoin-Blockchain. Jede Transaktion findet in konstanter Zeit statt (aus Effizienz und Sicherheitsgründen und um die höchste Transaktionsrate zu erreichen, sowie um den Coin einfach zu halten).
+Jedoch haben wir eine Sprache mit dem Namen CX in Entwicklung, welche eine Sprache der nächsten Generation ist und über "smart contracts" und die Spielsachen von Ethereum hinaus geht. Sie verwendet unveränderbare Datenstrukturen und ist etwas fundamental neues. Die meißten der Skycoin "smart contracts" werden vermutlich abseits der Blockchain oder in persönlichen Blockchains stattfinden, denn wir wollen nicht alle Daten in die Haupt-Chain stopfen, weil sonst jeder dazu gezwungen wird die Verträge von anderen herunterzuladen und das ist schlichtweg nur ein Zuspammen der Blockchain bis zum Tode. 
+Es gibt klügere Wege um das zu tun.
 
-> Will Skycoin still have the node subsidy plan for setting up and registering the mesh nodes like originally planned?
+> Wird Skycoin den Subventionsplan für das Einrichten und Registrieren der Mesh-Knoten, wie ursprünglich geplant, beibehalten?
 
-Yes. We are going to get from 20% to 30% distributno of the coins, through network incentives for people running Skywire nodes, consensus nodes and services.
-I think this is going to be massive for marketing. And it is the best way to get the coins out to the users, instead of all the coins being held by whales
+Ja. Wir werden in etwa 20-30% der Coindistribution erreichen, durch Netzwerkanreize für die Leute Skywire-Knoten, Konsensus-Knoten und Services laufen zu lassen.
+Ich denke das wird gewaltig für das Marketing sein. Dazu kommt, dass das der beste Weg ist die Coins an die User zu verteilen, ohne dass alle von einigen wenigen Walen besessen werden.
 
 **samuelvihollandia**
-I read how you suggest Skycoin could be used for VPN connections, is this the largest use case you see?
+Ich habe gelesen wie du vorgeschlagen hast, dass Skycoin für VPN-Verbindungen verwendet werden kann, ist das der größte Anwendungsfall?
 
 **arc-over-water**
-Maidsafe has been working on the redesign of the net for about ten years, what are you doing the same and what different?
+Maidsafe arbeitet seit über 10 Jahren an dem Neudesign des Internets, was macht ihr gleich und was sind die Unterschiede?
 
 **synth**
 
-> I read how you suggest Skycoin could be used for VPN connections, is this the largest use case you see?
+> Ich habe gelesen wie du vorgeschlagen hast, dass Skycoin für VPN-Verbindungen verwendet werden kann, ist das der größte Anwendungsfall?
 
-No. This is just something easy, that we have working. Its not the largest applicatoin at all.
-80% of internet traffic right now is bitorrent and the bitorrent sites are being systematically shutdown and driven off the internet. They wont go away, but will jut go underground. What.cd (largest music tracker, with 800k people) was just shut down, bakabt (largest anime tracker) has gone closed registration, Nyantorrent etc...
-User communities of millions of people will be migrating from the clearnet (the existing corporate shit-net) to the "new internet". We are going to see people migrating by the millions, whole user communities of millions of people.
+Nein. Das ist nur etwas simples an dem wir gearbeitet haben. Es ist bei weitem nicht der größte Anwendungsfall.
+80% des Internetstraffic zur Zeit ist bedingt durch Bitorrent und Bitorrent-Seiten werden systematisch abgeschalten und aus dem Internet vertrieben. Sie werden nicht verschwinden aber untertauchen. 'What.cd' (die größte Musiksuche, mit 800k Mitgliedern) wurde zuletzt abgeschaltet, bakabt (größte Animesuche) hat die Registrierung geschlossen, Nyantorrent etc...
+Community mit mit Mitgliedern in Millionenhöhe werden vom Clearnet (das existierende Unternehmens Shit-Net) zum "neuen Internet" migrieren. Wir werden die Migration von Millionen von Leuten beobachten, ganze Communities von Millionen von Leuten.
 
 **arc-over-water**
-Are you a corporation or foundation or charity? Registered? I am not sure i have seen anything about who you are? What is the dev team size? Background? - Maidsafe is open and clear so is IOTA and Stellar etc. Can you let us know who you and your team are? Especially you are talking about 15 year and up obligations..
+Seid ihr ein Unternehmen, eine Stiftung oder eine Charity? Registriert? Ich bin mir nicht sicher etwas gelesen zu haben, wer ihr seid? Wie groß ist die Teamgröße? Hintergründe? - Maidsafe ist offen und transparent, genau wie IOTA und Stellar etc. Kannst du uns wissen lassen, wer du und dein Team seid? Gerade deshalb, weil du von 15 Jahren und mehr an Verpflichtungen sprichst...
 
 **techbytes**
-Do we need to hold skycoin to run Skywire nodes or consensus nodes like masternodes from other coins?
+Müssen wir Skycoin besitzen um Skywire-Knoten oder Konsensus-Knoten, wie Masterknoten bei anderen Coins, laufen zu lassen?
 
 **synth**
 
-> Maidsafe has been working on the redesign of the net for about ten years, what are you doing the same and what different?
+> Maidsafe arbeitet seit über 10 Jahren an dem Neudesign des Internets, was macht ihr gleich und was sind die Unterschiede?
 
-Maidsafe is in version 2 or 3. Maidsafe will not have a real coin until version 9. Each version takes them about two or three years. Maidsafe will not be "done" or ready for atleast 18 years at this rate.
-Skycoin has been in development for ~6 years and the meshnet for 4 years and it will be finished in a few months. To the poin that people can start using it.
-Skycoin is similar to maidsafe in the objective, but has a different approach and architecture and primitives. We did not try to do everything, but focused on a smaller, tractable core and got that done.
-There will be multiple projects in this space, but few teams are able to plan on the time horizon necisary for building a new internet or able to design each of the components of a system this large, or figure out how to do it so that it is useful at each stage of construction of a project that may take a decade. (edited)
+Maidsafe ist aktuell in der zweiten oder dritten Version. Maidsafe wird keinen richtigen Coin bis zur neunten Version haben. Jede Version kostet sie in etwa zwei oder drei Jahre. Bei der Geschwindigkeit wird Maidsafe für die nächsten 18 Jahre nicht "fertig" werden.
+Skycoin ist seit ~6 Jahren in der Entwicklung, das vermaschte Netz seit 4 Jahren und wird in einigen Monaten fertig sein. Bis zu dem Punkt, dass Leute es tatsächlich verwenden können.
+Skycoin ist in der Zielsetzung Maidsafe ähnlich, hat aber einen anderen Ansatz, andere Architektur und andere Primitive. Wir haben nicht versucht alles zu tun, sondern haben uns auf ein kleines Gebiet, ein nachverfolgbaren Kern fokussiert und diesen fertiggestellt.
+Es wird in diesem Gebiet mehrere Projekte geben, aber nur wenige Teams sind dazu fähig den notwendigen Zeitplan zu schaffen um ein neues Internet aufzubauen, oder um die Komponenten eines Systems dieser Größe zu designen, oder um herauszufinden wie man es umsetzen kann, sodass es in jeder Phase seiner Konstruktion nützlich ist, in einem Projekt, dass ein Jahrzehnt zur Umsetzung benötigen könnte. (Bearbeitet)
 
 **mike**
 Can you see a way for Ark and Skycoin to build on each other in a synergistic manner? I'm all for not reinventing the wheel, especially when it looks like it will be replaced with antigravity like Skycoin.
