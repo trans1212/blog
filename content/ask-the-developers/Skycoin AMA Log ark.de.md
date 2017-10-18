@@ -260,27 +260,28 @@ Skycoin ist in der Zielsetzung Maidsafe ähnlich, hat aber einen anderen Ansatz,
 Es wird in diesem Gebiet mehrere Projekte geben, aber nur wenige Teams sind dazu fähig den notwendigen Zeitplan zu schaffen um ein neues Internet aufzubauen, oder um die Komponenten eines Systems dieser Größe zu designen, oder um herauszufinden wie man es umsetzen kann, sodass es in jeder Phase seiner Konstruktion nützlich ist, in einem Projekt, dass ein Jahrzehnt zur Umsetzung benötigen könnte. (Bearbeitet)
 
 **mike**
-Can you see a way for Ark and Skycoin to build on each other in a synergistic manner? I'm all for not reinventing the wheel, especially when it looks like it will be replaced with antigravity like Skycoin.
-I see Skycoin as essentially replacing TCP/IP and providing mesh network type functionality at the hardware level, Ark would run on top of it as a top level application layer.
+Kannst du einen Weg sehen, wie Ark und Skycoin aufeinander, in einer synergistischen Art, aufbauen können? Ich bin absolut dafür das Rad nicht neu zu erfinden, besonders wenn es mit etwas wie Skycoin ersetzt werden soll.
+Im Grunde genommen sehe ich Skycoin als Ersetzung des TCP/IP, sowie der Bereitstellung von Mesh-Netzwerk-Funktionaltität auf Hardwareebene. Ark würde darüber als eine Art Top-Anwendungsschicht laufen.
 
 **arc-over-water**
-are you up to date on Maidsafe, they are nearly out of Alpha and its more like release early next year? But that being said, Maidsafe says once it is released it is like a virus or AI type, so does Tau Chain, and also Autonomic by HunterMinerCrafter, are we heading towards AI with Maid, Sky Tau and Autonomic?
+Bist auf dem Stand der Dinge bezüglich Maidsafe, sie sind fast aus der Alpha draußen und es sieht mehr so aus, als ob sie zu Beginn des nächsten Jahres releasen würden? Im gleichen Zuge sagt Maidsafe, dass es wie ein Virus oder eine Art autonome artifizielle Intelligenz, Tau Chain ebenso, sowie HunterMinerCrafter - sind wir auf dem Wege zu einer artifiziellen Intelligenz mit Maid, Sky, Tau und Autonomic?  
 
 **dr10**
-smartbridge now! :kappa:
+Smartbridge, sofort! :kappa:
 
 **mike**
-So Skycoin would act as a sort of global decentralized cloud server to build on top of.
-To communicate, it is more like sharing encrypted files to selected recipients than it is sending messages or hosting sites on a specific server.
+Skycoin würde also als eine Art dezentral globaler Cloudserver  sein, auf den man aufbauen könnte.
+Um zu kommunizieren ist es mehr so als ob man verschlüsselte Dateien zu ausgewählten Rezipienten senden, als dass man Nachrichten verschickt, oder Seiten auf einem spezifischen Server hostet.
 
 **synth**
 
->Are you a corporation or foundation or charity? Registered? I am not sure i have seen anything about who you are? What is the dev team size? Background?
+> Seid ihr ein Unternehmen, eine Wohltätigkeitsorganisation oder eine Stiftung? Ich bin mir nicht sicher ob ich etwas darüber gelesen habe wer ihr seid ? Wie groß ist die Entwicklerteamgröße? Hintergründe?
 
-I think there are over ~60 people who have worked on Skycoin or have made major contributions. Its really a project from the darknet.
-Many of the contributors are anonymous. Some of them have security clearances and were in the military industrial complex and one of them worked at the San Diego Naval Defence Research Lab and a lot of the idea for the networking protocols came out of public sector academic researched, funded from there.
+Ich denke es gibt über ~60 Leute, welche an Skycoin mitgearbeitet haben oder wesentliche Beiträge geleistet haben. Es ist regelrecht ein Projekt, dass aus dem Darknet stammt. 
+Viele der Mitwirkenden sind anonym. Einiige von ihnen unterliegen verschiedenen Sicherheitsfreigaben und waren im industriellen militärischen Komplex tätig, einer von ihnen hat am 'San Diege Naval Defence Research Lab' gearbeitet und viele der Ideen für die Netzwerkprotokolle stammen aus dem öffentlichen Sektor der akademischen Forschung, welche auch durch diesen finanziert worden sind.
+Wir haben also einige der sehr frühen Bitcoin-Leuten, hardcore-crypto Leute, welche aus der Zeit der Bitcoinentwicklung und der Ethereum-Kern-Entwicklung stammen, etc...
+Auf der chinesischen Seite haben wir frühzeitige Investoren, einer in Alibaba und einer in Telecom. Zudem haben wir ein Pilot-Projekt mit einem mit einer chinesischen Luftfahrtkonzern, welche vier öffentlich gehandelte Fluggesellschaften besitzt und scheinbar jetzt auch Sinopec, welches das zweitgrößte, öffentlich gehandelte Unternehmen auf der Welt ist. 
 We also have a lot of very very early Bitcoin people, hardcore crypto people that predate Bitcoin and an Ethereum core developer, etc..
-On the Chinese side we have an early investor in Alibaba and telecom investor. And are doing pilot with china aviation group (owns four publicly traded airline companies) and apparently now Sinopec (which is 2nd largest publicly traded corporation in world).
 Then we have people who are part of israeli and US intelligence and are probably doing some sort of money laundering or phychological operations background, who just showed up for some reason. This group seems very interested in the "applications" of these coins and how to improve tranaction privacy and the specifics of the CoinJoin protocol implementation. We got a lot of advice from people experienced in forensic accounting and what they wanted to see and where they felt Bitcoin was deficient and where it leaked metadata.
 Then a bunch of PHD level people doing research into distributed database consensus algorithms and another group doing programming language research.
 Then a lot of people from the deep darknet, anon, frog twitter and cipher punks and bitorrent communities. (really should be listed as two seperate groups). And people from the Russian darknet community. We have like eight Ivans. (edited)
