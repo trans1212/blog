@@ -281,47 +281,51 @@ Ich denke es gibt über ~60 Leute, welche an Skycoin mitgearbeitet haben oder we
 Viele der Mitwirkenden sind anonym. Einiige von ihnen unterliegen verschiedenen Sicherheitsfreigaben und waren im industriellen militärischen Komplex tätig, einer von ihnen hat am 'San Diege Naval Defence Research Lab' gearbeitet und viele der Ideen für die Netzwerkprotokolle stammen aus dem öffentlichen Sektor der akademischen Forschung, welche auch durch diesen finanziert worden sind.
 Wir haben also einige der sehr frühen Bitcoin-Leuten, hardcore-crypto Leute, welche aus der Zeit der Bitcoinentwicklung und der Ethereum-Kern-Entwicklung stammen, etc...
 Auf der chinesischen Seite haben wir frühzeitige Investoren, einer in Alibaba und einer in Telecom. Zudem haben wir ein Pilot-Projekt mit einem mit einer chinesischen Luftfahrtkonzern, welche vier öffentlich gehandelte Fluggesellschaften besitzt und scheinbar jetzt auch Sinopec, welches das zweitgrößte, öffentlich gehandelte Unternehmen auf der Welt ist. 
-We also have a lot of very very early Bitcoin people, hardcore crypto people that predate Bitcoin and an Ethereum core developer, etc..
-Then we have people who are part of israeli and US intelligence and are probably doing some sort of money laundering or phychological operations background, who just showed up for some reason. This group seems very interested in the "applications" of these coins and how to improve tranaction privacy and the specifics of the CoinJoin protocol implementation. We got a lot of advice from people experienced in forensic accounting and what they wanted to see and where they felt Bitcoin was deficient and where it leaked metadata.
-Then a bunch of PHD level people doing research into distributed database consensus algorithms and another group doing programming language research.
-Then a lot of people from the deep darknet, anon, frog twitter and cipher punks and bitorrent communities. (really should be listed as two seperate groups). And people from the Russian darknet community. We have like eight Ivans. (edited)
-> I see Skycoin as essentially replacing TCP/IP and providing mesh network type functionality at the hardware level, Ark would run on top of it as a top level application layer.
+Darüber hinaus sind Leute an Bord aus der 'United States Intelligence Community' sowie der 'Israeli Intelligence Community', welche eine Art Geldwäsche betreiben oder eine andere Art psychologischer Untergrundoperation und aus irgendeinem Grunde aufgetaucht sind. Diese Gruppe ist sehr interessiert and den 'Anwendungen' dieser Coins und wie man Transaktionsprivatsshpäre verbessern kann, sowie der Spezifikation der CoinJoin-Protokoll-Implementierung.
+Wir haben viele Ratschläge & Anforderungen von Leuten, die im 'forensic Accounting' (forensische Buchhaltung) tätig sind, erhalten und sie haben uns mitgeteilt inwiefern Bitcoin unzureichend ist in der Form, dass Metadaten preisgegeben werden.
+Außerdem gibt es einige Doktoranden, welche Forschung in der Richtung der verteilten Datenbankenkonsensusalgorithmen betreiben und eine andere Gruppe forscht and Programmiersprachen. 
+Dazu kommen viele Leute aus den Tiefen des Darknet, anonyme Personen, Frog, Twitter und Cypherpunk sowie aus der Bittorrent-Community (sollte eigentlich als zwei separate Gruppe aufgezählt werden). Nicht zu vergessen die Leute aus der russischen Darknet-Community. Wir haben ungefähr acht Ivans. (edited.)
 
-Yes. The key functionality is two things - connecting to people by public key (networking) - distributing self validating, immutble data peer to peer (transactions, blocks etc... content addressible storage)
-And you can build almost anything on those two building blocks. The whole internet will eventually be rewritten on top of those primitives and it will replace many of the existing protocols.
+> Im Grunde genommen sehe ich Skycoin als Ersetzung des TCP/IP, sowie der Bereitstellung von Mesh-Netzwerk-Funktionaltität auf Hardwareebene. Ark würde darüber als eine Art Top-Anwendungsschicht laufen.
+
+Ja. Die Kernfunktionalität sind zwei Dinge - Verbindung von Leuten via öffentlichem Schlüssel (public key networking) - verteilen von sich selbstvalidierenden, unveränderbaren Daten von Peer-to-Peer (Transaktionen, Blöcke, etc... Inhaltsaddressierbarer Speicher).
+Man kann fast alles auf diesen beiden Blöcke bilden. Das ganze Internet wird schlussendlich, aufgebaut auf diesen Primitiven, neugeschrieben werden und die bisher exisitierenden Protokolle ersetzen.
 
 **arc-over-water**
-Who is the entity that is funding this? I think you have done 2 ICOs? How much did you receive? The first was 10c and the second was @ 50c per coin, released 6 million, is that correct?
+Wer ist die Organisation die das finanziert? Ich glaube ihr habt zwei ICOs gemacht? Wie viel habt ihr erhalten? Es wurden 6 Millionen Coins freigegeben und die Erste war bei 10ct pro Coin angesetzt und die Zweite bei 50ct pro Coin, stimmt das ?
 
 **samuelvihollandia**
-Are you planning to enter a different exchange market soon?
+Plant ihr in nächster Zeit auf weiteren Exchange-Seiten gelistet zu werden?
 
 **arc-over-water**
-Have you personally been in Sky from the start? What members have? Who allocates the ICO money etc... I hope you understand that decentralization with investment is a two edged sword, we invest in people but we cannot know these people.... So... we question.. (edited)
+Bist du persönlich in Skycoin von Anfang an involviert gewesen? Wieviel besitzen die Mitglieder/Entwickler? Wer alloziiert die ICO-Geldmenge etc... Ich hoffe du verstehst das Dezentralisierung mit Investitionen ist ein zweiseitiges Schwert, wir investieren in Leute, können diese aber nicht kennen... also... fragen wir. (edited)
 
 **thrice.pi**
-with all these outside parties that helped to build skycoin and bring it where it is today who are the main core team who will help to keep all these cool features running. Will these outside parties be recruited for the long haul?
+Mit all diesen außenstehenden Parteien, die helfen Skycoin zu schreiben und es an den Punkt, an dem es heute ist zu bringen, wer ist der Kern des Teams und wer wird helfen all diese coolen Funktionen am laufen zu halten zu halten? Werden diese außenstehenden Parteien langfristig rekrutiert werden?
 
 **synth**
 
-> Who is the entity that is funding this? I think you have done 2 ICOs? How much did you receive? The first was 10c and the second was @ 50c per coin, released 6 million, is that correct?
+> Wer ist die Organisation die das finanziert? Ich glaube ihr habt zwei ICOs gemacht? Wie viel habt ihr erhalten? Es wurden 6 Millionen Coins freigegeben und die Erste war bei 10ct pro Coin angesetzt und die Zweite bei 50ct pro Coin, stimmt das ?
 
-The people who funded the project for the first four years, were early bitcoin and deep crypto people; who were unhappy with the fact that Bitcoin and the other alts did not seem concerned about the core issues at all. They gave us over 1200 bitcoin I think, over several years and did not ask for anything in return.
-The early Skycoin devs were doing academic research, architecture and new algorithms. Prototyping and simulation. The later stage people were more project managers and doing implementation.
-We did four ICOs for small amounts, to fund development and to allow developers working on the project to buy in. The first ICO I remember was at $0.10 per coin and the price now is about $4.00 per coin, so its up ~35x or 40x, but when you consider the Bitcoin price going from $100 to $3000, the increase has not been so much. lol (edited)
+Die Leute, die das Projekt für die ersten vier Jahre finanziert haben, waren frühzeitige Bitcoin-Leute und sehr überzeugte Crypto-Leute, welche unglücklich darüber waren, dass Bitcoin und die anderen Altcoins die Probleme nicht ernstnahmen. Sie haben uns über 1200 Bitcoin im Laufe der Jahre gegeben und wollten nichts als Gegenleistung sehen.
+
+Die ursprünglichen Skycoin-Entwickler haben akademische Forschung betrieben bezüglich der Architektur von neuen Algorithmen. Protoypen und Simulation. Die spätere Stufe waren mehr Projektmanager und Leute die die Implementierung vollführt haben.
+Wir haben vier ICOs mit kleineren Mengen durchgeführt um die Entwicklung zu finanzieren und um den Entwicklern, die an dem Projekt arbeiten, die Möglichkeit zu geben sich einzukaufen.
+Ich erinnere mich, dass die erste ICO bei $0.10 pro Coin war und der Preis jetzt ist in etwa $4.00 pro Coin, also ist der Kurs etwa ~35x oder 40x gestiegen, aber wenn man bedenkt, dass der Preis von Bitcoin von $100 zu $3000 gestiegen ist, ist die Zunahme nicht so groß. Lol. (edited)
 
 **arc-over-water**
-With the price up 35x in about 1 year, is it not now time to cool the run up and release another ICO? At what amount of coins released and what procedure?
+Mit dem Anstieg des Preises um das 35x in etwa einem Jahr, ist jetzt nicht die Zeit um den Anstieg abzuflachen und eine weitere ICO stattfinden zu lassen? Mit welcher Menge an releasten Coins und mit welcher Methode? 
 
 **mike**
-Would Intel Edison or Joule, or Samsung Artik 10 work well as a Skywire wireless node? They have 2 Gb-8 Gb RAM, 8-64 Gg eMMC storage, 802.11n wireless, bluetooth, and some with Zigbee?
+Würden Intel Edison, Joule oder Samsung Artik 10 gut als Skywire Wireless-Knoten funktionieren? Sie haben 2Gb-8Gb RAM, 8-64 Gg eMMC Speicher, 802.11 Wireless, bluetooth und einige mit Zigbee?
 
 **synth**
 
->Have you personally been in Sky from the start? What members have? Who allocates the ICO money etc... I hope you understand that decentralization with investment is a two edged sword, we invest in people but we cannot know these people.... So... we question.
+> Bist du persönlich in Skycoin von Anfang an involviert gewesen? Wieviel besitzen die Mitglieder/Entwickler? Wer alloziiert die ICO-Geldmenge etc... Ich hoffe du verstehst das Dezentralisierung mit Investitionen ist ein zweiseitiges Schwert, wir investieren in Leute, können diese aber nicht kennen... also... fragen wir.
 
-I think there wer three different groups that merged together in first three years, that had similar objectives. Because the code was in different language. There was python, C code and then eventually golang and the golang code became the basis for the current codebase.
-The way the coin allocations work, is that it requires unamimious consent for releasing coins and it has to be for a specific, ear marked purpose and can be blocked by any of the devs.
+Ich denke es gab drei verschiedene Gruppen, die innerhalb der ersten drei Jahre verschmolzen sind und ähnliche Zielvorstellungen hatten. Der Code war in verschiedenen Sprachen verfasst. Es gab Python, C-Code und schließlich Golang und der Golang-Code wurde die Basis für den aktuellen Code.
+Die Coin-Alloziierung funktioniert auf folgende Art und Weise, es ist eine einstimmige Zustimmung für den Release von Coins nötig, es muss für einen spezifischen Einsatz sein und es kann von jedem der Entwickler blockiert werden.
+
 Then there is a pool of coins in bitcoin for various project managers to allocate. And that is an operational fund for paying developers, contractors, marketing etc. Then different people have different responsibilities.
 Then we also have corporate funding and sponsorship and some companies paying our full time devs etc, which helps a lot.
 
