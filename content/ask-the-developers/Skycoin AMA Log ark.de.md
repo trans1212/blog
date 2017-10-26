@@ -326,128 +326,120 @@ Würden Intel Edison, Joule oder Samsung Artik 10 gut als Skywire Wireless-Knote
 Ich denke es gab drei verschiedene Gruppen, die innerhalb der ersten drei Jahre verschmolzen sind und ähnliche Zielvorstellungen hatten. Der Code war in verschiedenen Sprachen verfasst. Es gab Python, C-Code und schließlich Golang und der Golang-Code wurde die Basis für den aktuellen Code.
 Die Coin-Alloziierung funktioniert auf folgende Art und Weise, es ist eine einstimmige Zustimmung für den Release von Coins nötig, es muss für einen spezifischen Einsatz sein und es kann von jedem der Entwickler blockiert werden.
 
-Then there is a pool of coins in bitcoin for various project managers to allocate. And that is an operational fund for paying developers, contractors, marketing etc. Then different people have different responsibilities.
-Then we also have corporate funding and sponsorship and some companies paying our full time devs etc, which helps a lot.
+Außerdem gibt es einen Pool an Bitcoin, den die jeweiligen Projektmanager zu verteilen haben. Das Geld ist dazu da, um Entwickler, Lieferanten und Marketing etc. zu bezahlen. Verschiedene Leute tragen unterschiedliche Verantwortlichkeiten. Zudem verfügen wir über Unternehmensförderung und Sponsoring, sowie einige Unternehmen, welche unsere Vollzeit-Entwickler bezahlen etc., was große Erleichterung mit sich bringt.
 
 **arc-over-water**
-Silicon Valley (TV SHOW) recently had their decentralized web running on a network or refrigerators? So i would guess, smart phones, smart gadgets? Home gadgets etc could add services and receive rewards from Sky?
+Silicon Valley hatte kürzlich ein dezentrales Internet auf einem Netzwerk aus Kühlschränken am laufen gehabt? Ich schätze also Smartphones, Smartgadgets? Home-Gadgets etc. könnten Netzwerk-Service anbieten und Sky als Belohnung erhalten?
 
 **mike**
-best would be a totally open source and publicly audited manufactured system on a chip for the nodes to prevent any backdoors. Even chip designers now don't really know what they're putting into the chips since they just drag and drop black boxes known as IP cores into the ASIC designs.
+Das Beste wäre ein völlig frei verfügbares System auf einem Chip für die Knoten, dass öffentlich geprüft wird um eventuelle Hintertüren zu verhindern. Sogar Chip-Designer wissen heutzutage nicht mehr wirklich was sie in ihre Chips packen, da sie einfach aus uneinsichtigem Sortiment, bekannt als IP-Cores, die Chips in das ASIC-Design implementieren.
 
 **synth**
 
->With the price up 35x in about 1 year, is it not now time to cool the run up and release another ICO? At what amount of coins released and what procedure?
+> Mit dem Anstieg des Preises um das 35x in etwa einem Jahr, ist jetzt nicht die Zeit um den Anstieg abzuflachen und eine weitere ICO stattfinden zu lassen? Mit welcher Menge an releasten Coins und mit welcher Methode? 
 
-I think the Skycoin price has been doubling every 40 days, for as long as I can remember. However, it will still be years before it is in the top 20, its still a long way to climb. It took bitcoin years to go from 0 to $1, even though it was growing at 1% per day the whole time for six years.
+Ich denke der Skycoinpreis hat sich alle 40 Tage verdoppelt, solange ich mich zurückerinnern kann. Wie auch immer, es wird trotzdem Jahre brauchen bevor er in den Top20 sein wird, es ist ein langer Aufstieg. Bitcoin hat Jahre gebraucht um von 0 zu $1 zu kommen, obwohl er mit 1% Wachstum pro Tag für sechs Jahre lang gewachsen ist.
 
-> best would be a totally open source and publicly audited manufactured system on a chip for the nodes to prevent any backdoors.
+> Das Beste wäre ein völlig frei verfügbares System auf einem Chip für die Knoten, dass öffentlich geprüft wird um eventuelle Hintertüren zu verhindern.
 
-we are going to use arm
+Wir werden ARM verwenden.
 
 **arc-over-water**
-IOTA is also working on their own hardware for nodes etc, Trinary asset is JINN
+IOTA arbeitet ebenso an ihrer eigenen Hardware für Knoten etc. Trinärvorteil ist JINN.
 
 **synth**
-all intel and AMD systems have remote management engine backdoors. So they are not safe for storing large amounts of coins.
-We also have alpine linux and special version of linux, that is 6 MB and has everything that is needed for running our toolchain. It will not have any binary blobs in the kernel or anything that we cant compile from source. It does not have systemd and does not have gli, but uses musl. And does not have openssl.
+Alle Intel und AMD-Systeme haben per remote bedienbare Hinterüren. Sie sind also nicht sicher um große Mengen an Coins zu speichern. Wir haben zudem Alpine-Linux und eine spezielle Version von Linux, die 6MB groß ist und alles nötige besitzt um unsere Toolchain auszuführen. Es wird keine binäre Überbleibsel im Kernel haben oder irgendetwas, was wir nicht direkt aus der Quelle kompilieren können. Es hat kein systemd und kein GLI, aber verwendet MUSL (Standard C-Bibliothek um Betriebsysteme auf Linux-Basis zu betreiben; lizenziert vom MIT). Ebenso verfügt es nicht über OpenSSL.
 
 **mike**
-so looks like the Samsung Artik 5 and 10 can run it no problem, they're ARM based. 25x35x4mm package for the Artik 10, Artik 5 is smaller, less powerful but has 2 separate antenna ports, nice for mesh networking with an omni and a directional antenna.
+Sieht also so aus, als ob der Samsung Artik 5 und 10 keine Probleme mit dem Ausführen haben werden, da beide ARM basiert sind. 25x35x4mm Paket für den Artik 10, der Artik 5 ist kleiner, besitzt weniger Leistung aber hat zwei separate Antennenschnittstellen, was für Meshnetzwerke, welche eine omnidirektionale und eine gerichtete Antenne verwenden.
 
 **earlyarkinvestor**
-how does Ark compare to Lisk?
+Wie lässt sich Ark mit Lisk vergleichen?
 
 **synth**
-uploaded this image: 1923810435.jpg Add Comment
+Hat dieses Bild hochgeladen: 1923810435.jpg Füge Kommentar hinzu.
 
 **earlyarkinvestor**
-isn't Lisk trying to achieve interoperability between blockchains as well
+Möchte Lisk nicht ebenso Interoperabilität zwischen Blockchains erreichen?
 
 **synth**
-uploaded this image: 1433594905.jpg Add Comment
+Hat dieses Bild hochgeladen: 1433594905.jpg Füge Kommentar hinzu.
 
 **synth**
-uploaded this image: 1432540863.jpg Add Comment
+Hat dieses Bild hochgeladen: 1432540863.jpg Füge Kommentar hinzu.
 
 **synth**
-uploaded this image: 2049465686.jpg Add Comment
+Hat dieses Bild hochgeladen: 2049465686.jpg  Füge Kommentar hinzu.
 
 **mike**
-nice! looks like an ARM based server rack
-let me know if you need any help with it, see you're on solidworks, which I run as well.
+Start! Sieht aus wie ein ARM basiertes Serverrack. Lass mich wissen wenn du Hilfe damit brauchst, ich sehe, dass du mit solidworks arbeitest, die habe ich auch am laufen.
 
-**synth**
-this is the skycoin cluster; it has 8 CPU boards; 4 cores per CPU, 2 GB of ram per CPU and 64 bit ARM processor. Only one program will run on each individual board, so there is compartmentalization and a physical gap so that compromising one process on a system does no allow all other processes on the system to be compromised
-
-**mike**
-looks like 2 ethernet ports per board.
-
-**synth**
-and the hardware does not have the qualcom backdoors and is actually chinese equipment; and the backdoors are normally at the kernel level because they are not at hardware backdoors yet
-lol
+**synth** 
+Das ist der Skycoin-Cluster; es hat 8 CPU Boards; 4 Kerne pro CPU, 2 GB Arbeitsspeicher pro CPU, welche 64 Bit ARM-Prozessoren sind. Nur ein einziges Programm wird auf jedem Board laufen, es ist also Kompartimentierung und eine physische Lücke vorhanden, was dazu führt, dass das Kompromittieren eines einzelnen Systems nicht die Möglichkeit bietet, alle anderen Prozesse auf dem System zu kompromittieren.
 
 **mike**
-do they have SATA ports, maybe M.2 for storage?
+Schaut nach 2 Ethernet-Ports pro Board aus.
 
 **synth**
-and we will hav an ARM openwrt router eventually too
-this model does not have SATA, but we have a model with SATA; you could hook up 16 2 TB drives, lol and download half the piratebay to your cluster (edited)
-the skycoin infrastructure is cluster based and designed for running across +300 computers, with one "node" deployed per computer. Eithe a CXO storage node, or a skywire SDN/meshnet node, or a VPN end point node or a consensus network, or skycoin node, etc. We have multiple node/application types.
-so this is a "personal cloud' by itself
-its not like StoreJ where you have other people storing your stuff; you are going to have ~5 clusters and 300 computers and can store your own files, on your own internet, on your own hardware. You do not need to go outside of your own network.
+Die Hardware hat außerdem nicht die Qualcom-Hintertüren und ist von Haus aus chinesisches Equipment; die Hintertüren sind normalerweise auf Kernelebene, weil sie noch nicht auf Hardwareebene implementiert werden. 
+Lol.
 
 **mike**
-Have thought it'd be nice to have a board with an array of M.2 sockets to run SSD arrays without all the cables, have the busses shielded in circuit board.
+Haben sie SATA-Ports, vielleicht für M.2-Speicher?
 
 **synth**
-yes, i think there will be m.2 eventually
-these actually use a microSSD for storage, and its 48MB/s
+Wir werden letztendlich einen ARM OpenWrt haben. Dieses Model hat keinen SATA-Anschluss, aber wir eins mit SATA-Anschluss; man könnte bis zu 16 2 TB Platten anschließen, lol und das halbe Piratebay in sein Cluster downloaden (bearbeitet). 
+Die Skycoin-Infrastruktur ist gruppenbasiert und dafür designt auf mehr als 300 Computer zu laufen, mit einem "Knoten" vorgeschalten vor jeden Rechner. Entweder ein CXO-Speicherknoten, ein Skywire SDN/Meshnetknoten, oder ein VPN-Endknotenpunkt oder ein Konsensnetzwerkknoten, oder ein Skycoinknoten etc. Wir haben verschiedenste Knoten/Anwendungstypen.
+Dies ist also an und für sich schon eine 'Cloud'.
+Es ist nicht wie bei StoreJ, wo man andere Leute hat, die die eigenen Sachen speichern; man wird ca. 5 Cluster haben und 300 Rechner und man kann seine eigenen Daten speichern, sein eigenes Internet, seine eigene Hardware. Man muss sich nicht außerhalb seines Netzwerks bewegen.
 
 **mike**
-any idea on the pricing on your ARM boards in quantity? We are looking at Intel for Bitseed V3, but ARM would be good to stay with, especially using your boards if there is SATA.
+Ich dachte einfach es wäre nett ein Board zu haben mit einem Array von M.2 Sockets um SSDs, ohne die ganzen Kabel, betreiben zu können und um die Busse abgeschirmt von der Leiterplatine.
+
+**synth**
+Ja, es wird schließlich M.2 geben, diese hier verwenden microSSD als Speicher mit 48MB/s.
+
+**mike**
+Irgendeine Preisvorstellung für eure ARM-Boards bezüglich der Menge? Wir überlegen aktuell Intel für Bitseed V3 zu verwenden, aber ARM würde gut sein um dabeizubleiben, besonders wenn eure Boards SATA unterstützen.
 
 **arc-over-water**
-Do you have a general idea of usable functions to be released next in what order? The first release was the Coin and wallet, then the ICOs and can you give a general future with dates if you can
+Hast du eine generelle Idee, in welcher Reihenfolge die nutzbaren Funkionalitäten veröffentlicht werden? Die erste Veröffentlich war der Coin und das Wallet, danach die ICOs - kannst du einen Ausblick, evtl mit Daten, geben?
 
 **synth**
-the boards are $30 each and the memory for solid state, is actually more than the the cost of the CPU/RAM/board now. Which is sort of insane.
+Die Boards kosten $30 pro Stück, der SSD-Speicher kostet aktuell mehr als das Board/Arbeitsspeicher/CPU. Das ist gewissermaßen wahnsinnig.
 
 **mike**
-so you have microSSD, what's maximum size? we shipping 1with Tb hard drives right now
+Ihr habt also microSSD, was ist die maximale Größe? Wir versenden zur Zeit welche mit 1 TB Festplatten.
 
 **synth**
-Bitseed mike is going to help with this; so we can pool the boards and do a custom PCB
+Mike von Bitseed wird uns dabei helfen; sodass wird die Boards zusammenschließen können und ein maßgeschneiderte Leiterplatine(PCB) erstellen können.
 
 **mike**
-yes, that's where we see the price jumps, is in RAM and eMMC costs.
-and it's hard to find low cost boards with SATA
+Genau dort sind die Kosten versteckt, im Arbeitsspeicher und im eMMC-Speicher. Es ist schwer günstige Boards mit SATA-Anschluss zu finden.
 
 **synth**
-try the orange pi
-the price goes up 30% for SATA
+Schau dir den Orange Pi an, der Preis steigt um 30% wenn man eine SATA-Anschluss möchte.
 
 **mike**
-yes, very nice specs.
+Ja, das sind sehr schöne Spezifikationen.
 
 **synth**
-eventually, we will make one that has custom PCB and is a pluggable blade server, I think.
+Ich denke wir werden letztendlich ein Board fertigen, dass eine maßgeschneiderte Leiterplatine (PCB) besitzt und wie ein Bladeserver funktioniert.
 
 **mike**
-I like the Samsung Artiks for the tiny form factor for drone routers, cubesat/picosat possibilities.
-but like the fact that you are controlling much deeper down the supply chain with your boards.
+Ich mag die Samsung Artiks aufgrund der geringen Größe für Dronenrouter, Cubesat/Picosat Möglichkeiten. Aber ich mag die Tatsache, dass ihr viel größere Kontrolle über die Versorgungskette mit euren Boards ausübt.
 
 **synth**
-we only need ram, CPU, then microSD slot; and that is it. so the wifi and all this other stuff is just crap and its junk. We only have communication, storage and computation. So should be minimialist.
+Wir brauchen nur RAM, CPU und einen microSD slot; das ist alles. Wi-Fi und der ganze andere Kram ist nur Mist und Schrott. Wir haben nur Kommunikation, Speicher und Berechnung; sollte also minimalistisch sein.
 
 **mike**
-yes, we use very few of the ports on the pcduino nano, no need for video, audio, IR
+Genau, wir verwenden sehr wenige Ports des pcDuino nano, kein Verwendungszweck für Video, Audio, IR.
 
 **synth**
-there is even open source FPGA toolchain and a one instruction computer with subtract and jump if not zero; and if you have ram and a byte array, could even compile down to that; which is trolling, but for signing transactions or something, you could operate at that level.
+Es gibt sogar eine frei verfügbare FPGA-Toolchain und ein 1-Instruktion-Rechner(OISC) mit Substraktion oder Sprung sofern es nicht Null ist; wenn man ein RAM und Byte-Array hat kann man die Funktionalität sogar auf diese Stufe herabkompilieren; das ist zwar Trolling, aber zum Signieren von Transaktionen oder ähnlichem, könnte man auf diesem Level agieren. 
 
 **mike**
-do you have a link for the FPGA. My favorite has been the ZYNQ 7000 series, but this sounds a lot lower cost.
+Hast du einen Link zu dem FPGA? Mein Favorit war bisher die ZYNQ 7000 Serie, aber das hier hört sich wesentlich günstiger an.
 
 **synth**
 I have to ask about the FPGA
