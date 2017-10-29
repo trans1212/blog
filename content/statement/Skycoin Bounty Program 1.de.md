@@ -9,105 +9,105 @@ categories = [
 ]
 +++
 
-*Updated August 30, 2017. Remove GIF bounties.*
+*Aktualisiert August 30, 2017. Entfernen der GIF Belohnung.*
 
-*Updated again August 29, 2017. Added translation bounties.*
+*Aktualisiert erneut am August 29, 2017. Hinzufügen von Übersetzungsbelohnungen.*
 
-*Updated August 29, 2017. Added reddit activity bonus. Increased GIF bounty to 20.*
+*Aktualisiert August 29, 2017. Hinzufügen von Reddit-Aktivitäts-Bonus. Erhöhen der GIF-Belohnung zu 20.*
 
-*Updated September 3, 2017. Added French to translation bounties.*
+*Aktualisiert September 3, 2017. Hinzufügen von Französisch zu Übersetzungsbelohnungen*
 
-*Updated September 12, 2017. Increase infographics bounty reward to 30.*
+*Aktualisiert September 12, 2017. Erhöhen der Infographicbelohnung zu 30.*
 
-Apply for rewards in the [Skycoin Bounty Program Telegram Channel](https://t.me/skycoinbounty)
+Bewerben für Belohnungen im [Skycoin-Belohnungsprogramm Telegram Channel](https://t.me/skycoinbounty)
 
-## Bounty Categories
+## Belohnungskategorien
 
 <!-- MarkdownTOC autolink="true" bracket="round" -->
 
-- [Graphics](#graphics)
-- [Video](#video)
-- [Translations](#translations)
-- [Writing](#writing)
+- [Grafiken](#graphics)
+- [Videos](#video)
+- [Übersetzungen](#translations)
+- [Schriftstellerei](#writing)
 - [Social Media Engagement](#social-media-engagement)
 
 <!-- /MarkdownTOC -->
 
-## Graphics
+## Grafiken
 
-Infographics about Skycoin, Skywire meshnet, BBS, CXO etc.
+Infografiken über Skycoin, Skywire meshnet, BBS, CXO etc.
 
-Branding assets (logos, color) are on the [downloads page](https://www.skycoin.net/downloads).
+Brandinggüter (Logos, Farben) sind unter [Downloadseite](https://www.skycoin.net/downloads) verfügbar. 
 
-* 30 SKY each
+* 30 SKY jeweils
 
-## Video
+## Videos
 
-Youtube Videos (e.g. vlog type material) about Skycoin in general
+Youtube Videos (z.B. Vlog ähnliches Material) über Skycoin im Algemeinen.
 
-* 1SKY per 1000 views
-* Must be from relevant (e.g. cryptocurrency related) youtube account
-* The video must be original content (or sufficiently modified derivative content).
+* 1SKY pro 1000 Aufrufe
+* Muss von einem relevanten (z.B. cryptowährungsrelatiertem) Youtube-Account stammen
+* Das Video muss selbsterstellter Inhalt sein (oder ausreichend modifizierter derivativer Inhalt).
 
-Production Promotional Videos (e.g. describing skycoin technology)
+Produktion von Promotionsvideos (z.B. Beschreiben der Skycoin-Technology)
 
 * 150 SKY
 * You can also post this to your youtube channel and collect that bounty
-* Skycoin may use these on their own youtube channel or on the skycoin website
+* Man kann dies ebenso zu seinem Youtube-Channel hinzufügen und diese Belohnung erhalten
+* Skycoin ist es erlaubt diese Videos auf ihrem eigenen Youtube-Channel oder auf der Skycoin-Website zu verwenden
 
-## Translations
+## Übersetzungen
 
-Translate posts from this blog.
+Übersetzen der Artikel dieses Blogs.
 
-Accepted languages are:
+Akzeptierte Sprachen sind:
 
-* Deutsche
+* Deutsch
 * Español
 * 日本語
 * 한국어
 * Ελληνικά
 * Français
-* Nederlands (maximum 30 SKY bounty per article)
+* Nederlands (maximal 30 SKY Belohnung pro Artikel)
 
-*Note: 中文 and Рyсский translations all have someone working on them now*
+*Beachte: 中文 and Рyсский Übersetzungen haben bereits alle jemand der an Ihnen arbeitet*
 
-We may add more languages later but aren't able to verify translations for other languages yet.
+Wir werden weitere Sprachen hinzufügen aber sind momentan nicht in der Lage andere Sprachen zu verifizeren.
 
-Every 500 words is 5 SKY. For example:
+Pro 500 Worte gibt es 5 Sky. Zum Beispiel:
 
-* 1-500 words: 5 SKY
-* 501-1000 words: 10 SKY
-* 1001-1500 words: 15 SKY
-* ...and so on...
+* 1-500 Worte: 5 SKY
+* 501-1000 Worte: 10 SKY
+* 1001-1500 Worte: 15 SKY
+* ...und so weiter...
 
-At the bottom of each English-language blog post, the reward for that article is shown.
+Am Ende jedes englischsprachigen Blog-Posts wird die Belohnungshöhe des Artikels deklariert.
 
-The post must not already be translated.
+Der Post darf noch nicht übersetzt sein.
 
-If a post is already translated but you find mistakes or improvement, we can give a small reward as appropriate.
+Falls der Post schon übersetzt wurde und man findet Fehler oder Verbesserungen, kann man einen kleinen Betrag als Anerkennung erhalten.
 
-One or two other native speakers of the translated language must review the translation to check its quality.
-Bad translations will not receive a bounty, although you are free to improve it until it is accepted.
+Einer oder zwei andere Muttersprachler der übersetzten Sprache müssen die Übersetzung auf ihre Qualität prüfen.
+Schlechte Übersetzungen werden keine Belohnung erhalten, obwohl es einem in diesem Fall frei steht, solange Verbesserungen anzubringen, bis es akzeptiert wird.
 
-## Writing
+## Schriftstellerei
 
-Blog posts, articles
+Blog-Posts, Artikel
 
-* Negotiable based on views, publishing outlet, quality.
-* Contact us ahead of time until we establish a way to value written content.
+* Verhandelbar basierend auf der Anzahl der Aufrufe, veröffentlichen von Outletqualität.
+* Kontaktaufnahme mit uns, bis wir einen Weg gefunden haben, wertvolle Werke zu valutieren.
 
-Please be sincere with content produced for the bounty program.
-If something appears to be done in bad faith we may reject or reduce the reward (for example, fake youtube views or sloppy infographics).
+Seid bitte aufrichtig mit den Werken die für das Belohnungsprogramm erstellt werden. 
+Wenn es in schlechtem Licht erscheint werden wir die Belohnung senken oder einbehalten (zum Beispiel, gefakte Youtube-Aufrufe oder schlechte Infografiken).
 
 ## Social Media Engagement
 
-Special bonus for active community users:
+Spezieller Bonus für aktive Community Mitglieder
 
-* 10 SKY - 100 [Skycoin subreddit](https://reddit.com/r/skycoinproject) posts
-* 100 SKY - 500 [Skycoin subreddit](https://reddit.com/r/skycoinproject) posts
-* 1000 SKY - 2500 [Skycoin subreddit](https://reddit.com/r/skycoinproject) posts
+* 10 SKY - 100 [Skycoin subreddit](https://reddit.com/r/skycoinproject) Posts
+* 100 SKY - 500 [Skycoin subreddit](https://reddit.com/r/skycoinproject) Posts
+* 1000 SKY - 2500 [Skycoin subreddit](https://reddit.com/r/skycoinproject) Posts
 
-*If you have other ideas for promoting Skycoin that deserve a bounty, please suggest them in the Telegram channel.*
+*Wenn du andere Ideen für das Bewerben von Skycoin hast die eine Belohnung verdienen, bitte fühl dich dazu aufgerufen diese in unserem Telegram-Channel vorzuschlagen.*
 
-[Skycoin Bounty Program Telegram Channel](https://t.me/skycoinbounty)
-
+[Skycoin-Belohnungsprogramm Telegram Channel](https://t.me/skycoinbounty)
