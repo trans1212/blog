@@ -770,212 +770,207 @@ Dazu kommt, dass sie Steuern vermeiden wollen oder die Anklage des Diebstahls, w
 Skycoin kann kein öffentliches "Team" oder "Ratgebergremium" auf der Website haben, weil wir alle gefragt haben und keiner möchte öffentlich gemacht werden oder in einer öffentlichen Position stehen...
 
 **arc-over-water**
-yes best to live in a country your not citizen of and earn money from a country your not living in... Been doing it for ten ears, way less stress, (edited)
+Exakt, am besten lebt man in einem Land, in der man kein Staatsbürger ist und man verdient Geld aus einem Land, in dem man nicht lebt... Mache das seit 10 Jahren und es ist viel weniger Stress. (bearbeitet)
 
 **synth**
-many early bitcoin people, who identified themselves publicly on twitter; they cannot travel to brazil or certain countries without risking being kinapped and ransomed for money
-lololol
+Viele der frühzeitigen Bitcoin-Leuten, welche sich öffentlich auf Twitter identifieziert haben, können nicht nach Brasilien, oder in andere bestimmte Länder, ohne das Risiko einzugehen, gekidnapped zu werden für Lösegeld. 
+lololol.
 
 **arc-over-water**
-vitalic knows kung fu maybe,,, well he speaks Chinese..
+Vitalic kann vielleicht Kung Fu, vielleicht spricht er ja mit den Chinesen...
 
 **charles**
-Do you think skycoin not having a public figure will negatively affect adoption?
+Glaubst du, dass die fehlende öffentliche Person die Adoption von Skycoin negativ beeinflussen wird?
 
 **arc-over-water**
-i think it has.. 6 years on and quiet forums and slack
+Ich denke das hat es... sechs Jahre alt und stille Foren und Slack.
 
 **synth**
-we can buy public figures or an adviser board; but they would not have anything to do with project except to put their name on it to create confidence for public; which is what all these advisor boards really are
+Wir können öffentliche Personen kaufen oder ein Beratergremium, aber sie würden nichts mit dem Projekt zu tun haben, außer das sie ihren Namen zum Schaffen von Vertrauen der Öffentlichkeit hergeben; was das ist, was all diese Beratergremien in Wirklichkeit sind.
 
 **arc-over-water**
-in the background assuming tek development.
-Next ICO cost and how it will be released?
-github is always active...
+Im Hintergrund, ich nehme an in der Technologieentwicklung.
+Die Preise der nächsten ICO und wie wird sie veröffentlicht werden?
+Github ist stets aktiv...
 
 **synth**
-i really do not know
-about the next ICO
+Ich weiß es wirklich nicht, was mit der nächsten ICO ist.
 
 **arc-over-water**
-ok
+Ok.
 
 **synth**
-it is around the 20th of next month. and will be 1% to 10% of the skycoin. I am not sure the exact number is set
-and it will probably be a fixed price
+Sie wird um den 20ten des nächsten Monats sein und es wird 1%-10% der Gesamtmenge an Skycoin sein. Ich bin nicht sicher, ob die exakte Anzahl festgelegt ist, es wird jedoch vermutlich ein fixer Preis sein. 
 
 **dr10**
-this ama is a marathon :trollbounce: nice!
+Das ist eine AMA-Marathon :trollbounce: nice!
 
 **arc-over-water**
-how much of the 100 million is obligated to your team and the people who funded it?
+Wieviel der 100 Millionen sind dem Team zugeteilt und den Leuten, die es finanziert haben?
 
 **synth**
-but then followed by a weekly auction or second priced auction for a fixed number of coins, that will occur every week for 8 weeks; but not sure how many coins or if it will actually happen
+Gefolgt von einer wöchentlichen Autkion oder einer zweiten bepreiste Auktion für eine feste Menge an Coins, welche für acht Wochen lang jede Woche geschehen wird; bin mir aber nicht sicher wieviele Coins, oder ob es überhaupt stattfinden wird.
 
 **arc-over-water**
-so if its a high price it is 1% and low price it could get to 10%
+Wenn es also zu einem hohen Preis ist, dann die 1%, bei einem geringen könnten es bis zu 10% werden.
 
 **synth**
 
-> how much of the 100 million is obligated to your team and the people who funded it?
+> Wieviel der 100 Millionen sind dem Team zugeteilt und den Leuten, die es finanziert haben?
 
-The people who funded skycoin, did not receive anything for it. They have no entitlement to the coins.
-they had to buy in at ICO like everyone else. Even the developers working on it, had to buy in.
+Die Leute, welche Skycoin finanziert haben, haben nichts dafür erhalten. Sie haben keinen Anspruch auf die Coins. Sie mussten sich in ICOs einkaufen, wie jeder andere auch. Selbst die Entwickler die daran arbeiten, mussten sich einkaufen.
 
 **arc-over-water**
-ok so they have already been looked after in the 10c ICO round
+Ok, also sind sie bereits verschlossen worden nach der 10ct ICO-Runde?
 
 **synth**
-i think the next ICO is mostly marketing event, and to "get it over" with. We are in a bubble now, so we should raise money now, before the ICO bubble pops. Is what people are telling us.
-we cannot spend more then 50 million, so selling an insane number makes no sense. 10 to 15 million is probably reasonable, for next 3 years. And that is with a really good full time marketing team, and trippling number of developers AND funding several parrallel hardware projects.
+Ich denke, dass die nächste ICO zum großen Teil nur ein Marketingevent ist und einfach nur ein "lasst es hinter uns bringen". Wir sind aktuell in einer Blase, also sollten wir Geld beschaffen, bevor die Blase platzt. Das ist das, was einige Leute uns sagen.
+Wir können nicht 50 Millionen ausgeben, also macht das Verkaufen von einer irren Menge keinen Sinn. 10 bis 15 Millionen ist vermutlich angemessen für die nächsten drei Jahre. Das beinhaltet ein sehr gutes Vollzeit-Marketing-Team und das verdreifachen der Anzahl der Entwickler SOWIE das Finanzieren verschiedener, paralleler Hardware-Projekte.
 
 **mike**
-My approach to Skycoin is regardless how much of a financial return it might provide, it is an investment into producing a future I want to see.
-Also look forward to earning it by running nodes.
+Mein Herangehen an Skycoin ist, dass egal welchen finanziellen Ertrag es auch verschaffen wird, ist es ein Investment in eine Zukunft die ich sehen möchte.
+Ich sehe außerdem der Einnahmen, durch das Betreiben eines Knotens entgegen.
 
 **arc-over-water**
-So that could be you release 10,000,000 coins and get $10,000,000 dollars for your covering expenses next three years
+Es könnte also sein, dass ihr 10,000,000 Coins für $10,000,000 verkauft, um eure Kosten für die nächsten drei Jahre zu decken?
 
 **charles**
-Can a person with limited technical capabilities run a node?
+Kann eine Person mit limitierten technischen Fähigkeiten einen Knoten betreiben?
 
 **arc-over-water**
-or $20,000,000 as it goes
+Oder $20,000,000 je nach dem.
 
 **synth**
-the people who are going to pump the coin, want us to sell off as much as possible. They are pressuring us to do that.
-However, if we sell fewer coins, then the price per coin will be higher.
-If we only sell 10 million in coins, then the price can go up a lot higher than if we sold 500 million in coins.
-I think EOS is going to raise a billion dollars and I have no idea what they will with the money, except use it to buy EOS and drive the price up or some scam. They are not going to spend it on development. lol
-> Can a person with limited technical capabilities run a node?
+Die Leute, welche den Coin nach oben aufpumpen, möchten so schnell als möglich wieder verkaufen. Sie drängen uns sehr das zu tun. Wie auch immer, wenn wir weniger Coins verkaufen, wird der Preis pro Coin höher sein.
+Wenn wir nur 10 Millionen Coins verkaufen, wird der Preis viel höher steigen, als wenn wir 500 Millionen verkaufen würden.
+Ich denke EOS wird eine Milliarde Dollar zusammenbekommen und ich habe keine Ahnung, was sie mit dem Geld anstellen werden, außer es dazu zu nutzen, EOS zu kaufen und den Preis nach oben zu treiben. Sie werden es nicht für die Entwicklung ausgeben. Lol.
 
-eventually, yes. maybe not right now. after tutorials, yes
+> Kann eine Person mit limitierten technischen Fähigkeiten einen Knoten betreiben?
+
+Schlussendlich, ja. Aktuell vielleicht noch nicht. Nachdem Tutorials zur Verfügung stehen, ja.
 
 **arc-over-water**
-EOS seems like it is trying to go bear bones and not be as complicated as ETH...
+EOS scheint zu versuchen leichte Knochen zu haben und nicht so kompliziert wie ETH zu sein...
 
 **mike**
-I think it is smart to hold a lot for distribution to node operators as a replacement to mining for a good distribution, also selling some to have distribution among those who are interested but not technically inclined to run nodes.
+Ich denke es ist klug, eine große Menge für die Verteilung an die Knotenbetreiber zu haben, als eine Art Ersatz für das Mining sowie eine gute Distribution, zudem der Verkauf an einige, welche zwar interessiert sind, aber technisch nicht versiert genug um einen Knoten zu betreiben.
 
 **synth**
-So that could be you release 10,000,000 coins and get $10,000,000 dollars for your covering expenses next three years
-The coin price is like $4 or almost $5 at high. It will be at $5 by ICO I think, atleast. The market cap has doubled every 40 days, for a while now.
-10 million coins at $5 per coin, is 50 million.
-We have to distribute coins via the skywire nodes, to make it fair; because ICO is not a good way to get coins into the hands of users. Its only good for fund raising and for whales.
-We decided that we will distribute most of the coins to users and just use sales to whales, to fund development.
+> Es könnte also sein, dass ihr 10,000,000 Coins für $10,000,000 verkauft, um eure Kosten für die nächsten drei Jahre zu decken?
+
+Der Preis pro Coin ist irgendwas um die $4 oder fast $5 hoch. Die ICO wird denke ich bei $5 sein. Der Börsenwert hat sich ,seit einer ganzen Weile, alle 40 Tage verdoppelt.
+10 Millionen Coins bei $5 pro coin sind 50 Millionen.
+Um es fair zu gestalten, müssen wir die Coins über die Skywire-Knoten verteilen; ICOs sind kein guter Weg in die Hände der User zu bringen. Sie sind nur gut für das Sammeln von Geld und für Wale.
+Wir haben uns entschlossen die meisten Coins an unsere User zu verteilen und ICO/Verkäufe an Wale nur zu nutzen, um die Entwicklung zu finanzieren.
 
 **arc-over-water**
-there must be ways to spread to diverse groups the 10,000,000 coins?
+Es muss doch Wege geben, die 10,000,000 Coins an verschiedene Gruppen zu verteilen?
 
 **synth**
-the problem is that all ICOs end up going to less than 20 whales
+Das Problem ist, dass alle ICOs darin enden, von weniger als 20 Walen aufgekauft zu werden.
 
 **arc-over-water**
-every member of a altcoin slack gets a coupon invite
-If an ICO knows their customer that can be prevented..
+Jedes Mitglied eines Altcoin-Slack-Channels bekommt einen Code als Invite. Wenn eine ICO deren Kunden bekannt sind, kann das verhindert werden...
 
 **synth**
-there are people who own a large percentage of ETH and they want to diversify; they can gamble 20 million in an ICO and could make 50x more, but if they lose it, then its a slight loss; they have so much ETH that they cannot even sell it or convert it, without tanking the market
+Es gibt Leute, welche ein großen Anteil der ETH besitzen und diesen diversifizieren möchten; sie können 20 Millionen in eine ICO werfen und das 50-fache zurückerhalten, aber wenn sie es Verlieren ist es ein kleiner Verlust; sie haben soviel ETH, dass sie es nichtmal verkaufen oder konvertieren können, ohne den Markt abstürzen zu lassen.
 
 **arc-over-water**
-in one day every altcoin slack member of every altcoin could get a btc address used once in their pm, allowed a max amount sent etc..
+An einem Tag könnte jedes Mitglied eines Altcoin-Slack-Channels eine einmalig genutzte BTC-Addresse bekommen, in die er einen maximalen Betrag einzahlen kann etc... 
 
 **synth**
-yes, ideally, that might work
-we have been doing OTC sales at market price; with a cap of 10 BTC and that works well
+Ja, im Idealfall könnte das funktionieren.
+Wir hatten begonnen OTC zu Marktpreisen zu machen; limitiert auf 10 BTC und das hat gut funktioniert.
 
 **arc-over-water**
-do the OTC reflect in the blockchain? (edited)
+Tauchen die OTC-Verkäufe in der Blockchain auf? (bearbeitet)
 
 **synth**
-but we have single whales that want to put in 700 BTC and each one individually, is larger than whole individuals doing the OTC sales
-OTC is "over the counter", or direct sale; when people private message a developer and ask to buy
+Wir haben jedoch einige einzelne Wale, welche 700 BTC auf einmal haben möchten und jeder für sich genommen, ist größer als alle Teilnehmer, die an den OTC-Verkäufen teilgenommen haben.
+OTC bedeutet "über die Theke", oder auch Direktverkauf; Wenn die Leute einen Entwickler per privater Nachricht anschreiben und bitten, etwas kaufen zu dürfen.
 
 **arc-over-water**
-ok so private sales are happening
+Alles klar, dann finden Privatverkäufe also statt.
 
 **mike**
-uploaded and commented on this image: TEC chart.png 1 Comment Here is a sample method based on power law for pricing I have planned for Ark based Token Exchanges for projects, including funding Ark/Skycoin based nodes. As more as sold, the price increses by a power law so people can enter at the irsk and expected ROI combination they feel comfortable without being pressured into hasty emotional decisions by FOMO.
+Hat dieses Bild hochgeladen und kommentiert: TEC chart.png 1 Kommentar: Hier ist eine Beispielmethode für das Bespreisen nach dem Potenzgesetz, das ich für Ark-basierte Projekt-Token-Exchanges geplant habe, beinhaltet das Finanzieren von Ark/Skycoin basierten Knoten. Je mehr verkauft werden, desto stärker steigt der Preis an, nach dem Potenzgesetz, so können die Leute nach ihrer erwarteten ROI einkaufen, ohne durch FOMO in emotionale Entscheidungen gedrängt zu werden.
 
 **mike**
 *irsk=risk
-so entering on any part of the curve looks the same as any other part.
+Also der Eintritt an irgendeinem Teil der Kurve sieht genauso aus, wie jeder andere Teil.
 
 **synth**
-hmmm
-how does this work?
-the more money you put in, the more you pay?
+Hmmm.
+Wie funktioniert das?
+Je mehr Geld man reinpackt, desto mehr bezahlt man?
 
 **arc-over-water**
-but as you do these OTC sales it reflects here in distributed? http://explorer.skycoin.net/blocks
+Nachdem ihr die OTC-Verkäufe tätigt, sind sie dann hier aufzufinden? http://explorer.skycoin.net/blocks
 
 **mike**
-here is a link to the spreadsheet, has the formulas and table of calculations for the graph, https://docs.google.com/spreadsheets/d/1en9lqzBIuHgp0-Q3ohoq3yJUe1lJcOK9U4bF2TiXZew/edit?usp=sharing
-yes, the more that is put in, the higher the price.
-it will take some experience to determine the best parameters to prevent instant sell-off while not stalling the exchange indefinitely, and different project might be best suited for different exchange rates over time period.
+Hier ist ein Link zu der Tabelle, dort sind die Formeln und die Berechnungstabelle für den Graphen, https://docs.google.com/spreadsheets/d/1en9lqzBIuHgp0-Q3ohoq3yJUe1lJcOK9U4bF2TiXZew/edit?usp=sharing
+Genau, je mehr man reinschmeißt, desto höher wird der Preis.
+Es wird etwas Erfahrung brauchen, um die besten Parameter zu bestimmen, sodass kein abrupter Ausverkauf stattfindet und das Exchange nicht unbegrenzt Hingehalten wird und verschiedene Projekte sind vielleicht am besten für bestimmte Exchange-Raten über eine bestimmte Zeit geeignet.
 
 **synth**
-we have a really good strategy now
-We can distribute coins to top content producers on the BBS
-to people doing bountries (like skycoin logo, sticker design etc)
-to people who want to do development (mobile wallet etc, some features for bbs and bug fixes)
-Then massive substained distribution, over time to the people running the skywire nodes.
-Then disribution also to nodes hosting content on CXO.
-Then distribution to people coming on to platform who are bringing user communities with millions of people (we have been talking to these people for years and they do not have real developers, so we have to help them; they only have web designers and curators and community managers but cannot actually develop anything new).
+Wir haben aktuell eine sehr gute Strategie.
+Wir können Coins an die produzierenden der Top-Inhalte auf dem BBS verteilen.
+An Leute des Prämiensystems (wie das Skycoin-Logo, Sticker, Design etc.).
+An Leute, die an der Entwicklung mitwirken möchten (Mobiles Wallet etc., einige Feature des BBS sowie Bug-Behebungen).
+Dann die kontinuirliche, lang andauernde Distribution an die Leute, die die Skywire-Knoten betreiben.
+Ebenso die Distribution an Knoten, welche Inhalte des CXO hosten.
+Dann die Distribution an Leute die auf unsere Plattform kommen und Communities mit Millionen von Nutzern mitbringen (wir sind seit Jahren mit dieses Leuten im Gespräch und sie haben keine richtigen Entwickler, also müssen wir ihnen helfen; sie haben nur Webdesigner und Verwalter und Community-Manager, können also nichts neues entwickeln).
 
 **mike**
-like a long term term ArkSpace project for space exploration and development will be sold over a lot longer time frame than funding an index coin bridged to Ark.
-yes, and either way, the project can award blocks of tokens to contributors other than just for money.
-I'm a fan of the Slicing Pie method.
+Ich mag das langfristige ArkSpace-Projekt zur Weltraumerkundung und die Entwicklung muss über eine wesentlich längere Zeitspanne, als die Finanzierung eines Indexcoins überbrückt zu Ark, stattfinden.
+Ja und in beiden Fällen, das Projekt kann die Blöcke von Token an Mitwirkende verteilen anstatt sie mit Geld zu kompensieren. 
+Ich bin ein Fan der Methode, den Kuchen zu teilen.
 
 **arc-over-water**
-Ok so your saying it will be between 1%-10% next month to get funding and start the marketing campaign. Then after that distribution then there are monthly small releases of ICO and the majority being bounties for services rendered. and nodes etc
+Ok, du sagst also es wird zwischen 1%-10% im nächsten Monat sein um die Finanzierung zu sichern, aber auch um die Marketing-Kampagne zu starten. Nach dieser Distribution wird es monatlich kleinere Versionen von ICOs geben und die Mehrheit werden die Belohnung des Prämienprogramms erbringen, sowie die Knoten etc..
 
 **mike**
-http://slicingpie.com/ Slicing Pie Perfect Equity Splits for Bootstrapped Startups Slicing Pie is a formula that allows founders to create a PERFECTLY FAIR equity split between founders, investors, partners and employees. (92kB)
-Skycoin is very similar, but doing it manually with adjustment.
+http://slicingpie.com/ Kuchenteilen, perfektes gleiches Teilen, Bootstrapped Startups Kuchenteilen ist eine Formel, die es erlaubt den Erschaffern eine perfekt geteilte Aufteilung zwischen Gründern, Investoren, Partnern und Angestellten zu schaffen. (92KB)
+Skycoin ist sehr ähnlich, aber es manuell umzusetzen, erfordert einige Anpassungen.
 
 **synth**
-yes
-what i am interested in, is if we can block the BBS up and get alot of users with the incentives
-every dollar in coins we sold over OTC, drove the skycoin market cap up $4
-we would sell coins, then price explodes the next week; because people promote it on twitter and blog about it
-skycoin needs to get on more exchanges
+Genau.
+Woran ich interessiert bin, ist, ob wir das BBS aufklotzen können mit dem Anreiz, dass jeder Dollar den wir OTC verkauft haben, den Skycoin-Börsenwert um $4 gesteigert hat.
+Wir haben Coins verkauft und in der nächsten Woche ist der Preis explodiert, weil die Leute es auf Twitter beworben haben und darüber Blogposts verfasst haben.
+Skycoin muss auf mehr Exchanges.
 
 **synth**
-I have to sleep now. LMAO. We should end AMA soon
+Ich muss jetzt schlafen. LMAO. Wir sollten das AMA bald beenden.
 
 **arc-over-water**
-cool thanks for your time... haha 3.17 am here
+Cool, danke für deine Zeit... haha 3.17 morgens hier.
 
 **synth**
-4 hours?
+4 Stunden?
 
 **dr10**
 XD
 
 **synth**
-is there an archive for the AMA?
+Gibt es ein Archiv für dieses AMA?
 
 **dr10**
-reddit hopefully :joy:
+Reddit hoffentlich :joy:
 
 **michaelthecryptoguy**
-Thank You for taking your time to answer everything in complete detail. It was nice that you cared enough to make sure everything was answer very thoroughly.
+Vielen Dank, dass du dir die Zeit genommen hast, alles bis ins Detail zu beantworten. Es war nett, dass du dich genug darum gesorgt hast, alles sorgfältig zu beantworten.
 
 **boldninja**
-@michaelthecryptoguy can you copy everything and make it reddit friendly?
-thanks @synth for taking the time for this AMA it was :mindblown: really interesting stuff
+@michaelthecryptoguy kannst du alles kopieren und es reddit-freundlich machen?
+Danke an @synth, dass er sich die Zeit für dieses AMA genommen hat, es war :mindblown:, sehr interessante Sachen.
 
 **techbytes**
-marathon session today.
+Marathonsitzung heute.
 
 **michaelthecryptoguy**
-I sure can. As long as jarunik hasn't already started. (edited)
+Sicher, kann ich machen. Solange jarunik nicht schon damit begonnen hat. (bearbeitet)
 
 **mike**
-Thank you very much for joining us synth, please stop by again.
-I will also be continuing to check in on skycoin slack for updates as well,
-[skycoin.herokuapp.com](https://skycoin.herokuapp.com)
-The closer the integration of Skycoin with Ark, the better.
+Vielen herzlichen Dank für deine Teilnahme synth, bitte schau mal wieder vorbei.
+Ich werde weiterhin den Skycoin-Slack für Updates besuchen, [skycoin.herokuapp.com](https://skycoin.herokuapp.com).
+Je enger die Integration von Skycoin mit Ark ist, umso besser.
