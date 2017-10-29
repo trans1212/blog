@@ -369,7 +369,7 @@ Hat dieses Bild hochgeladen: 1433594905.jpg Füge Kommentar hinzu.
 Hat dieses Bild hochgeladen: 1432540863.jpg Füge Kommentar hinzu.
 
 **synth**
-Hat dieses Bild hochgeladen: 2049465686.jpg  Füge Kommentar hinzu.
+Hat dieses Bild hochgeladen: 2049465686.jpg Füge Kommentar hinzu.
 
 **mike**
 Start! Sieht aus wie ein ARM basiertes Serverrack. Lass mich wissen wenn du Hilfe damit brauchst, ich sehe, dass du mit solidworks arbeitest, die habe ich auch am laufen.
@@ -556,221 +556,218 @@ Während Verbindungsverlust oder Verbindungsherstellung die Netzwerkstruktur nic
 Kurzstrecke, mobiles ad hoc Routing muss von einem anderen Protokoll wie BATMAN behandelt werden, während feste Infrastruktur wie WiFi-Hotspots, Fiber zwischen Städten, Ethernet-Kabel etc. wird von den Skywire-Sachen behandelt; wenn man also einen Coffee-Shop betritt und dort 30 Minuten verbleibt, dann hat man kein Problem; wenn man aber die Straße herunterfährt und alle fünf Sekunden zu einem anderen Hotspot verbindet, dann hat man eines. Es ist nicht dafür designt das zu behandeln und es wird eine weitere Protokollschicht benötigt um "mobil" zu behandeln.
 
 **mike**
-so nodes can move if the transmission is not interrupted, like a beam forming antenna could do it as long as the beams can be moved fast enough to not interrupt the communication.
+Knoten können sich also Bewegen, falls die Übertragung nicht unterbrochen wird, wie eine Beamforming-Antenne, die solange sendet, wie die Beams schnell genug bewegt werden können, ohne das die Kommunikation abbricht.
 
 **mike**
-so nodes can move if the transmission is not interrupted, like a beam forming antenna could do it as long as the beams can be moved fast enough to not interrupt the communication.
-see update, they are ok even if some interruption.
-makes sense though, works fine for having like mini cell tower and access points, hand held mobile is another protocol if moving from cell to cell.
+Knoten können sich also Bewegen, falls die Übertragung nicht unterbrochen wird, wie eine Beamforming-Antenne, die solange sendet, wie die Beams schnell genug bewegt werden können, ohne das die Kommunikation abbricht.
+Update, sie funktionieren sogar mit geringen Unterbrechungen normal.
+Macht auch Sinn, funktioniert mit kleinen Mobilfunkmasten und Access-Points, Mobil ist ein anderes Protokoll, wenn es von Handymast zu Handymast springt.
 
 **synth**
-yes, phased array would be fine; or signal interrupted for second or even if signal goes out every hour for and hour and comes back on
-but fundamental changes to network topology are more annoying, because everyone involved in routing across the whole network has to get notified; so you actually have to do the updates peer to peer, over CXO; and eventually network has to be segmented so that each node belongs to one or more routing/subscription domains that are partitioned in a sane way
-in the current internet the number of hops between two people can be ~40 or 80 or just some insane number; in skycoin it will be 4 or a max of 7. etc, from house to neighborhood, to city, to city/country and then to destination. It wont appear as 40 physical hops, that can each have their own independent congestion
-the advantage of phased array, is that you just throw it on your roof and it can scan for whoever it can connect it; and then can connect to different people or best person, without having to climb up on roof and ajust anything; the beam focus is on software control
-i like the BBS and VPN, because we do not need to build a physical new internet to run them; we can just tunnel over the existing internet and its useful. It will take years before we see a hardware alternative to the existing internet. Even people are installing 100,000 nodes a month and its growing at 1% per day, it would still take 10 or 15 years until it could replace the existing internet.
-There is just so much equipment installed and even if growth rate is massive, it will take forever.
+Genau, Phased-Array wäre in Ordnung; sogar wenn das Singal für einige Sekunden unterbrochen werden würde oder auch wenn das Signal für Stunden ausfallen würde und wieder ankommen würde.
+Fundamentale Änderungen der Netzwerkstruktur sind lästiger, weil der Jeder, der am Routing durch das Netzwerk beteiligt ist, informiert werden muss; man muss also tatsächlich Aktualisierungen Peer-zu-Peer durchführen, mittels CXO; letztendlich muss das Netzwerk segmentiert werden, sodass jeder Knoten zu einer oder mehreren Routing/Abonnement Domain gehört, welche in einer vernünfigen Weise separiert sind - im aktuellen Internet kann die Anzahl der Hops zwischen bei Personen ~40 bis zu 80 oder irgendsoeiner irren Zahl sein; in Skycoin wird es 4 oder maximal 7 Hops sein etc., von Haus zur Nachbarschaft, zur Stadt, zu Stadt/Land und dann zum Ziel. Es wird nicht wie 40 Hops erscheinen, welche jeweils ihre eigene Stauuung erfahren können.
+Die Vorteile eines Phased-Array sind, dass man es einfach auf sein Dach werfen kann und es scannt nach allen, mit denen es verbinden kann; dann kann man zu verschiedenen Personen, oder der besten Person, verbinden, ohne auf das Dach klettern zu müssen und alles zu justieren; der Beam-Fokus wird per Software kontrolliert.
+Ich mag das BBS und VPN, weil wir kein neues physisches Internet bauen müssen um sie laufen zu lassen; wir können einfach über das exisitierende Internet tunneln und es ist verwendbar. Es wird Jahre dauern, bevor wir eine Hardware-Alternative zu dem aktuellen Internet sehen werden. Selbst wenn die Leute 100.000 Knoten pro Monat installieren würden und es eine Wachstumsrate von 1% pro Tag geben würde, dauerte es immernoch 10 oder 15 Jahre bis es das gesamte Netz ersetzen könnte.
+Es ist einfach so viel Equipment installiert und auch mit massiver Wachstumsrate, dauert es ewig.
 
 **mike**
-yes, this is what i like about it, much easier for automated set-up than pointing antennas, even with motorized directional. had thought of using low frequency for nodes to transmit gps coordinates to locate each other, then point highest possible frequency for range to connect at each other.
+Genau, das ist auch das, was mich anspricht, es ist viel einfacher ein automatisches Setup zu haben, als dass man die Antennen ausrichten muss, auch motorisierter Richtungssteuerung.
+Habe darüber nachgedacht tiefe Frequenzen für Knoten zu verwenden, um GPS-Koordinaten zu senden, um sich gegenseitig zu lokalisieren und die höchst mögliche Frequenzrate, die zur gegenseitigen Verbindung möglich ist, anzuwenden.
 
 **synth**
-the VPN will be big application; hardware vpn, whole house VPN; you plug it in and it VPNs your whole house and all your connections
-the ISPS are allowed to sell all the data they collect now
-and you can start hardware blocking the IP addresses for ad servers and tracking servers and so on; and different vpn end point for each device on the lan and be able to rotate them out automatically
-what will happen, is that all the torrent sites and communities will be driven underground; and when that happens, the downloads will eventually be blocked or slowed by ISPS and you will need a "new internet" to really get a lot of the content that is available to people now.
-Five years ago, there was no point in doing this. Today the motivations are emerging, that will drive people to something new
-and another thing is that reddit has been overrun with bots; controlling all the upvotes and content now. And corporations have completely taken over and subverted facebook and twitter.
-People are going to be looking for decentralized platforms and there will be a mass movement to the platforms that can solve the bot manipulation problem, the shilling problem and the company owned by corporate money whore sellout problem.
-so there were attempts at a building decentralized twitters and facebooks, but five years ago there was not a need; now people are ready to siwtch and the technology is ready.
-the skycoin project is building the base layer, then the communities are building their own projects. We are just giving them the tools.
+Das VPN wird eine große Anwendung sein; Hardware-VPN, VPN für das gesamte Haus; man steckt es ein und es liefert einen VPN-Service für das gesamte Haus und alle seine Verbindungen.
+Die IDA (ISP) haben die Erlaubnis, alle Daten die sie sammeln zu verkaufen-
+Man sogar damit beginnen, die IP-Addressen von Werbeservern und Trackingservern zu blockieren und so weiter; verschiedene VPN-Auflösungspunkte für jedes Gerät im LAN und man wird die Möglichkeit haben, diese zu automatisch zu rotieren.
+Geschehen wird folgendes: Alle Torrent-Seiten und Communities werden untertauchen; und wenn das geschieht, werden die Downloads schließlich blockiert oder verlangsamt durch die IDAs werden und man wird ein "neues Internet" brauchen, um eine Vielzahl der aktuell verfügbaren Inhalte zu erhalten.
+Vor fünf Jahren gab es noch keinen Grund dies zu tun. Heutzutage zeigen sich Intentionen, welche die Leute zu etwas neuem drängen werden.
+Eine andere Sache ist, dass Reddit von Bots überrannt wurde; sie kontrollieren alle Upvotes und die Inhalte jetzt. Unternehmen haben Twitter und Facebook total übernommen und unterminiert.
+Die Leute werden nach dezentralen Plattformen ausschauhalten und es wird eine mächtige Bewegung zu diesen Plattformen geben, welche das Botmanipulierungsproblem lösen können, das Shilling-Problem und das Problem der Unternehmen, die sich mittels kommerziellen Geldströmen kaufen lassen.
+Es wird also Versuche geben, dezentrale Twitters und Facebooks aufzubauen, aber vor fünf Jahren war das noch nicht notwendig; jetzt sind die Leute fähig dazu zu wechseln und die Technologie ist bereit.
+Das Skycoin-Projekt baut die Substanz auf, die Communities bilden ihre eigenen Projekte. Wir geben ihnen nur die Mittel und Wege.
 
 **mike**
-Yes, like as an example, twitter made my sign-up email public, had no idea, was getting spammed all the sudden, finally found out why when I went to twitter to stop getting multiple copies of a privacy notice.
-Would very much like to bridge skycoin with Ark, so Ark runs on top of this VPN, and advantage is that your VPN is trustless, or at least much more decentralized than relying on a single VPN provider, which is 100% reliant on trust.
+Exakt, zum Beispiel hat Twitter meine Registrierungsemail öffentlich gemacht, ohne mich zu informieren und ich wurde aus dem Nichts plötzlich zugespammt; schlussendlich habe ich es herausgefunden, als ich auf Twitter gegangen bin, um nicht mehrfache Datenschutzerklärungen zu erhalten.
+Ich würde Skycoin sehr gerne mit Ark überbrücken, sodass Ark aufgesetzt auf dieses VPN läuft und der Vorteil ist, dass euer VPN vertrauenslos funktioniert, oder wesentlich dezentralisierter als sich auf einen einzelnen VPN-Provider zu verlassen, der alleine zu 100% auf Vertrauensbasis handelt.
 
 **xano**
-How do you feel the incredible potential for illegal activities will affect the future of Skycoin and mass adoption?
+Was glaubst für das unfassbare Potential für illegale Aktivitäten die Zukunft von Skycoin und der Massenadoption beeinflussen?
 
 **charles**
-I also don't quite understand how skycoin solves the bots on reddit
+Ich verstehe nicht so ganz wie Skycoin das Bot-Problem auf Reddit löst?
 
 **xano**
-Almost everyone loves free movies, series and music, but what if ISIS starts using it for example
+Fast jeder liebt kostenlose Filme, Serien und Musik, aber was wenn z.B. ISIS beginnt dies zu nutzen.
 
 **synth**
-now, on twitter; for instance hillary clinton campaign paid twitter money for "brand management" and if 300 people you follow said something negative about her, you wont see any of the tweets. And 1 person in 4000 says something positive and everyone in the that persons followers, will see the tweet in the feed!
-The companies are controlling what people see and what information is allowed into their feeds. Its not organic anymore. Its not based upon your preferences. It is based upon making the platform friendly to advertisers, who can pull their money out. They are pushing social agendas even and requiring the companies they are giving money to, to censor particular people and movements, to keep the advertising money.
-Even Google is being forced to comply with these demands. Fortune 500 pulled out 700 million/year in ad revenue and then google agreed to censor search results to please the advertisers. And then they are threatening them with fines in the EU unless they comply and serve the governments and corporations.
-Decentralized social media, means that you own your own data. It means that you control on your computer, the algorithm used to sort and prioritize your feed. Instead of allowing it to be controlled and manipulated by a third party, who is a whore for money trying avoid being fined by the EU and groveling before soap companies threatening to pull their ad money out, unless they censor things.
-yes, ARK could use skycoin network for block and transaction distribution. And could use it for networking, to avoid blocking.
-And ARK could be deployed as a node in the same framework as skycoin. in the skycoin clusters.
-There is https://github.com/skycoin/viscript and we can add ARK here. This is a cross platform CLI, and application launcher and for cluster management eventually.
+Erstmal zu Twitter; Im Fall der Wahlkampagne von Hillary Clinton wurde Twitter Geld gegen "Markenmanagement" bezahlt und wenn 300 Leute denen man folgte, etwas negatives über sie geschrieben haben, dann hat man keinen ihrer Tweets gelesen. Sobald aber eine der 4000 Personen, die mal etwas positives geschrieben hat, einen Tweet verfasst hat, dann hat man diesen Tweet sofort in seinem Feed gesehen.
+Die Unternehmen kontrollieren was die Leute sehen und welche Informationen in ihren Feeds erlaubt sind. Es ist nicht mehr natürlich. Es ist nicht mehr basierend auf Präferenzen. Es basiert darauf, die Plattform für Werbetreibende sympathisch zu machen, welche ihr Geld abziehen könnten.
+Sie treiben ihre sozialen Agendas voran und zwingen die Firmen, denen sie Geld geben, bestimmte Personen und Bewegungen aktiv zu zensieren, oder sie behalten ihr Geld ein.
+Sogar Google ist dazu gezwungen, diesen Anforderungen zu gehorchen. Fortune 500 hat 700 Millionen/Jahr in Werbeeinnahmen zurückgezogen und dann hat Google zugestimmt die Suchergebnisse den Wünschen der Werbetreibenden anzupassen. Gleichzeitig bedrohen sie sie mit Strafgeldern, wenn sie nicht mit den Regierungen und den Unternehmen zusammenarbeiten.
+Dezentralisierte soziale Medien bedeutet, dass man selbst Herr über seine eigenen Daten ist. Es bedeutet, dass man seinen eigenen Rechner kontrolliert, die Algorithmen die den Feed sortieren und priorisieren. Anstatt zu erlauben, dass der Feed von Dritt-Parteien kontrolliert und manipuliert wird, welche nur eine Geldhure ist, die versucht die Geldstrafen der EU zu umgehen, die unterwürfig zensiert, wenn die Soap-Unternehmen damit drohen ihr Werbegeld abzuziehen.
+Ja, ARK könnte das Skycoin-Netzwerk für Block und Transaktionsverteilung verwenden, ebenso wie es das Netzwerk für networking verwenden könnte, um Blockierungen zu umgehen.
+ARK könnte als Knoten im selben Framework wie Skycoin eingesetzt werden, innerhalb der Skycoin-Cluster. Es gibt https://github.com/skycoin/viscript und wir können ARK dort hinzufügen. Es gibt eine cross-plattform CLI und auf lange Sicht ein Anwendungsstarter und Clustermanagement. 
 
 **mike**
-thanks! will post to our devs. we have and are adding a lot of API's and CLIs for different languages.
+Danke! Das werde ich unseren Entwicklern senden. Wir haben und fügen aktuell viele APIs und CLIs für verschiedenste Sprachen hinzu.
 
 **synth**
 
->I also don't quite understand how skycoin solves the bots on reddit
+> Ich verstehe nicht so ganz wie Skycoin das Bot-Problem auf Reddit löst?
 
-It is outside of skycoin project, but the people building the BBS has a really cool filtering algorithm. Everyone is identified by their public key and can build out a web of trust. And its like page rank for users.
-Its a decentralized type of moderation, that is automatic.
-is ARK in golang?
+Es ist außerhalb des Skycoin-Projekts, aber die Leute, welche das BBS aufbauen haben einen sehr coolen Filteralgorithmus. Jeder wird mit seinem öffentlichen Schlüssel identifiziert und so bildet sich eine Art Netz des Vertrauens (web of trust). Es ist wie eine Art Grad auf einer bestimmten Seite. Es ist eine dezentrale Art der Moderation, es läuft automatisch. Ist ARK in Golang geschrieben?
 
 **jarunik**
-Ark chain is in Javascript but we got a golang api.
+Die ARK-Chain ist in Javascript, aber wir haben eine Golang-API.
 
 **arc-over-water**
-Why golang over rust or scala?
+Warum sollte man Golang Rust oder Scala vorziehen?
 
 **mike**
-Ark core is written in node.js , may be ported to go. There is a go api/cli being written, by @chris I believe.
+Der ARK-Kern ist in Node.js geschrieben, könnte portiert werden. Es wird eine Go API/CLI geschrieben, von @chris denke ich.
 
 **arc-over-water**
-when will there be a lisp coin platform :slightly_smiling_face:
+Wann wird es eine Lispcoin-Plattform geben :slightly_smiling_face: ?
 
 **mike**
-golang is done? nice!
+Golang ist fertig? Klasse!
 
 **boldninja**
-https://github.com/ArkEcosystem/ark-go GitHub ArkEcosystem/ark-go ark-go - Ark GO client for ARK.io blockchain ecosystem #golang #ark #blockchain
+https://github.com/ArkEcosystem/ark-go GitHub ArkEcosystem/ark-go ark-go - Ark GO client für ARK.io blockchain Ökosystem #golang #ark #blockchain
 
 **mike**
-lisp - that would be fun! Continue to be amazed lisp is still around, but popular for machine learning apps. yes, we need lisp added, can you do it arc-over-water?
-lisp seems to have good function for parallel processing but don't know details myself.
+Lisp - das wäre ein Spaß! Bin immernoch fasziniert, dass Lisp immernoch gibt, aber klar - es ist beliebt für Anwendungen des maschinelles Lernens. Ja, wir brauchen Lisp hinzugefügt, kannst du das machen arc-over-water?
+Lisp scheint eine gute Funktion für parallele Prozesse zu haben, aber die Details kenne ich selbst nicht.
 
 **arc-over-water**
-now there is Shen.. http://shenlanguage.org/
+Nun ja, es gibt Shen.. http://shenlanguage.org/.
 
 **synth**
 
->How do you feel the incredible potential for illegal activities will affect the future of Skycoin and mass adoption?
+> Was glaubst für das unfassbare Potential für illegale Aktivitäten die Zukunft von Skycoin und der Massenadoption beeinflussen?
 
-The people selling drugs will love skycoin. Bitcoin was worthless until people could buy drugs with it, then it was money and it went from $0.01 to $1000 in a year.
-When the internet was created, the first thing people were doing was downloading porn. When bitcoin was created the first thing people were doing was buying drugs and guns.
-ISIS does not need skycoin, because they are using xbox messanger and facebook messanger. They do not need crypto. Every terrorist attack means budget increases, so the government loves ISIS. Terrorism is big money and the more terror, the more money there is to make. People are making too much money off of ISIS for them to get rid of the problem any time soon.
-Pedophiles were also the first ones to adapt stenography, i2p, tor, tails and bitmessage. They are always the first ones testing out any new crypto stuff. You should look at the logos of the stenography apps and you can guess what kind of people wrote these applications.
-Even two years, before skycoin was launched the intelligence and money laundering people were already showing up and giving lists of requirements for scrubbing or hiding metadata.
-If I was building the next silk road I would be looking at tech like skycoin is building. I think everyone has had that idea.
-We really cannot control what people are going to do with this. Its just inevitable progress and its going to happen whether we do it, or maidsafe does it or someone does it. Its going to happen. (edited)
+Die Drogenhändler werden Skycoin lieben. Bitcoin war wertlos, bis die Leute herausgefunden haben, dass sie damit Drogen verkaufen können, dann erst wurde es zu Geld und ist von $0.01 zu $1000 innerhalb eines Jahres gestiegen.
+Als das Internet erschaffen wurde war das erste was die Leute taten, Pornos herunterzuladen. Als Bitcoin erschaffen wurde war die das erste was die Leute taten, Drogen und Waffen zu kaufen.
+ISIS benötigt Skycoin nicht, sie verwenden XBOX-Messenger und Facebook-Messenger. Sie brauchen Crypto nicht. Jeder terroristische Akt bedeutet Erhöhen der Budgets, deshalb liebt die Regierung ISIS. Terrorismus ist eine Wirtschaftskraft und je mehr Terror, umsro mehr Geld ist dort zu holen. Die Leute machen zuviel Geld durch ISIS, als dass sie das Problems in nächster Zeit beseitigen werden.
+Die Pädophilen waren ebenso die Ersten, welche Stenografie, i2p, Tor, Tails und Bitmessage adaptiert haben. Das sind stets die Ersten, welche den neuen kryptographischen Kram ausprobieren. Man sollte auf die Logos der Stenografie-Apps schauen und man kann raten, welche Art von Leuten diese Art Anwendung geschrieben hat.
+Sogar zwei Jahre bevor Skycoin begann, hatten die Geheimdienste und Geldwäscher bereits ihre Anforderungen abgegeben, um Metadaten wegzuscheuern oder zu verstecken.
+Wenn ich die nächste Silk Road aufbauen würde, dann würde ich auf Technologie wie Skycoin setzen. Ich denke jeder hatte diese Idee bereits. 
+Wir können nicht wirklich kontrollieren was die Leute mit all den Sachen anstellen werden. Es ist ein unausweichlicher Prozess und es wird passieren, ob wir es tun oder andere, wie Maidsafe. Es wird stattfinden. (bearbeitet)
 
 **mike**
-looks interesting. have you seen julia, https://julialang.org/ . very impressed with its benchmarks, comparable to go
-think the best way to end terrorism is to end foreign interventionism. Last I knew, Switzerland doesn't have a problem with terrorists.
+Schaut interessant aus. Kennst du Julia, https://julialang.org/ ? Sehr beeindruckt der Benchmarks, vergleichbar denke ich, dass die Beste Art Terrorismus zu beenden ist, ausländische Interventionen zu beenden. Mein letzter Wissensstand war, dass die Schweiz kein Problem mit Terroristen hat.
 
 **arc-over-water**
-killary and obomba
+Killary and Obomba
 
 **michaelthecryptoguy**
-Sad but true.
+Traurig aber wahr.
 
 **mike**
-and the bushes
+Und dann die Bushs.
 
 **synth**
-uploaded this image: Screenshot from 2017-06-29 14:42:25.png Add Comment
+Hat dieses Bild hochgeladen: Screenshot from 2017-06-29 14:42:25.png Füge Kommentar hinzu.
 
 **synth**
-uploaded this image: Screenshot from 2017-06-29 14:41:55.png Add Comment
+Hat dieses Bild hochgeladen: Screenshot from 2017-06-29 14:41:55.png Füge Kommentar hinzu.
 
 **arc-over-water**
-fake news on an amazing level... sandy hook.. 911
-moon landing... Stephen Hawking...
-anyways..
+Fake News auf einem erstaunlichen Level... Sandy Hook... 911
+Mondlandung... Stephen Hawking...
+wie auch immer..
 
 **charles**
-North Korea also does not have a problem with terrorism :)
+Nord-Korea hat ebenso kein Problem mit Terrorismus :)
 
 **arc-over-water**
-Sky! the limit
+Sky! ist das Limit.
 
 **mike**
-don't even have to go to that level, just the current ongoing farce about Russian intervention in the election and supposed ties to Trump team members. War is the health of the corporate state.
+Man muss nichtmal auf dieses Level absteigen, schon allein die aktuelle Farce über das russische Eingreifen der Wahlen und die angebliche Verbindung zu Mitgliedern aus dem Team Trump. Krieg ist die Gesundheit eines Geschäftslandes.
 
 **synth**
-terrorist attacks are now advertising events for nike; they are fighting each other for who gets the product placement in the latest ISIS attack. It keeps people glued to their televisions and otherwise people would not watch the news. Even terrorist attack keeps people on the television and the fortune 500 fight each other, to get the ad spots for the people glued their television.
-The governments and companies race in, like sharks with the latest "surveilence" bill to get the governments to buy billions of dollars of useless equipment from them. The government agencies all rush in to influence the press and get budget increases passed.
-Its just insanity. They only care about money.
+Terroristische Attacken sind jetzt Werbeevents für Nike; sie kämpfen darüber, wer die Produktplazierung in der nächsten ISIS-Attacke bekommt. Es hält die Leute vor ihren Fernsehern und sonst würden die Leute die Nachrichten nicht ansehen. Sogar Terroristenattacken halten die Leute vor ihren Fernsehern und die Fortune 500 streiten darüber, wer den Werbesport für diese Leute vor ihren Fernsehern bekommt.
+Die Regierungen und Unternehmen laufen ein, wie Haie mit ihrer letzten "Überwachungs"-Rechnung, um der Regierung die Möglichkeit zu geben, für Milliarden von Dollar nutzloses Equipment zu kaufen. Die Regierungsbehörden hetzen alle danach die Presse zu beeinflussen und ihr Budget aufgestockt zu bekommen. 
+Es ist einfach nur Irrsinn. Sie denken nur ans Geld.
 
 **mike**
-it would be very inconvenient to improve relations with Russia for those making money and expanding power over escalating global tensions.
+Es wäre sehr unvorteilhaft die Beziehungen mit Russland zu verbessern, für jene, welche Geld und Macht mit eskalierenden globalen Spannungen machen.
 
 **arc-over-water**
-wasnt the first main scandal trump attack that he weed on some prostitutes in Russia. OMG
+War nicht erste Hauptskandal einer Attacke an Trump, dass er "etwas" auf eine Prostituierte in Russland ausgeschieden hat? OMG
 
 **synth**
-they have oil companies and russia produces oil; so hey want any execuse for "sanctions" to force people to buy their oil instead of russian oil. They would do a war, just to stop any Russian oil pipeline to Europe.
-It just about money.
+Sie haben Erdölfirmen und Russland produziert Öl; also möchten sie jede mögliche Ausrede für "Sanktionen", um die Leute dazu zu zwingen ihr Öl zu kaufen, anstatt das russische Öl. Sie würden einen Krieg beginnen, nur um eine russische Ölpipeline nach Europa zu verhindern. Es geht nur ums Geld.
 
 **arc-over-water**
-Putin is actually kicking some ass with his speeches the last years.
+Putin tritt tatsächlich, mit seinen Reden des letzten Jahren, in einige Ärsche.
 
 **synth**
-if russia gave me free prostitutes, I would pee on them too, lol. Why not? (edited)
+Wenn Russland mir Prostituierte umsonst geben würde, dann würde ich auch auf sie pinkeln, lol. Warum auch nicht? (bearbeitet)
 
 **mike**
-don't forget Pussygate - the press sat on the tape for 10 years until 3 weeks before the election, instead of during the primaries.
+Pussygate nicht zu vergessen - die Presse hat den Streifen für über 10 Jahre einbehalten, bis drei Wochen vor den Wahlen, anstatt es vor den Primaries zu veröffentlichen.
 
 **arc-over-water**
-crazy shit out there...
-time for crypto to shine..
+Verrückte scheiße da draußen...
+Zeit für Crypto zu glänzen...
 
 **xano**
-I just wonder how services like mega would have ended up with Skycoin
+Ich wundere mich nur, wie Services wie Mega enden werden mit etwas wie Skycoin.
 
 **synth**
-the "Y2K" was also excuse, to sell tens of billions of dollars of "upgrades" to government and corporations. They told them "give us your money or the sky will fall".
-terrorism is the same story, its just turned into a money making scam. 90% of the surveilence crap is just companies finding excuses to lobby the government to buy over priced equipment, so they can make money. They do no even know what to do with the data they collect. They are doing insider trading and rigging markets and all sorts of crap with the data and then panicing when people start using HTTPS because its harder for them to keep making money the same way.
+Das "Y2K" war ebenso eine Ausrede, um zweistellige Milliardenbeträge an Dollars für "Upgrades" an Regierungen und Unternehmen abzusetzen. Sie haben ihnen gesagt "gebt uns das Geld, oder der Himmel wird herunterfallen".
+Terrorismus ist die gleiche Geschichte, es ist hat sich einfach ein Betrug zum Geldschöpfen entwickelt. 90% des Überwachungsmists ist einfach nur eine Ausrede der Unternehmen, mit Lobbyarbeit die Regierungen dazu zu drangen, überteuertes Equipment zu kaufen, sodass sie Profit schlagen. Sie wissen nichtmal, was sie mit den gesammelten Daten anfangen sollen. Sie tätigen Insider-Trading Marktmanipulation und ein Haufen Mist mit den Daten, aber reagieren panisch, wenn die Leute beginnen HTTPS zu verwenden, weil es für sie dann schwerer ist auf dieselbe Art weiterhin Geld zu verdienen.
 
 **arc-over-water**
-Mega2 is about to show its prototypes
+Mega2 ist bereit seinen Prototype vorzuführen.
 
 **synth**
-you have mom and pop local police departments, buying $150,000 string ray cell phone interception equipment that is NSA level, who could not even afford it, but its paid for out of 10 billion dollar DHS "terror" fund to buy useless equipment for local police. To "fight terrorism". Its really a joke.
+Man hat Mama und Papa, die lokalen Polizeiämter, welche für $150,000 Stingray Handyüberwachungsequipment kaufen auf NSA-Level, welche das eigentlich nicht bezahlen könnten, aber es wird aus den 10 Milliarden DHS "Terror"-Fund finanziert, um nutzloses Equipment für die lokale Polizei zu kaufen. Um "Terrorismus zu bekämpfen". Es ist ein regelrechter Witz.
 
 **arc-over-water**
-Sky list of aims over the next two years?
-Next ICO cost and how it will be released?
+SKYs Ziele über die nächsten zwei Jahre?
+Die Preise der nächsten ICO und wie wird sie veröffentlicht?
 
 **synth**
-people know that companies like apple and goolge are required to hand over all their data to the government. including messages, so why would anyone use imessanger or icloud?
-So they are staging fake events with "police cant break the 4 digit pin on an iPhone and its unbreakable" when they can actually trojan the phone from the carrier, etc and have all sorts of insane mandatory backdoors.
-So we are heading towards a decentralized internet and these new apps, as people get sick of being tracked like animals.
+Die Leute wisen, dass Unternehmen wie Apple und Google obligatorisch dazu veranlagt sind, all ihre Daten der Regierung auszuhändigen. Eingeschlossesn der Nachrichten, also warum würde irgendjemand iMessenger oder iCloud verwenden?
+Sie kreieren also vorgespielte Events wie "Polizei kann nicht den 4-stelligen Pin auf einem iPhone knacken, es ist unknackbar", wobei sie das Handy vom Betreiber aus per Trojaner infizieren können und verschiedenste Arten von Sachen machen können, wir verrückte, obligatorische Hintertüren.
+Wir sind also auf dem Weg zu einem dezentralisierten Internet mit diesen Apps, weil die Leute es satt sind wie Tiere ausgespäht zu werden.
 
 **michaelthecryptoguy**
-@synth What is your background? Can you tell me a little about your prior experience, regardless of what area it was in? (edited)
+@synth Was ist dein Background? Kannst du mir etwas über deine bisherige Erfahrung, unabhängig des Gebietes geben? (bearbeitet)
 
 **synth**
 
-> Sky list of aims over the next two years?
+> SKYs Ziele über die nächsten zwei Jahre?
 
-Get meshnet working Get BBS and first demo apps working Get VPN working and get it to users List on more exchanges Build up community Improve the wallet, fix website, translations into more languages ec
+Das Meshnet zusammen mit dem BBS, den ersten Demo-Apps, dem VPN zum Laufen zu bekommen und es auf mehr Exchanges zu listen. Aufbauen der Community, verbessern des Wallets, aktualisieren der Website, Übersetzungen in weitere Sprachen etc.
 
 **arc-over-water**
-Also the two Chinese guys who wrote the technical whitepaper, the scholars, are part of the team?
+Sind die zwei Chinesen, die Wissenschaftler, welche das technische Whitepaper geschrieben, ein Teil des Teams?
 
 **synth**
-@synth What is your background? Can you tell me a little about your prior experience, regardless of what area it was in?
-I did a lot of things. video games, hedge fund/finance, crypto, investment stuff etc... Now am I a sort of project manager.
+> @synth Was ist dein Background? Kannst du mir etwas über deine bisherige Erfahrung, unabhängig des Gebietes geben?
+
+Ich habe eine Menge Dinge getan. Videospiele, Hedge-Fond/Finanzwesen, Crypto, Investmentzeug etc... Jetzt bin ich eine Art Projektmanager.
 
 **charles**
-How will the price of skycoins be determined for the next ICO, I, suppose it cannot be above market price, else people would not buy it, but too far below would depreciate the coin
+Wie wird der Preis der Skycoin für die nächste ICO bestimmt werden, ich vermute es kann nicht überhalb des Marktpreises sein, denn sonst werden die Leute es nicht kaufen, aber zu tief würde den Coin abwerten?
 
 **arc-over-water**
-do they want high price at this point or well even distribution to the best placement of people?
+Wollen sie überhaupt einen hohen Preis an diesem Punkt oder eine gute Verteilung unter den Leuten?
 
 **synth**
 
-> Also the two Chinese guys who wrote the technical whitepaper, the scholars, are part of the team?
+> ind die zwei Chinesen, die Wissenschaftler, welche das technische Whitepaper geschrieben, ein Teil des Teams?
 
-One of the chinese guys has nothing to do with it. He is a professor that put his name on paper his graduate student published. And now the professor wants to hide the paper, because he thinks the chinese government is cracking down on bitcoin; but he is wrong and the government doesnt care and the paper is in english so they cant read it anyways.
-And the other one is a core ETH developer. Chen was core ETH and wrote the golang implementation of Ethereum. He is not very public and does not want to be in spotlite or bothered.
-most of the contributors for skycoin are in the background or hiding actually (edited)
-many of the ETH people are all whoring themselves out to advisor boards to various tokens, or dozens of tokens and ICOs; but most of the serious crypto people are very private and hiding themselves. They do not want to be known, do not want to promote or advertise themselves and they are in the background.
-Or they have too much money already and just want to hide. They are also lazy because they do not have to work anymore, or they are busy with other things.
-they also want to avoid taxes and being targetted for theft and do not want attention from government
-skycoin cannot have a "Team" or "Advisor Board" on website, because we asked everyone and no one wants to be public or wants to be in a public position....
+Einer der chinesischen Jungs hat nichts damit zu tun. Er ist ein Professor, der sein Namen auf das Paper seines graduierenden Studentens gesetzt hat. Jetzt möchte der Professor das Paper verstecken, weil er denkt, dass die chinesische Regierung hart mit Bitcoin durchgreifen wird; aber er liegt falsch und die Regierung kümmert es nicht und das Paper ist in Englisch, also können sie es ohnehin nicht lesen.
+Der andere Kerl ist ein ETH-Kern-Entwickler. Chen hat am Kern von ETH gearbeitet und hat die Golang-Implementierung von Ethereum geschrieben. Er steht nicht sehr in der Öffentlichkeit und möchte nicht im Spotlight stehen, oder belästigt werden.
+Die meisten Mirarbeitenden an Skycoin sind im Hintergrund oder verstecken sich. (bearbeitet)
+Viele der ETH-Leute verkaufen sich für Ratgebergremien für verschiedenste Tokens, oder Dutzende von Tokens und ICOs; aber die meisten der ernsthaften Crypto-Leute ist sehr reserviert und bleibt im Hintergrund.
+Beziehungsweise sie haben teilweise schon genug Geld und wollen nur versteckt bleiben. Sie sind außerdem faul, weil sie nicht mehr arbeiten müssen, oder sie sind mit anderen Dingen beschäfigt.
+Dazu kommt, dass sie Steuern vermeiden wollen oder die Anklage des Diebstahls, wollen also keine Aufmerksamt der Regierungen.
+Skycoin kann kein öffentliches "Team" oder "Ratgebergremium" auf der Website haben, weil wir alle gefragt haben und keiner möchte öffentlich gemacht werden oder in einer öffentlichen Position stehen...
 
 **arc-over-water**
 yes best to live in a country your not citizen of and earn money from a country your not living in... Been doing it for ten ears, way less stress, (edited)
