@@ -15,7 +15,7 @@ categories = [
 
 *Aktualisiert August 29, 2017. Hinzufügen von Reddit-Aktivitäts-Bonus. Erhöhen der GIF-Belohnung zu 20.*
 
-*Aktualisiert September 3, 2017. Hinzufügen von Französisch zu Übersetzungsbelohnungen*
+*Aktualisiert September 3, 2017. Hinzufügen von Französisch zu Übersetzungsbelohnungen.*
 
 *Aktualisiert September 12, 2017. Erhöhen der Infographicbelohnung zu 30.*
 
@@ -43,18 +43,17 @@ Brandinggüter (Logos, Farben) sind unter [Downloadseite](https://www.skycoin.ne
 
 ## Videos
 
-Youtube Videos (z.B. Vlog ähnliches Material) über Skycoin im Algemeinen.
+Youtube Videos (z.B. Vlog ähnliches Material) über Skycoin im Allgemeinen.
 
-* 1SKY pro 1000 Aufrufe
-* Muss von einem relevanten (z.B. cryptowährungsrelatiertem) Youtube-Account stammen
+* 1 SKY pro 1000 Aufrufe.
+* Muss von einem relevanten (z.B. cryptowährungsrelatiertem) Youtube-Account stammen.
 * Das Video muss selbsterstellter Inhalt sein (oder ausreichend modifizierter derivativer Inhalt).
 
-Produktion von Promotionsvideos (z.B. Beschreiben der Skycoin-Technology)
+Produktion von Promotionsvideos (z.B. Beschreiben der Skycoin-Technologie)
 
-* 150 SKY
-* You can also post this to your youtube channel and collect that bounty
-* Man kann dies ebenso zu seinem Youtube-Channel hinzufügen und diese Belohnung erhalten
-* Skycoin ist es erlaubt diese Videos auf ihrem eigenen Youtube-Channel oder auf der Skycoin-Website zu verwenden
+* 150 SKY.
+* Man kann dies ebenso zu seinem Youtube-Channel hinzufügen und diese Belohnung erhalten.
+* Skycoin ist es erlaubt diese Videos auf ihrem eigenen Youtube-Channel, oder auf der Skycoin-Website zu verwenden.
 
 ## Übersetzungen
 
@@ -70,9 +69,9 @@ Akzeptierte Sprachen sind:
 * Français
 * Nederlands (maximal 30 SKY Belohnung pro Artikel)
 
-*Beachte: 中文 and Рyсский Übersetzungen haben bereits alle jemand der an Ihnen arbeitet*
+*Beachte: 中文 and Рyсский Übersetzungen haben bereits alle jemanden, der an ihnen arbeitet.*
 
-Wir werden weitere Sprachen hinzufügen aber sind momentan nicht in der Lage andere Sprachen zu verifizeren.
+Wir werden weitere Sprachen hinzufügen, aber sind momentan nicht in der Lage andere Sprachen zu verifizeren.
 
 Pro 500 Worte gibt es 5 Sky. Zum Beispiel:
 
@@ -88,7 +87,7 @@ Der Post darf noch nicht übersetzt sein.
 Falls der Post schon übersetzt wurde und man findet Fehler oder Verbesserungen, kann man einen kleinen Betrag als Anerkennung erhalten.
 
 Einer oder zwei andere Muttersprachler der übersetzten Sprache müssen die Übersetzung auf ihre Qualität prüfen.
-Schlechte Übersetzungen werden keine Belohnung erhalten, obwohl es einem in diesem Fall frei steht, solange Verbesserungen anzubringen, bis es akzeptiert wird.
+Schlechte Übersetzungen werden keine Belohnung erhalten, obwohl es einem in diesem Fall frei steht, solange Verbesserungen anzubringen, bis sie akzeptiert wird.
 
 ## Schriftstellerei
 
