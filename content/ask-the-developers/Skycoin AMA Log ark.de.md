@@ -284,7 +284,7 @@ Auf der chinesischen Seite haben wir frühzeitige Investoren, einer in Alibaba u
 Darüber hinaus sind Leute an Bord aus der 'United States Intelligence Community' sowie der 'Israeli Intelligence Community', welche eine Art Geldwäsche betreiben oder eine andere Art psychologischer Untergrundoperation und aus irgendeinem Grunde aufgetaucht sind. Diese Gruppe ist sehr interessiert and den 'Anwendungen' dieser Coins und wie man Transaktionsprivatsshpäre verbessern kann, sowie der Spezifikation der CoinJoin-Protokoll-Implementierung.
 Wir haben viele Ratschläge & Anforderungen von Leuten, die im 'forensic Accounting' (forensische Buchhaltung) tätig sind, erhalten und sie haben uns mitgeteilt inwiefern Bitcoin unzureichend ist in der Form, dass Metadaten preisgegeben werden.
 Außerdem gibt es einige Doktoranden, welche Forschung in der Richtung der verteilten Datenbankenkonsensusalgorithmen betreiben und eine andere Gruppe forscht and Programmiersprachen. 
-Dazu kommen viele Leute aus den Tiefen des Darknet, anonyme Personen, Frog, Twitter und Cypherpunk sowie aus der Bittorrent-Community (sollte eigentlich als zwei separate Gruppe aufgezählt werden). Nicht zu vergessen die Leute aus der russischen Darknet-Community. Wir haben ungefähr acht Ivans. (edited.)
+Dazu kommen viele Leute aus den Tiefen des Darknet, anonyme Personen, Frog, Twitter und Cypherpunk sowie aus der Bittorrent-Community (sollte eigentlich als zwei separate Gruppe aufgezählt werden). Nicht zu vergessen die Leute aus der russischen Darknet-Community. Wir haben ungefähr acht Ivans. (bearbeitet.)
 
 > Im Grunde genommen sehe ich Skycoin als Ersetzung des TCP/IP, sowie der Bereitstellung von Mesh-Netzwerk-Funktionaltität auf Hardwareebene. Ark würde darüber als eine Art Top-Anwendungsschicht laufen.
 
@@ -298,7 +298,7 @@ Wer ist die Organisation die das finanziert? Ich glaube ihr habt zwei ICOs gemac
 Plant ihr in nächster Zeit auf weiteren Exchange-Seiten gelistet zu werden?
 
 **arc-over-water**
-Bist du persönlich in Skycoin von Anfang an involviert gewesen? Wieviel besitzen die Mitglieder/Entwickler? Wer alloziiert die ICO-Geldmenge etc... Ich hoffe du verstehst das Dezentralisierung mit Investitionen ist ein zweiseitiges Schwert, wir investieren in Leute, können diese aber nicht kennen... also... fragen wir. (edited)
+Bist du persönlich in Skycoin von Anfang an involviert gewesen? Wieviel besitzen die Mitglieder/Entwickler? Wer alloziiert die ICO-Geldmenge etc... Ich hoffe du verstehst das Dezentralisierung mit Investitionen ist ein zweiseitiges Schwert, wir investieren in Leute, können diese aber nicht kennen... also... fragen wir. (bearbeitet)
 
 **thrice.pi**
 Mit all diesen außenstehenden Parteien, die helfen Skycoin zu schreiben und es an den Punkt, an dem es heute ist zu bringen, wer ist der Kern des Teams und wer wird helfen all diese coolen Funktionen am laufen zu halten zu halten? Werden diese außenstehenden Parteien langfristig rekrutiert werden?
@@ -311,7 +311,7 @@ Die Leute, die das Projekt für die ersten vier Jahre finanziert haben, waren fr
 
 Die ursprünglichen Skycoin-Entwickler haben akademische Forschung betrieben bezüglich der Architektur von neuen Algorithmen. Protoypen und Simulation. Die spätere Stufe waren mehr Projektmanager und Leute die die Implementierung vollführt haben.
 Wir haben vier ICOs mit kleineren Mengen durchgeführt um die Entwicklung zu finanzieren und um den Entwicklern, die an dem Projekt arbeiten, die Möglichkeit zu geben sich einzukaufen.
-Ich erinnere mich, dass die erste ICO bei $0.10 pro Coin war und der Preis jetzt ist in etwa $4.00 pro Coin, also ist der Kurs etwa ~35x oder 40x gestiegen, aber wenn man bedenkt, dass der Preis von Bitcoin von $100 zu $3000 gestiegen ist, ist die Zunahme nicht so groß. Lol. (edited)
+Ich erinnere mich, dass die erste ICO bei $0.10 pro Coin war und der Preis jetzt ist in etwa $4.00 pro Coin, also ist der Kurs etwa ~35x oder 40x gestiegen, aber wenn man bedenkt, dass der Preis von Bitcoin von $100 zu $3000 gestiegen ist, ist die Zunahme nicht so groß. Lol. (bearbeitet)
 
 **arc-over-water**
 Mit dem Anstieg des Preises um das 35x in etwa einem Jahr, ist jetzt nicht die Zeit um den Anstieg abzuflachen und eine weitere ICO stattfinden zu lassen? Mit welcher Menge an releasten Coins und mit welcher Methode? 
@@ -442,120 +442,118 @@ Es gibt sogar eine frei verfügbare FPGA-Toolchain und ein 1-Instruktion-Rechner
 Hast du einen Link zu dem FPGA? Mein Favorit war bisher die ZYNQ 7000 Serie, aber das hier hört sich wesentlich günstiger an.
 
 **synth**
-I have to ask about the FPGA
+I muss wegen des FPGAs nachfragen.
 
 **mike**
-Blue Canyon uses ZYNQ 7000 for their Cubesat bus.
+Blue Canyon nutzt den ZYNQ 7000 wegen deren Cubesat-Bus.
 
 **synth**
-it is education company in shanghai
+Ist das die Schulungsfirma in Shanghai?
 
 **thrice.pi**
-i dont want to disrupt this communication u and mike have going on cuz its good to see you two discussing these things so please do continue..but i just a simple question that mike actually asked earlier which i didnt see a reply to..he asked what type of spes is needed to run a node for skycoin
+Ich möchte die Unterhaltung zwischen dir und Mike nicht unterbrechen, denn es ist spannend das Gespräch zu verfolgen.. aber hier ist eine einfache Frage die Mike vorher gestellt hatte und zu der ich keine Antwort gelesen habe. Er fragte wieviel Bandbreite notwendig ist um einen Skycoin-Knoten laufen zu lassen?
 
 **synth**
-how much is it for cube sats for launch? 200 for 3 million?
+Wieviel kostet ein Cubesat-Start ? 200 für 3 Millionen?
 
 **mike**
-it has dual core ARM with an attached FPGA and both analog and GIO, PWM
+Es hat einen Dual-Core ARM mit einem angehängten FPGA, beide analog mit GIO, PWM.
 
 **synth**
 
-> he asked what type of spes is needed to run a node for skycoin
+> Er fragte wieviel Bandbreite notwendig ist um einen Skycoin-Knoten laufen zu lassen?
 
-We are trying to keep to level where 2 Ghz arm board with 1 GB of ram can run it. ideally
+Wir versuchen das Level so halten, dass 2 Ghz ARM-Board mit 1 GB RAM dazu fähig ist. Im Idealfall.
 
 **mike**
-50K per 1U satellite was the going rate, but that is coming down a lot.
+50K pro 1U Satellit was die Preisrate, aber diese ist mittlerweile stark gefallen.
 
 **synth**
-skycoin is very minimalist; it much lower on resource usage than either bitcoin or ethereum; the bandwidth usage is less than 10 Kb/s
+Skycoin ist sehr minimalistisch; Es ist sehr viel schonender in Sachen Ressourcennutzung als Bitcoin oder Ethereum; Die Bandbreitennutzung ist geringer als 10Kb/s
 *10 KB/s
 
 **thrice.pi**
-thank u..yes it doesn't sound like much at all..thank you for your reply @synth
-maybe i missed this answer but when is the next ico taking place
+Dankeschön.. Ja es klingt nicht nach sehr viel..danke für deine Antwort @synth. Vielleicht habe ich diese Antwort überlesen, aber wann soll die nächste ICO stattfinden?
 
 **mike**
-so current Bitseed V2 can run it no problem. is dual core Arm with 1 Gb RAM, 1G ethernet and SATA, 4 Gb eMMC on board.
+Die aktuelle Bitseed V2 kann es also ohne Probleme laufen lassen, das ist ein Dual-Core ARM mit 1GB RAM, 1G Ethernet und SATA-Schnittstelle, 4GB eMMC auf dem Board.
 
 **synth**
-the next ICO is just marketing event, but is july 20th I think
-and it is just run up before largest exchange listings and marketing and PR push etc
-oh, the dual core arm can run bitcoin and ethereum; that is amazing; ethereum should be CPU hog
+Die nächste ICO ist nur ein Marketingevent, aber es müsste der 20te Juli sein glaube ich.
+Es ist nur ein kleiner Anlauf bevor die großen Exchangelistungen geschehen und das Marketing einen PR-Anstoß ausführen wird etc. Oh der Dual-Core ARM kann Bitcoin und Ethereum laufen lassen; Das ist fantastisch; Ethereum sollte der CPU-Vielfraß sein.
 
 **thrice.pi**
-how long is it on for ?
+Wie lange wird sie stattfinden?
 
 **michaelthecryptoguy**
-also techbytes had a good question >>>>>Do we need to hold skycoin to run Skywire nodes or consensus nodes like masternodes from other coins?
+Techbytes hatte eine gute Frage >>>>> Müssen wir Skycoin besitzen um Skywire-Knoten oder Konsensus-Knoten, wie Masterknoten bei anderen Coins, laufen zu lassen?
 
 **synth**
 
-> Do we need to hold skycoin to run Skywire nodes or consensus nodes like masternodes from other coins?
+> Müssen wir Skycoin besitzen um Skywire-Knoten oder Konsensus-Knoten, wie Masterknoten bei anderen Coins, laufen zu lassen?
 
-No. We want to have some kind of freemum thing. If you are not paying coins, the nodes will allocate 20% of bandwidth for the free tier
-But you wont have congestion if you are paying, so much better service and speed, but we dont want people not being able to access a service or the network if they have no coins in the wallet
-but we need to cap the resource usage of the freemium tier, so that it does not get out of control or clog the network
+Nein. Wir wollen eine Art Freemium-Sache haben. Wenn man keine Coins bezahlt, wird der Knoten 20% der Bandbreite für diese freie Stufe alloziieren.
+Man wird keine Überlegung haben, wenn man bezahlt, also viel besseres Service und Geschwindigkeit, aber wir wollen nicht, dass Leute nicht fähig sein einen Service des Netzwerks nicht nutzen können, falls sie keine Coins im Wallet haben.
+Wir müssen allerdings die Ressourcennutzung der Fremmiumstufe limitieren, sodass das nicht außer Kontrolle gerät und das Netzwerk blockiert.
 
 **michaelthecryptoguy**
 :excellent:
 
 **thrice.pi**
-@synth the ico in july for marketing purposes that u mentioned ...is that pertaining to what mike asked about when he asked "Will Skycoin still have the node subsidy plan for setting up and registering the mesh nodes like originally planned?" (edited)
+@synth die ICO in Juli für Marketingzwecke die du erwähnt hast.. bezieht sich das, auf das was Mike sich bezogen hat als er fragte "Wird Skycoin den Subventionsplan für das Einrichten und Registrieren der Mesh-Knoten, wie ursprünglich geplant, beibehalten?"(bearbeitet)
 
 **synth**
-it is easier to get people on network, without having to do anything; then they wil figure out the rest later and how to optimize it and setup a 32 node cluster and load coins in and learn linux and use a CLI and becoming a mining baron with a 10 Gbps uplink and physical cables to their neighbors and wifi nodes on their roof etc, lol
+Es ist einfacher Leute ins Netzwerk zu bekommen, wenn sie nichts tun müssen; Sie werden den Rest später herausfinden, wie man es optimieren kann, wie man ein 32-Knoten-Cluster aufsetzt und Coins reinlädt und wie man Linux und CLI nutzt, sie werden Mini-Barone werden mit 10Gbps Uplink und physischen Kabeln zu ihren Nachbarn und WiFi-Knoten auf ihren Dächern etc, lol.
 
 **thrice.pi**
 lol
 
 **mike**
-so looks like you're using the Orange Pi PC, one of the connector ports is the USB, the other ethernet. http://www.orangepi.org/orangepipc/ . These are nice cards. orangepi.org orange pi pc - Orangepi
+Sieht so aus als würdet ihr den Orange Pi PC nutzen, einer der Anschlüsse ist USB, der andere Internet. http://www.orangepi.org/orangepipc/. Das sind nette Karten. orangepi.org orange pi pc - Orangepi
 
 **synth**
-eventually, if you have 40 Ghz and directional antennas, satilites or drones make sense for long haul or relaying traffic between cities. I think if we can get this working, the "miners" and hardware innovation will be insane.
-We have guy who did PHD thesis on printing phased array and fractal antennas with organic semiconductor ink and he already wants to start companies to do antennas for skycoin "mining" hardware; but the software still needs a lot of work before they can start this insanity.
+Schlussendlich, wenn man 40Ghz und gerichtete Antennen hat, Satelitten oder Drohnen machen Sinn für Langstreckenkommunikation oder Vermittlung von Traffic zwischen Städten. Ich glaube, wenn wir das zum Laufen bekommen, werden die "Miner" und Hardware-Innovationen verrückt sein.
+Wir haben ein Mitglied, der seine Doktorarbeit über gedruckte Phased-Array und Fraktalantennen mit organischem semi-leitender Druckerfarbe schreibt und er will sogar schon Firmen gründen, die Antennen für die Skycoin "Mining" Hardware produzieren; aber die Software benötigt noch einiges an Arbeit bevor wir diese Art Wahnsinn starten können.
 
 **mike**
-yes, that's what we were waiting for with Bitseed, been doing BTC fullnodes in mean time.
+Genau darauf haben wir mit Bitseed gewartet, BTC-Komplettknoten in mittlerer Zeit laufen lassen.
 
 **thrice.pi**
-it seems skycoin is one hell of a coin..but it may be difficult to use for the everyday user to wrap their mind around..you think there is potential for something like ark to be used as a gateway to skycoin..so the everyday user can use something easy like arks network to link to something so broad, complex and revolutionary like skycoin ? @synth (edited)
+Es scheint so als wäre Skycoin ein höllischer Coin.. aber es könnte für den alltäglichen User schwer sein das ganze zu begreifen.. Denkst du es gibt Potential für etwas wie Ark, dass als eine Art Gateway zu Skycoin fungieren könnte.. sodass der alltägliche Nutzer etwas einfaches wie das Ark-Netzwerk nutzen könnte um zu etwas umfassenderen, komplexeren und revolutionären wie Skycoin anzuschließen? @synth (bearbeitet)
 
 **synth**
-i will give you the solid works files, so you can start manufacturing these in bulk; we do not have factory and even assembling 30 units at a time is difficult for us
+Ich werde euch die "Baupläne" geben, sodass du ihr diese selbst in Massen produzieren könnt; wir haben keine Fabrik und sogar der Zusammenbau von 30 Einheiten auf einmal ist für uns schwierig.
 
 **thrice.pi**
-sorry if this has been addressed..i may of blinked and missed it with all these great questions (edited)
+Entschuldigung falls das schon besprochen wurde.. ich habe vielleicht geblinzelt und es verpasst mit all diesen großartigen Fragen. (bearbeitet)
 
 **mike**
-the antennas can be printed with graphene ink, have over 200 dB gain on a cubesat compatible form factor if done right.
+Diese Antennen können mir Graphendruckertinte gedruckt werden, haben über 200 dB Stärke in einem cubesat-kompatiblen Format, wenn es richtig gemacht wird.
 
 **michaelthecryptoguy**
-This would really help :dancing: people in third world countries turn into a :sun: (self :this:owned) Financial Services and Communications Company :bananadance::goodjob: :hadouken: Now we just need to find a way to get them a smartphone :partysaurus::tophat: (edited)
+Das würde wirklich helfen :dancing:, Leute in Dritte-Welt-Ländern in :sun: (selbst :this:owned) finanzielle Services und Kommunikationsfirmen zu verwandeln  :bananadance::goodjob: :hadouken:. Jetzt müssen wir nur noch einen Weg finden, ihnen ein Smartphone zukommen zu lassen :partysaurus::tophat:. (bearbeitet)
 
 **mike**
-would very much like to do that, maybe come up with packaging which takes a lot less time to assemble, lower cost. though makerbeam is cool...
-that's been intent, have stationary nodes with storage, and open source modular mobile with mesh networking, which can achieve global penetration with secure, encrypted networking.
+Würde das sehr gerne tun, vielleicht mit einer Art Paket herauskommen, dass viel weniger Zeit braucht es aufzusetzen bei geringeren Kosten. Obwohl Makerbeam cool ist...
+Das war die Intention, stationäre Knoten mit Speicher haben und frei verfügbare modulare mobile mit mesh-netzwerk, welche globale Reichweite erreichen mit sicherem, verschlüsseltem Networking.
 
 **synth**
-yes, stationary, moving nodes creates a lot of problems
-skywire only works because its it designed to run over point-to-point segments and not for "mobile adhoc networking" where people are moving around
+Genau, stationäre, mobile Knoten verursachen eine Menge Probleme.
+Skywire funktioniert nur, weil es dafür designt ist von Punkt-zu-Punkt Segmenten zu laufen und nicht für "mobiles ad hoc Networking", bei dem die Leute sich umherbewegen.
 
 **arc-over-water**
-Do you have a basic program product release? Is it correct at them moment it is just the wallet?
+Habt ihr ein einfaches Produkt veröffentlicht? Stimmt es, dass aktuell nur das Wallet draußen ist?
 
 **mike**
-so the routing tables don't update that often?
+Die Routingtabellen aktualisieren nicht also so oft?
 
 **synth**
-https://github.com/skycoin has a lot of different applications
-https://github.com/skycoin/bbs works right now
-the routing tables only change on new connection; so you make ~10 connections to a pubkey and if some drop you create new ones. so there is redundancy in the path and transit method. "diversity routing"
-where as the direct connections between nodes are supposed to change less frequency, such as not more often than 10 seconds. Ideally never changing. any change to underlying physical connectivity, causes update cascade and is a change to network topology (should be minimized).
-Where as connection dropping or routes being or connection established, does not change network topology and has no administrative overhead in bandwidth.
-short range, mobile ad hoc routing needs to be handled by another protocol like BATMAN, while fixed infrastructure like WIFI hotspots, fiber between cities, ethernet cables etc is handled by the skywire stuff; so if you enter a coffee shop and connect and are there for 30 minutes, then you are fine; but if you are driving down the street connecting to different hotspot every 5 seconds, its not designed for that and needs another protocol layer for "mobile"
+https://github.com/skycoin hat eine Menge verschiedener Anwendungen.
+https://github.com/skycoin/bbs funktioniert in diesem Moment.
+Die Routingtabellen ändern sich nur bei einer neuen Verbindung; man hat also ~10 Verbindungen zu einem öffentlichen Schlüssel und falls einige ausfallen kreiert man neue. Es gibt also Redundanz in den Pfaden und der Durchgangsmethode. "Vielfältigkeits Routing".
+Wohingegen die direkten Verbindungen zwischen Knoten sich in einer geringeren Frequenz ändern sollen, nicht öfter als alle 10 Sekunden. Im Idealfall niemals verändert. Jede Änderung der zugrundeliegenden physischen Verbindung, resultiert in einer Aktualisierungskaskade und verändert die Netzwerkstruktur (sollte minimiert werden).
+Während Verbindungsverlust oder Verbindungsherstellung die Netzwerkstruktur nicht verändert und keinen administrativen Mehraufwand in Sachen Bandbreite verursacht.
+Kurzstrecke, mobiles ad hoc Routing muss von einem anderen Protokoll wie BATMAN behandelt werden, während feste Infrastruktur wie WiFi-Hotspots, Fiber zwischen Städten, Ethernet-Kabel etc. wird von den Skywire-Sachen behandelt; wenn man also einen Coffee-Shop betritt und dort 30 Minuten verbleibt, dann hat man kein Problem; wenn man aber die Straße herunterfährt und alle fünf Sekunden zu einem anderen Hotspot verbindet, dann hat man eines. Es ist nicht dafür designt das zu behandeln und es wird eine weitere Protokollschicht benötigt um "mobil" zu behandeln.
 
 **mike**
 so nodes can move if the transmission is not interrupted, like a beam forming antenna could do it as long as the beams can be moved fast enough to not interrupt the communication.
