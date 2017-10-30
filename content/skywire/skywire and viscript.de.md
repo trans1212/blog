@@ -1,5 +1,5 @@
 +++
-title = "Skywire and Viscript"
+title = "Skywire und Viscript"
 tags = [
     "Development",
     "Skywire",
@@ -10,7 +10,7 @@ categories = [
     "Skywire",
 ]
 +++
-## Introduction
+## Einleitung
 
 ### Viscript
 
