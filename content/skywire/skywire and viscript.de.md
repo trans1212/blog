@@ -16,6 +16,8 @@ categories = [
 
 [Viscript](https://github.com/skycoin/viscript) is a cross platform CLI, and application launcher and for cluster management eventually. It is based on signal library as a signal server, so it can manage the signal clients, like node and the components in skywire. It can be run in GUI mode or headless mode.
 
+[Viscript](https://github.com/skycoin/viscript) ist eine plattform-unanbhängige CLI und Anwendungsstarter, sowie letztendlich Clustermanagement. Es basiert auf einer Signal-Bibliothek, die als Signal-Server fungiert, sodass es die Client-Signale, ähnlich wie die Knoten & Komponenten in Skywire, verwalten kann.
+
 #### Viscript GUI Screenshot:
 
 ![screenshot](viscript.jpeg)
