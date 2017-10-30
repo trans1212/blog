@@ -14,15 +14,13 @@ categories = [
 
 ### Viscript
 
-[Viscript](https://github.com/skycoin/viscript) is a cross platform CLI, and application launcher and for cluster management eventually. It is based on signal library as a signal server, so it can manage the signal clients, like node and the components in skywire. It can be run in GUI mode or headless mode.
-
 [Viscript](https://github.com/skycoin/viscript) ist eine plattform-unanbhängige CLI und Anwendungsstarter, sowie letztendlich Clustermanagement. Es basiert auf einer Signal-Bibliothek, die als Signal-Server fungiert, sodass es die Client-Signale, ähnlich wie die Knoten & Komponenten in Skywire, verwalten kann.
 
 #### Viscript GUI Screenshot:
 
-![screenshot](viscript.jpeg)
+![Screenshot](viscript.jpeg)
 
-We can add app configurations in the config.yaml file, like the meshnet-socks-server:
+Wir können App-Konfigurationen im config.yaml file hinzufügen, wie z.B. den meshnet-socks-server:
 
 ```
   meshnet-socks-server:
@@ -38,51 +36,50 @@ We can add app configurations in the config.yaml file, like the meshnet-socks-se
         Full Example Command:
             start meshnet-socks-server sockssrv0 101.202.34.56:9000 8001
 ```
+Nachdem viscript neugestartet wurde können wir die Anwendungen, welche von viscript gestartet wurde, mittels Kommando-Anwendungen prüfen.
 
-After restart viscript, we can check the applications that can be started by viscript, by command apps.
+Wie man in dem Screenshot erkennt, können wir Anwedungen mit dem Kommando `s` (`s apptracker 127.0.0.1:20000`) starten.
 
-As you can see in the screenshot, we can start app by using short command `s` (`s apptracker 127.0.0.1:20000`) .
-
-Then viscript starts it with a unique sequence id, we can ping(`ping`), check resource usage(`ru`) and shutdown(`sd`) through this id.
+Danach startet viscript mit einer eindeutigen Sequenz-ID und wir können die ID anpingen (`ping`), die Ressourcennutzung überprüfen (`ru`), oder die Anwendung mittels der ID herunterfahren (`sd`).
 
 ### Skywire
 
-[Skywire](https://github.com/skycoin/skywire) is a peer-to-peer alternative network that takes control from ISPs and gives it back to the users. There are several components inside it, node manager, node and applications run on meshnet like vpn client, vpn server, socks client, socks server and so on.
+[Skywire](https://github.com/skycoin/skywire) ist ein alternatives Peer-zu-Peer Netzwerk, dass die Kontrolle den IDA/ISP entzieht und den Usern zurückgibt. Es enthält etliche Komponenten, Knotenmanager, Knoten und Anwendungen laufen über das Meshnet(vermaschtes Netz) als eine Art VPN-Client, VPN-Server, Socks-Client, Socks-Server und so weiter.
 
-All the components inside Skywire are based on signal library as a signal client. So they can be launched, managed and shutdown by viscript.
+Alle Komponenten aus Skywire, basieren auf einer Signal-Bibliothek und agieren als Signal-Client. Sie können also via viscript gestartet, verwaltet oder heruntergefahren werden.
 
-## Architecture
+## Architektur
 
-#### Architecture Diagram:
+#### Architektur-Diagramm:
 
 ------
 
 ```
                                    +-----------+-------------+
            +---------------^-----+ |     vpn   |    socks    |
-           |  managed by   |       +-----------+-------------+
-           |               <-----+ |          node           |
+           | verwaltet von |       +-----------+-------------+
+           |               <-----+ |          Knoten         |
            v               |       +-------------------------+
-                           <-----+ |       node manager      |
+                           <-----+ |       Knotenmanager     |
 +-------------------+      |       +-------------------------+
 |      viscript     |      +-----+ |        messenger        |
 +-------------------+--------------+-------------------------+
-|                        signal                              |
+|                        Signal                              |
 +------------------------------------------------------------+
-|                         net                                |
+|                         Netz                               |
 +------------------------------------------------------------+
 ```
 
 ------
 
-There are client side and server side applications for each service, like vpn client and vpn server. They runs on Skywire meshnet. As we know, Skycoin is the currency of Skywire, when the user forwards traffic or provide network resources, he or she receives Skycoin. Likewise, when the user consumes network resources or media, he or she spends Skycoin. Once metering and settlement is implemented, Skywire will generate coins for operating the network.
+Für jeden Service gibt es clientseitige und serverseitige Anwendunge, wie den VPN-Client und den VPN-Server. Sie laufen über das Skywire-Meshnet. Bekannt ist, dass Skycoin die Währung von Skywire ist und wenn ein User Traffic weiterleitet, oder Netzwerkressourcen bereitstellt, erhält er oder sie Skycoin als Vergütung. Gleichermaßen werden Skycoin ausgegeben, um Netzwerkressourcen zu verbrauchen, oder Medien zu konsumieren. Sobald die Gebührenerfassung und die Begleichung implementiert sind, wird Skywire Coins, für das Betreiben des Netzwerks, generieren.
 
-Node, Node Manager and Messenger are the key components of Skywire meshnet. Node is a peer to peer mesh node. Service applications will register to Node, and their traffic will be forwarded by Node. Node Manager manages the routes between nodes in meshnet. Messenger allows users to peer clusters by public key. They are the cornerstones of Skywire meshnet.
+Knoten, Knotenmanager und der Messenger sind zentrale Komponenten des Skywire-Meshnet. Knoten sind Peer-zu-Peer Meshknoten. Service-Anwendungen registrieren sich bei einem Knoten und deren Traffic wird über den Knoten weitergeleitet. Der Knotenmanager verwaltet die Routen zwischen den Knoten im Meshnet. Der Messenger erlaubt es den Usern, Cluster über deren öffentlichen Schlüssel anzusehen. Das sind Eckpunkte des Skywire-Meshnet.
 
-## Summary
+## Zusammenfassung
 
-Viscript and Skywire are still under heavy developments. But we have achieved many exciting milestones around the skycoin ecosystem. And we are enjoying and going to unlock the full potential of a free internet in the future!
+Viscript und Skywire sind immernoch unter starker Entwicklung. Wir haben jedoch viele spannende Meilensteine rund um das Skycoin-Ökosystem erreicht. Wir genießen es das volle Potential eines freien Internets der Zukunft freizuschalten!
 
-#### Sky-Messenger screenshot:
+#### Sky-Messenger Screenshot:
 
-![screenshot](messenger.png)
+![Screenshot](messenger.png)
