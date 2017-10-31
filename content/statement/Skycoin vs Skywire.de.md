@@ -9,56 +9,31 @@ categories = [
     "Statement",
 ]
 +++
+Skycoin and Skywire sínd zwei separate Komponenten des Skycoin-Projekts.
+Skycoin ist die Blockchain. Skywire ist das [mesh network](https://en.wikipedia.org/wiki/Mesh_networking)(vermaschtes Netz).
 
-Skycoin and Skywire are two separate components of the Skycoin Project.
-Skycoin is the blockchain. Skywire is the [mesh network](https://en.wikipedia.org/wiki/Mesh_networking).
+Skycoin wurde zuerst geschaffen. Er kann alleine existieren. 
+Er wurde wegen Bitcoins Probleme kreiert. Das größte Problem von Bitcoin ist das Mining,
+es führt zur Zentralisation von Bitcoin. Die anderen Probleme von Bitcoin, meist verbunden mit Softwarefehlern oder Kryptographie, führten zu Problematiken wie [Transaktionsgestaltbarkeit](https://en.bitcoin.it/wiki/Transaction_Malleability).
 
-Skycoin was built first. It can stand on its own. It was created to address
-problems that Bitcoin has. The biggest problem that Bitcoin has is mining,
-which leads to the centralization of Bitcoin. The other problems that Bitcoin
-had mostly related to cryptography or software bugs, leading to problems such
-as [transaction malleability](https://en.bitcoin.it/wiki/Transaction_Malleability).
+Skycoin entwickelte einen neuen Konsens-Algorithmus mit dem Namen [Obelisk](https://www.skycoin.net/whitepapers), der das Mining obsolet werden lässt (oder andere Alternativen wie [Proof-of-Stake](https://en.wikipedia.org/wiki/Proof-of-stake)).
+Davon handeln die [Whitepapers](https://www.skycoin.net/whitepapers).
+Der Konsens-Algorithmus nutzt ein Netz des Vertrauens, um das Netzwerk zu sichern.
+Jeder Knoten des Netzwerks hat eine kleine Liste von vertrauenswürdigen Peers.
+Mit diesen teilt man Blöcke. Wenn es einen schlechten Block gibt, z.B. einen, der eine doppelte Ausgabe [double spend](https://en.wikipedia.org/wiki/Double-spending) enthält, wird dieser von dir abgelehnt und auch von deinen vetrauenswürdigen Peers. Es kann viele bösartige Knoten im Netzwerk geben, aber sie werden keinen Einfluss haben, sofern man ihnen nicht vertraut.
 
-Skycoin developed a new consensus algorithm called [Obelisk](https://www.skycoin.net/whitepapers)
-that eliminates mining (or other alternatives such as
-[Proof-of-Stake](https://en.wikipedia.org/wiki/Proof-of-stake)).
-This is what the [whitepapers](https://www.skycoin.net/whitepapers) are about.
-The consensus algorithm uses a web-of-trust mechanism to secure the network.
-Each node in the network has a small listed of trusted peers.
-You share blocks with each other. If there's bad blocks, such as a block that
-contains a [double spend](https://en.wikipedia.org/wiki/Double-spending),
-you reject it and so do your trusted peers. There can be many malicious
-nodes in the network, but it will have no impact if you do not trust them.
+Skywire wurde entwickelt um die eigenen Probleme des Internets zu addressieren. Es gibt viele [Angriffspunkte](https://en.wikipedia.org/wiki/BGP_hijacking), besonders für Regierungen, da sie umfangreiche Kontrolle über die Hardware haben. Große IDAs (ISPs) sind aber auch ziemlich schädlich für ihre Kunden.
+All diese Probleme resultieren aus der Zentralisation des Internets.
 
-Skywire was developed to address problems with the internet itself. There are
-many [attack points](https://en.wikipedia.org/wiki/BGP_hijacking) especially
-for governments since they have large control over the infrastructure.
-But also large ISPs are pretty bad to their customers.
-All of these problems are due to the centralization of the internet.
+Skywire kann ohne Skycoin betrieben werden. Es wäre nicht die erste Meshnet-Software. Es gab einige Versuche Meshnets aufzubauen, aber keiner dieser Versuche ist groß gewachsen, denn es war immer auf freiwilligen-basis.
+Durch die Integration von Skycoin mit Skywire können Einzelpersonen Geld für das Betreiben des Internets verdienen, anstatt das von großen IDAs machen zu lassen. Dies ist der einzige zukunftsfähige Weg um die Internet-Infrastruktur zu demokratisieren. Zusätzlich dazu hat das Skywire-Netzwerk viel höhere Sicherheit und Privatsphäre, als das existierende Internet.
 
-Skywire itself can operate without Skycoin. It would not be the first meshnet
-software out there. There have been several attempts at building meshnets
-but none of them have grown very large, because it has been an all-volunteer effort.
-By integrating Skycoin with Skywire, individuals can earn money for running
-the internet, instead of large ISPs. This is the only sustainable path for
-democratizing the internet infrastructure. In addition, the skywire network has
-much higher security and privacy than the current internet.
+Jede Art Anwendung die über das Internet funktioniert, kann genauso über Skywire funktionieren.
+Videos, Dateispeicher, VPNs, alles. Skywire zu benutzen wird umsonst sein, Nutzer können jedoch Knoten für das Weiterleiten von Traffic im Netzwerk bezahlen, um bessere Bandbreite und Priorität in den Services zu erhalten. Das schafft nachhaltige Nachfrage für Skycoins. Anfänglich wird das Skycoin-Projekt einen Teil der unverteilten Coins nutzen, um die Betreiber der Knoten des Skywire-Netzwerks zu subventionieren, dass die ganze Sache ins Rollen kommt. Mit der Zeit werden die Subventionen mit neuen Usern, welche ins Netzwerk für Anwendungen, die über Skywire laufen, angezogen werden, ersetzt werden. Mit dem Lauf der Zeit werden die, aufgrund der Anwendungen über Skywire, angezogenen User diese Subventionen ersetzen.
 
-Any kind of application that works over the internet, can also work over
-Skywire. Videos, file storage, VPNs, all of it. Using Skywire will be free,
-but users can pay nodes in the network for forwarding their traffic, to receive
-better bandwidth and priority service. This provides long term demand for
-Skycoins. Initially, the Skycoin Project will use some of the undistributed
-coins to subsidize operators of nodes on the Skywire network, to get it going.
-Over time, the subsidy will be replaced by users drawn to the network for the
-applications that run over Skywire.
+Die Skycoin-Blockchain und das Skywire-Netzwerk können jeder für sich, alleine, bestehen, profitieren aber voneinander. Skywire bietet einen Nutzen für Skycoin und Skycoin bietet einen finanziellen Anreiz um das Skywire-Netzwerk zu vergrößern.
 
-The Skycoin blockchain and the Skywire network are able to stand on their own
-without the other, but mutually benefit together.  Skywire provides a utility
-purpose for Skycoins, and Skycoin provides a financial incentive to expand the
-Skywire network.
-
-*Read more:*
+*Lest mehr:*
 
 * *[Skywire Posts](/categories/skywire/)*
 * *[Skycoin Overview](/overview/skycoin-overview/)*
