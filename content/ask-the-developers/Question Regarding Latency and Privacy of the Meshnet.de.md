@@ -1,5 +1,5 @@
 +++
-title = "Question Regarding Latency and Privacy of the Meshnet"
+title = "Fragen bezüglich der Privatsphäre und Latenz des Meshnet"
 tags = [
     "Ask the Developers",
     "Skywire",
@@ -13,61 +13,56 @@ categories = [
 ]
 +++
 
-*This post refers to Skywire earlier on in its formation, before it was named Skywire. Adapted from a bitcointalk post dated August 09, 2014.*
+*Dieser Post bezieht sich auf eine frühere Konfiguration von Skywire, bevor es diesen Namen erhalten hat. Angepasst aus einem Bitcointalk-Post vom 9. August 2014.*
 
-Quote from: **CraigM** on August 09, 2014, 07:20:24 AM
+Zitat von : **CraigM** am 9. August 2014, 07:20:24 morgens
+> Das Meshnet (vermaschtes Netz) ist dazu gedacht ein nettes Tool für die Privatsphäre zu sein, mit ähnlichen Vorteilen wie TOR, nur mit geringerer Latenz, stimmt das?
 
->The meshnet is intended to be a nice privacy tool with benefits comparable to tor, but lower latency correct?
+> Das Meshnet ist dazu gedacht, mittels Mikrobezahlungen in Skycoin, die Bandbreitenkosten zu decken, stimmt das? Zwingt das die Knotenbetreiber nicht dazu öffentliche, detaillierte Protokolle (deren persönlichen Blockchains) zu führen, welche all die Transaktionen, die über ihren Knoten gelaufen sind, auflisten? Das scheint so, als würde es beliebigen Drittparteien die Möglichkeit geben, Korrelationsattacken über den Traffic durchzuführen, ähnlich wie bei TOR, nur das man keinen Zugang zu den Verbindungen haben muss. Selbst wenn sie nicht öffentlich einsehbar sein werden, alles zu protokollieren könnte wirkliche Probleme verursachen (könnte von Strafverfolgungsbehörden eingefordert werden, braucht viel Speicherplatz auf).
 
->The meshnet is intended to allow funding nodes via micropayments in skycoin to cover bandwidth costs correct? Doesn't this leave force all node operators to record detailed and published logs (on their personal block chains) describing all the transactions which inherently correspond to everyone who send data through their node? This seems like it would allow any third party to do traffic correlation attacks much like the ones on tor, except you don't need access to the connections. Even if they don't end up being publicly inspectable, logging everything seems like it might have some real issues (it can be requested by law enforcement, and takes up a lot of space)
+> Die erste Version wird mit einem zentralen Routenfindungs-Server ausgestattet sein, stimmt das? Das bedeutet, wenn man mit jemand eine Verbindung aufbauen möchte, muss man einer Drittpartei davon mitteilen, stimmt das ? Scheint so, als ob das nicht auf dem gleichen Level der Privatsphäre wie TOR ist, zumindest solange bis das behoben ist. Gibt es einen Grund zu glauben, ob ihr zeitnah eine Lösung finden werdet (oder sogar: ist es schwer)?
 
->The initial version is going to ship with centralized route finding server correct? This means if you want to connect to someone, you have to tell a third party about it, correct? It seems like this is not a Tor like privacy service until that's fixed. Is there reason to believe you will find a solution to this soon (or ever: its hard)?
+> Wie findet man eine Route zu dieser zuverlässigen Drittpartei, welche das Routenfinden für einen übernehmen wird? Ich nehme an, ihr werdet es einfach als einen Spezialfall behandeln (nicht verwenden der Absenderroutenwahl), aber ich bin neugierig, ob ihr dafür eine andere Methode habt.
 
->How do you find a route to this trusted third party which will do route finding for you? I assume you will just special case it (don't use sender side route selection), but I'm curious if you have another design.
+## Antwort
 
-## Response
+Genau. Es ist tatsächlich schneller als TCP/IP. IDAs(ISPs) Routen nach dem Schema "heiße Kartoffel". Die Latenz sollte nicht schlechter als bei TCP/IP sein, in der Theorie sogar schneller.
 
-Yes. It is actually faster than TCP/IP. ISPs do "hot potato" routing. The latency should not be worse than TCP/IP and in theory can be faster.
+**Die Privatsphäre wird garantiert durch***
+- jeder Knoten kennt nur seinen vorherigen und seinen nachfolgenden Hop
+- Übetragung zwischen Knoten ist verschlüsselt
+- Übertragung allgemein ist Ende-zu-Ende verschlüsselt
+- eine Übertragung ist gegen man-in-the-middle-Angriffe mittels der öffentlichen Schlüssel geschützt, welche die Knotenendpunkte repräsentieren (Netzwerkaddressen sind öffentliche Schlüssel im Netzwerk)
+- jede Verschlüsselung ist widerlegbar und flüchtig
+- das Protokoll ist designt, um Versuche der Deep-Packet-Inspection zur Identifikation von protokollbetreibenden Usern in Frustration enden zu lassen (keine fixen Ports, kein Plaintext im Wire-Protokoll, keine fixen Knotenvernetzungen der Datenübertragungsleitung und so weiter)
 
-**The privacy guarantees are**
+Es ist also wie TOR mit sehr geringer Latenz und Mikrobezahlungen für Bandbreite.
 
-- each node only knows the previous and next hop
-- transmission between nodes is encrypted
-- transmission is encrypted end-to-end
-- your transmission is protected against man-in-middle attacks through the use of public keys for node endpoints (network addresses are public keys on the network)
-- all encryption is deniable and ephemeral
-- the protocol is designed to frustrate attempts at deep packet inspection to identify users running the protocol (no fixed ports, no known plaintext in wire format, fixed node connectivity for backbone and so on)
+- Es ist sicherer und bietet höhere Privatsphäre als HTTPS.
+- Es ist schneller als TOR und skaliert, dennoch gibt es weniger Angriffsmöglichkeiten.
+- Der Code ist wesentlich einfacher als der von TOR, es gibt also weniger Spielraum für Hintertüren und versteckte Schwachstellen. Es gibt nur eine externe Abhängigkeit im gesamten Code.
+- Wenn man absolute Sicherheit gegen Timing-Channel-Attacken braucht, sollte man einen Mixing-Service nutzen, oder Bitmessage über dem Darknet laufen lassen.
+- alle Netzwerke mit geringer Latenz sind Ziele von Timing-Channel-Attacken.
 
-So it is like a very low latency TOR with micropayments for bandwidth.
+## Routen-Server
 
-- It is more secure and has higher privacy than HTTPS
-- it is faster than TOR and scales but there are still attacks against it.
-- the code is much simpler than TOR, so there is less room for backdoors or hidden vulnerabilities. There is only one external dependency in the whole implementation.
-- If you need absolute security against timing channel attacks, you should use a mixing service or run Bitmessage on top of the darknet
-- all low latency networks are subject to timing channel attacks
+Zugegeben, Routen-Server sind eine Schwachstelle. Für maximale Privatsphäre, sollte man seinen eigenen internen Routen-Server betreiben. Wenn man allerdings einen öffentlichen Routen-Server verwendet, so wird man über mehrere Hops mit ihm verbunden, er kann einen also nicht identifizieren. Es wäre trotzdem sicherer, seinen eigenen zu betreiben.
 
+## Behandeln der Mikrobezahlungen für Bandbreite
 
-## Route Servers
+Mikrobezahlungen werden über eine Dritt-Partei behandelt. Der Knoten verbindet zu einem **Gateway**, hinterlegt einen Coin am Gateway und erhält einen Kredit. Der Knoten kann nun ein 64-Bit Pseudonym generieren, dass als "Addresse" für das Gateway funktioniert. Das Gateway kennt die eigenen Identität nicht, ebenso kennt es nicht die Identität des verbundenen Knotens. Es kennt nur den vorherigen Knoten, der die Verbindung weitergeleitet hat.
 
-Yes route servers are a weak link. For maximum privacy you should run your own internal route server.
+Wenn man also zwölf Verbindungen an ein Gateway aufbaut, sehen sie alle aus, als wenn sie von zwölf verschiedenen Usern wären. Schlussendlich wird die Kommunikation zum Gateway über einen asynchronen Nachrichtenchannel stattfinden.
 
-However, if you do use a public route server, you are connected to it through several hops, so it cannot identify you. It would still be safer to run your own.
+Der Knoten, der die Bandbreite weiterleitet, verbindet ebenso zum Gateway. Die beiden Knoten können sich nun gegenseitig über das Gateway bezahlen, ohne, dass das Gateway die Identität von einem der beiden kennt. Sobald ein Knoten genug Coins durch Kredit gesammelt hat (einen ganzen Coin), kann er eine neue Skycoin-Addresse generieren und an diese Abheben. Gateways verwalten nur kleine Beträge von Coins.
 
-## Handling of Micropayments for Bandwidth
+Ein Gateway im Skycoin-Protokoll ist jeder Server der Coins besitzt, oder Accountsaldos im Auftrag von Drittparteien. Gateways sind Einzahlungsinstitutionen und sie haben ihr eignenes Protokoll, sowie API.
 
-The way micropayments are handled, is through a third party. The node connects to a "**gateway**", deposits a coin with the gateway to get a credit. The node can now generate pseudonymous 64 bit "addresses" with the gateway. The gateway does not know the identity of the connecting node. It only knows the previous hop the connection came through.
+**Letztendlich,**
 
-So if you establish twelve connections to the gateway, they look like twelve different users to the gateway. Eventually communication to the gateway will be over an asynchronous messaging channel.
+- wird es vielfache Gateways geben und somit auch viele Gateway-Coin-Übertragungen. Diese Transaktionen finden im privaten statt und tauchen nicht in der Blockchain auf, solange man die Coins nicht vom Gateway abhebt.
+- Kommunikation mit dem Gateway wird über einen asynchronen Nachrichtenchannel stattfinden (jede Nachricht wird eine neue pseudonyme Identität erhalten).
+- Ein Teil des Gateway-Protokolls ist eine OT-Implementierung, welche es erlaubt zu beweisen, falls ein spezifisches Gateway Coins klaut. Man signiert jeden API-Aufruf zu dem Gateway, das Gateway führt diesen dann aus und signiert die Ausgabe. Es gibt also eine Kette von Signaturen und wenn etwas verschwindet, kann man sein Transaktionsprotokoll veröffentlichen und der Besitzer des beschuldigten Knotens muss ein Protokoll vorzeigen, dass die Bewilligung aufzeigt, das der Coin irgendwo hinversendet wurde. Wenn sie keinen signierten API-Aufruf aufzeigen können, beweist es, dass sie gelogen und nicht ehrlich waren.
+- Eines Tages werden die Exchanges nach dem Gateway-Protokoll arbeiten
 
-The node forwarding the bandwidth, connects to the gateway also. The two nodes can now pay each other through the gateway, without the gateway knowing the identity of either of the two nodes. When a node has enough coins in credit (a full coin), it can generate a new Skycoin address and withdrawal the coin to that address. Gateways are only handling small amounts of coins
-
-A gateway in the Skycoin protocol is any server that holds coins or account balances on behalf of 3rd parties. Gateways are deposit institutions and they have their own protocol and API.
-
-**Eventually,**
-
-- there will be multiple gateways and cross gateway coin transfers. These transactions occur in private and do not appear on the blockchain until you withdraw the coins from the gateway.
-- messaging with gateway will occur through an asynchronous communication channel (each message steam will get a new pseudonymous identity)
-- part of the gateway protocol is an OT implementation, which allows you to prove if a particular gateway is stealing coins. You sign each API call to the gateway, then gateway executes and signs the output. So there is a chain of linked signatures and transactions and the gateway cannot make coins disappear without being able to forge your signature. If you deposit coins somewhere and they disappear, you can publish your transaction log and then the owner of the accused node has to produce a log showing that you authorized the coins to go somewhere. If they cannot produce a signed API call, then it proves they are lying/dishonest.
-- Eventually exchanges will operate under the gateway protocol
-
-Your suggestion of having a public blockchain for the internal balances in the gateway is interesting. I think putting the internal transactions on a public personal block chain, could keep exchanges honest while still maintaining user privacy.
+Dein Vorschlag, eine öffentliche Blockchain für die interne Bilanz des Gateways zu haben, ist interessant. Die internen Transaktionen auf eine öffentliche Blockchain zu legen, könnte die Exchanges aufrichtig halten, während die Privatsphäre der User gewährleistet bleibt.
