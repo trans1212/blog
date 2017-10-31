@@ -9,6 +9,7 @@ categories = [
     "Statement",
 ]
 +++
+
 Skycoin and Skywire sínd zwei separate Komponenten des Skycoin-Projekts.
 Skycoin ist die Blockchain. Skywire ist das [mesh network](https://en.wikipedia.org/wiki/Mesh_networking)(vermaschtes Netz).
 
