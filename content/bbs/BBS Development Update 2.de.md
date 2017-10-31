@@ -17,7 +17,7 @@ Die Änderungen sind wie folgt:
 
 - Nutzen der aktuellen CXO-Version (Peer-zu-Peer selbstreplizierende Datenbanken).
 - Reimplementierung der CXO-Objekte und Bäume (In Vorbereitung für neue Feature).
-- Vorstellung eines `Views`-Modul, für die einfache Implementierung von verschiedenen Wegen, Inhalte zu "betrachten".
+- Vorstellung eines `Views`-Modul, das die Implementierung von verschiedenen Wegen Inhalte zu "betrachten" erleichtert.
 - Erste Implementierung für das Folgen oder Vemeiden von Usern.
 - Komplette Neuaufsetzung der Benutzeroberfläche (UI).
 
