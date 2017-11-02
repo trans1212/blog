@@ -1,5 +1,4 @@
 +++
-title = "No Coin Distribution Event (ICO) At This Time"
 title = "Zurzeit kein Coin-Distributionsevent"
 tags = [
     "Statement",
