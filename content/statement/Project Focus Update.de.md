@@ -24,14 +24,15 @@ Wir überarbeiten die Contentseiten der Skycoin Webseite.
 
 Wir haben jetzt ein neues Logo.
 
-Das Bounty-Programm läuft seit einem Monat. Wer Skycoin Videos machen will sollte in Telegram das Bounty-Programm überprüfen.
+Das Bounty-Programm läuft seit einem Monat. Wer Skycoin Videos machen will,
+sollte in Telegram das Bounty-Programm überprüfen.
 
 [Skycoin Branding Kit](https://www.skycoin.net/downloads/#assets)
 
 ### Skywire
 
-Skywire is working but is getting a rewrite, to use the skycoin/net networking
-library.
+Skywire läuft, wird aber umgeschrieben, um die skycoin/net Netzwerkbibliothek zu
+nutzen.
 
 The dashboard for cluster management (node manager) and global network
 dashboard is currently under development.
