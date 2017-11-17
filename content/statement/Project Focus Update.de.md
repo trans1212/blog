@@ -14,18 +14,17 @@ categories = [
 
 ### Mobile Wallet
 
-The Skycoin mobile wallet is done.
+Die Skycoin Mobile Wallet ist fertig.
 
 [https://play.google.com/apps/testing/net.skycoin.mobile](https://play.google.com/apps/testing/net.skycoin.mobile)
 
 ### Branding, Design
 
-We are revamping the content pages for the Skycoin website
+Wir überarbeiten die Contentseiten der Skycoin Webseite.
 
-We have a new logo now.
+Wir haben jetzt ein neues Logo.
 
-Bounty program has been up for a month. If anyone wants to make Skycoin videos,
-check the bounty program in telegram.
+Das Bounty-Programm läuft seit einem Monat. Wer Skycoin Videos machen will sollte in Telegram das Bounty-Programm überprüfen.
 
 [Skycoin Branding Kit](https://www.skycoin.net/downloads/#assets)
 
