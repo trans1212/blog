@@ -131,90 +131,40 @@ Der Preis wurde auch durch den Yuan und USD verfolgt. Langfristig gehen wir jedo
 
 Der Preis ist ein nachlaufender Indikator, daher ist er nicht sinnvoll.  Preissteigerungen können außerordentlich stark und schnell erfolgen und spiegeln häufig das Wachstum oder die Anpassung der Nutzerbasis wider, die über Jahre hinweg kontinuierlich erfolgt ist. Er kann auch veranschaulichen, was passiert, wenn eine Coin die Wahrnehmungsschwelle überschreitet, weil plötzlich gezielte Werbemaßnahmen und Börsennotierungen mit hoher Intensität stattfinden (die Monate oder Jahre in Anspruch nehmen, um den Grundstein dafür zu legen).
 
-### Exchange Listings
+### Börsennotierungen
 
-The scheduled listing on US exchanges was affected by the SEC letter. **The US
-exchanges still have not resumed listing new coins.**
+Die geplante Notierung an den US-Börsen war von dem SEC-Schreiben betroffen. **Die US-Börsen haben die Aufnahme neuer Coins noch nicht wieder aufgenommen.**
 
-We think all the US exchanges will be dead or irrelevant within two years.
+Wir denken, dass alle US-Börsen innerhalb von zwei Jahren untergehen oder irrelevant sein werden.
 
-Any US jurisdiction can be seized and the customers coins stolen by the
-government at any time (similar to what happened to eGold when the US
-government seized the customers collateral and kept it or MtGox when it went
-into receivership). There is an extremely long history of governments (
-especially the US government) just seizing assets and collateral belonging to
-customers and just stealing the money and assets.
+Nach amerikanischer Rechtsprechung können Coins von Kunden jederzeit beschlagnahmt und von der Regierung entwendet werden (ähnlich wie bei eGold, als die US-Regierung die Sicherheiten der Kunden beschlagnahmt und einbehalten hatte oder wie bei MtGox, als sie in Konkurs ging). Die Geschichte hat gezeigt, dass Regierungen (insbesondere die US-Regierung) Vermögenswerte und Sicherheiten von Kunden beschlagnahmen und das Geld und die Vermögenswerte einfach einbehalten.
 
-Current regulatory actions in the United States, Japan, Korean and China are
-accelerating the schedule for adaption of DEX (decentralized exchange)
-technology.
+Aktuelle regulatorische Maßnahmen in den USA, Japan, Korea und China beschleunigen den Zeitplan für die Verbreitung der DEX-Technologie (Dezentraler Austausch).
 
-We should have accelerated and prioritized the time table for exchange listings
-last year. This set our time table back six months, but is not major problem.
+Wir hätten den Zeitplan für die Börsennotierungen im vergangenen Jahr beschleunigen und priorisieren sollen. Das hat unseren Zeitplan um ein halbes Jahr verschoben, ist aber kein großes Problem.
 
-Most of the large coin holdings have been moved off exchange are essentially
-illiquid because of the risk of theft from government seize, risk of exchange
-being hacked and/or holders being unwilling to submit themselves to the
-invasive tracking and surveillance that use of the current exchange entails.
+Die Mehrzahl der großen Coin-Bestände wurde aus dem Handel genommen und ist im Wesentlichen illiquide, da das Risiko eines Verlustes durch staatliche Eingriffe besteht, dass eine Börse gehackt wird und/oder die Inhaber nicht bereit sind, sich der invasiven Verfolgung und Überwachung zu unterwerfen, die die Nutzung der aktuellen Börse mit sich bringt.
 
-Since most of the Bitcoin are off-market and not on the order books (
-non-exchange traded), for the above reasons, the market for crypto assets is
-being set largely by a small number of high speed arbitrage firms with massive
-volume, whose positions in the order book are extremely thin compared to the
-total volume of coins in circulation. Meaning that if people attempted
-liquidation of even 1% of the outstanding volume of issued coins, there would
-be a severe decrease in coin price and inability to find buyers at the current
-market price without taking a 30% to 70% discount (depending on the magnitude
-of the capital outflows which are occurring at the same time).
+Da die meisten Bitcoins außerbörslich gehandelt werden und nicht in den Auftragsbüchern aufscheinen ("Non-Exchange Traded"), wird der Markt für Krypto-Assets aus den oben genannten Gründen weitgehend von einer kleinen Anzahl von High-Speed-Arbitrage-Firmen mit massivem Volumen bestimmt, deren Positionen im Auftragsbuch im Vergleich zum Gesamtvolumen der im Umlauf befindlichen Münzen äußerst niedrig sind. Das bedeutet, dass bei einem Liquidationsversuch von nur 1% des ausstehenden Volumens der ausgegebenen Coins ein gravierender Rückgang des Kurspreises und eine mangelnde Kaufbereitschaft zum aktuellen Marktpreis zu erwarten wäre, ohne einen Abschlag von 30% bis 70% in Kauf nehmen zu müssen (abhängig von der Höhe der gleichzeitig stattfindenden Kapitalabflüsse).
 
-The crypto volumes are are very large, but deceptive because the volume is from
-high frequency bots and does not reflect the order-book depth. Even 1% of coins
-being dumped can completely destroy the order book.
+Die Volumina von Kryptowährungen sind sehr groß, aber trügerisch, da das Volumen von Hochfrequenz-Bots stammt und nicht die tatsächliche Orderbuch-Tiefe abbildet. Bereits der Verkauf von 1% der Coins kann das Orderbuch komplett zerstören.
 
-DEX will allow a larger number of coins to be active on the market and order
-book and increase stability by increasing the orderbook depth (because large
-holders do no longer need to worry about counter party risk and having their
-coins stolen, seized or hacked by keeping them on exchange). The increased
-order book depth should decrease volatility and make it more more difficult for
-a small number of players to cause large price movements and market
-manipulations.
+DEX wird es ermöglichen, dass eine größere Anzahl von Coins auf dem Markt und im Orderbuch aktiv ist, und die Stabilität erhöhen, indem die Orderbuchtiefe erhöht wird (weil Großanleger sich keine Sorgen mehr über das Gegenparteirisiko machen müssen und, dass ihre Coins gestohlen, beschlagnahmt oder gehackt werden, während sie sich auf einer Börse befinden). Die erhöhte Orderbuchtiefe dürfte die Volatilität verringern und es einer kleinen Anzahl von Marktteilnehmern erschweren, große Preisbewegungen und Marktmanipulationen zu verursachen.
 
-So we are expecting most of the market to move to DEX and most of the coin
-volume to move to coins that have lower transaction times (away from bitcoin)
-to the coins whose transaction times are closer to the rate of exchanges (
-currently impossible for all coins based upon PoS/PoW and which has only now
-become possible with new consensus algorithms, such as Skycoin Obelisk).
+Wir erwarten also, dass der größte Teil des Marktes auf DEX umsteigt und der größte Teil des Geldvolumens auf Coins mit niedrigeren Transaktionszeiten (weg von Bitcoin) verlagert wird, auf Coins, deren Transaktionszeiten den Börsen näher kommen (derzeit unmöglich für alle Coins, die auf PoS/PoW basieren und die erst jetzt mit neuen Konsensalgorithmen wie Skycoin Obelisk möglich geworden sind).
 
-I think exchange centralization is a fad or a phase (like MtGox).
+Ich denke, dass die Börsenzentralisierung nur eine vorübergehende Erscheinung oder eine Phase darstellt (wie MtGox).
 
-We will see more of the altcoin markets internalized because of the regulation
-and then eventually moved to DEX (decentralized exchange).
+Wir werden sehen wie die Altcoin Märkte wegen der Regulierung internalisiert werden und dann schließlich auf DEX (Dezentraler Austausch) umgestellt werden.
 
-We are still working with the existing exchange, but are starting development
-of the Skycoin OTC market and our exchange federation protocol for enabling DEX.
+Wir arbeiten noch mit der bestehenden Börse, beginnen aber mit der Entwicklung des Skycoin OTC-Marktes und unseres Exchange Federation Protokolls um DEX zu ermöglichen.
 
-What is happening is the exchanges are forming "self-regulatory" committees to
-block the creation of new exchanges (the business is very profitable and they
-are making 0.1% on each side of every trade on very high volumes). Unless they
-can regulate out new competitors, the exchanges are unable to maintain their
-high transaction and trading fees. Then they are creating "white lists" by
-country and only allowing the listing of crypto assets that the investors/owner
-groups of the exchanges have invested in or own a large percentage of.
+Zur Zeit bilden die Börsen "selbstregulierende" Verbände, um die Entstehung neuer Börsen zu unterbinden (das Geschäft ist sehr profitabel und sie machen 0,1% auf jeder Seite jedes Trades bei sehr hohen Volumina). Wenn sie nicht in der Lage sind, neue Wettbewerber zu regulieren, können die Börsen ihre hohen Transaktions- und Handelsgebühren nicht aufrechterhalten. Dann erstellen sie "weiße Listen" nach Ländern und erlauben nur die Auflistung von Krypto-Assets, in die die Anleger/Eigentümergruppen der Börsen investiert haben oder von denen sie einen großen Prozentsatz besitzen.
 
-The crypto-markets are forming into a new cabal, that is almost identical in
-structure and function to the wall-street cabal Bitcoin was developed to rebel
-against.
+Die Krypto-Märkte formieren sich zu einer neuen Kabale, die in Aufbau und Funktion fast identisch mit der Wall-Street ist, gegen die die Bitcoin entwickelt wurde.
 
-- the mining pool cabal (the three mining pools that control the network. Now
-  being challenged by state backed mining pools, such as the Russian government
-  backed entity)
-- the exchange cabal (the exchanges approved to convert between fiat and
-  crypto, who price fix the trading fees and exchange fees and use regulation
-  or connections with legacy banking system to exclude competition)
-- the coin white-list cabal (Apple white list, Korean whitelist, Japanese White
-  List, etc)
+- die Mining-Pool Kabale (die drei Mining-Pools, die das Netzwerk kontrollieren. Jetzt werden sie von staatlich geförderten Mining-Pools herausgefordert, wie z.B. die von der russischen Regierung geförderte Einrichtung.
+- die Börsenkabale (die Börsen, die zur Konvertierung zwischen Fiat und Krypto zugelassen sind, die die Handelsgebühren und Börsengebühren festsetzen und die Regulierung oder Verbindungen mit dem alten Bankensystem nutzen, um den Wettbewerb auszuschließen)
+- die Coin White-List Kabale (Apple Whitelist, Koreanische Whitelist, Japanische Whitelist, etc)
 
-It is very upsetting to watch what is happening in the Bitcoin exchange market.
-I think this is another phase of crypto. There seems to be a cycle of
-consolidation and then re-decentralization in response to the abuses once an
-oligarchy has formed and begins to abuse their power.
+Es ist sehr beunruhigend zu beobachten, was auf dem Bitcoin-Börsenmarkt passiert. Ich denke, das ist eine weitere Phase in der Kryptowährung. Es scheint einen Zyklus der Konsolidierung und dann der Re-Dezentralisierung zu geben, als Reaktion auf die Missbräuche, sobald sich eine Oligarchie gebildet hat und beginnt ihre Macht zu missbrauchen.
