@@ -123,29 +123,13 @@ Der aktuelle Kryptoassets Markt:
 
 Wir wollten uns mit Skycoin von dieser Entwicklung abheben und uns auf die Phase vorbereiten, in der sich das Geld von den spekulativen Coins in einen fundamentalen oder wertorientierten Markt verlagert. In der unmittelbaren Zukunft wird jedoch der größte Teil des Marktes aus wertlosen Asset-Tokens bestehen, ohne Einnahmen oder Einkommen und ohne wirtschaftlichem Nutzen und ohne Geschäftstätigkeit, die eine Bewertung von hundert Millionen Dollar oder Milliarden Dollar aufweisen werden. Der einzige Wert der Tokens wird darin bestehen, dass es Leute geben wird, die mit diesen Tokens solidere, kaufkräftigere Währungen wie Bitcoin oder Giralgeld kaufen wollen (Pump and Dump).
 
-I believe the next stage of crypto-currencies we are entering will be coins
-based upon user communities, real economic activity, crypto based applications
-and commodity backed coins (power grid tokens, bandwidth/telecom coins). Where
-as the current generation is based upon marketing slogans "We are IoT" (with no
-IoT devices) and "We have Smart Contracts" (that no one uses).
+Ich glaube, dass die nächste Stufe der Kryptowährungen, in die wir eintreten, Coins sein werden, die auf User-Communities, realwirtschaftlichen Aktivitäten, kryptobasierten Anwendungen und auf Waren basierenden Coins (Stromnetz-Token, Bandbreiten-/Telekom-Coins) aufgebaut sein wird. Wohingegen die aktuelle Generation auf Marketingslogans wie "Wir sind IoT" (ohne IoT-Geräte) und "Wir haben Smart Contracts" (die niemand benutzt) beruht.
 
-Then Skycoin also have a large segment of the community is also very patient
-and is testing out new software (with bugs) or that is difficult to use and
-install (like the BBS app, mobile wallet and Skymesssanger). So they have some
-experience with what we are building that the public has not seen and which has
-not been marketing etc. Many people are closely and personally tracking the
-Skycoin project progress now and testing the applications.
+Dann ist ein großer Teil der Skycoin Community auch sehr geduldig und testet neue Software (mit Bugs) oder die schwierig zu bedienen und zu installieren ist (wie die BBS-App, die Mobile Wallet und der Skymessenger). Sie haben also etwas Erfahrung mit dem, was wir aufbauen, was die Öffentlichkeit nicht gesehen hat und was nicht vermarktet wurde etc. Viele Leute verfolgen die Fortschritte des Skycoin Projekts aufmerksam aus nächster Nähe und testen die Anwendungen.
 
-The price has also been tracking the Yuan and USD. However, in the long term we
-expect Skycoin will resume tracking BTC. Especially after the OTC market is
-integrated.
+Der Preis wurde auch durch den Yuan und USD verfolgt. Langfristig gehen wir jedoch davon aus, dass Skycoin das Tracking von BTC wieder aufnehmen wird. Vor allem nach der Einbindung des OTC-Marktes.
 
-Price is a lagging metric, so is not useful.  Price appreciations can be
-extremely violent and rapid and often reflect userbase growth or adaption that
-has been occurring continuously over years. It can also reflect what happens
-when a coin breaks the level of conscienceness, due to onset of sudden, high
-intensity, focused marketing and exchange listings (which takes months or years
-to prepare and lay the foundation for).
+Der Preis ist ein nachlaufender Indikator, daher ist er nicht sinnvoll.  Preissteigerungen können außerordentlich stark und schnell erfolgen und spiegeln häufig das Wachstum oder die Anpassung der Nutzerbasis wider, die über Jahre hinweg kontinuierlich erfolgt ist. Er kann auch veranschaulichen, was passiert, wenn eine Coin die Wahrnehmungsschwelle überschreitet, weil plötzlich gezielte Werbemaßnahmen und Börsennotierungen mit hoher Intensität stattfinden (die Monate oder Jahre in Anspruch nehmen, um den Grundstein dafür zu legen).
 
 ### Exchange Listings
 
