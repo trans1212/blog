@@ -299,4 +299,7 @@ Handels- und Börsengebühren festsetzen und die Regulierung oder Verbindungen m
 um den Wettbewerb auszuschließen)
 - die Coin Whitelist Kabale (Apple Whitelist, Koreanische Whitelist, Japanische Whitelist, etc.)
 
-Es ist sehr beunruhigend zu beobachten, was auf dem Bitcoin-Börsenmarkt passiert. Ich denke, dass das eine weitere Entwicklungsphase in der Kryptowährung darstellt. Es scheint einen Zyklus der Konsolidierung und dann der Re-Dezentralisierung zu geben, als Reaktion auf die Missbräuche, sobald sich eine Oligarchie gebildet hat und beginnt ihre Macht zu missbrauchen.
+Es ist sehr beunruhigend zu beobachten, was auf dem Bitcoin-Börsenmarkt passiert. Ich denke, dass das eine
+weitere Entwicklungsphase in der Kryptowährung darstellt. Es scheint einen Zyklus der Konsolidierung und dann
+der Re-Dezentralisierung zu geben, als Reaktion auf die Missbräuche, sobald sich eine Oligarchie gebildet hat
+und beginnt ihre Macht zu missbrauchen.
