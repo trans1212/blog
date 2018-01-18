@@ -31,7 +31,7 @@ Skycoin团队电报(Telegram)最为火热活跃
 新闻更新
 ------------
 
-* [Skycoin 博客](https://blog.skycoin.net)
+* [Skycoin 博客](https://www.skycoin.net/blog/)
 * [Skycoin 推特](https://twitter.com/skycoinproject)
 * [Skycoin Reddit](https://reddit.com/r/skycoinproject)
 * [Skycoin 脸书](https://www.facebook.com/skycoinproject)
