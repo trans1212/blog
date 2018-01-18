@@ -15,10 +15,12 @@ before_script:
 - s3cmd --version
 
 script:
-- hugo --buildFuture -v
+- hugo --buildFuture --config config.toml --destination public-blog -v
+- hugo --buildFuture --config config-www.toml --destination public-www -v
 
 after_success:
-- ls public/
+- ls public-blog/
+- ls public-www/
 
 deploy:
   skip_cleanup: true
