@@ -15,17 +15,20 @@ before_script:
 - s3cmd --version
 
 script:
-- hugo --buildFuture -v
+- hugo --buildFuture --config config.toml --destination public-blog -v
+- hugo --buildFuture --config config-www.toml --destination public-www -v
 
 after_success:
-- ls public/
+- ls public-blog/
+- ls public-www/
 
 deploy:
   skip_cleanup: true
   provider: script
-  script: s3cmd --access_key="${AWS_ACCESS_KEY_ID}" --secret_key="${AWS_SECRET_ACCESS_KEY}" --region=ap-southeast-1 sync --delete-removed --acl-public --guess-mime-type --no-mime-magic --recursive public/ s3://blog.skycoin.net/
+  script: deploy.sh
   on:
     branch: master
 
 after_deploy:
 - s3cmd --access_key="${AWS_ACCESS_KEY_ID}" --secret_key="${AWS_SECRET_ACCESS_KEY}" --region=ap-southeast-1 ls s3://blog.skycoin.net/
+- s3cmd --access_key="${AWS_ACCESS_KEY_ID}" --secret_key="${AWS_SECRET_ACCESS_KEY}" --region=ap-southeast-1 ls s3://www.skycoin.net/blog/
