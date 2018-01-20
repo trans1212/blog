@@ -14,7 +14,7 @@ categories = [
 
 ### Mobile Wallet
 
-Die Skycoin Mobile Wallet ist fertig.
+Das Skycoin Mobile Wallet ist fertig.
 
 [https://play.google.com/apps/testing/net.skycoin.mobile](https://play.google.com/apps/testing/net.skycoin.mobile)
 
@@ -40,12 +40,12 @@ Dashboard befinden sich derzeit in Entwicklung.
 Danach wird das Netzwerk für die Öffentlichkeit komplett zugänglich sein, für VPN, Socks5 Proxy,
 und wir werden damit beginnen Anwendungen in den neuen Netzwerk Namespace zu verschieben.
 
-### Neue Wallet
+### Neues Wallet
 
-Version 20 der Wallet wird veröffentlicht. Es handelt sich um eine komplett neu überarbeitete
-Wallet, die sich seit einem Monat in der Github Development Branch von Skycoin befindet.
+Version 20 des Wallets wird veröffentlicht. Es handelt sich um ein komplett neues überarbeitetes
+Wallet, das sich seit einem Monat in der Github Development Branch von Skycoin befindet.
 
-Version 20 ist mehrere Dutzend Mal schneller als die alte Wallet.
+Version 20 ist mehrere Dutzend Mal schneller als das alte Wallet.
 
 ### Projekt Focus
 
@@ -61,17 +61,17 @@ Der Preis ist nicht tot.
 
 **Wenn wir Coins auf dem Markt verkaufen, steigt der Preis.**
 
-Es ist unmöglich für Leute zum gewünschten Preis zu kaufen und niemand möchte die Coin verkaufen.
-Es gibt keinen Grund eine Coin zu verkaufen, wenn sie von $0.05 bis $600 in drei Monaten steigen
+Es ist unmöglich für Leute zum gewünschten Preis zu kaufen und niemand möchte die Coins verkaufen.
+Es gibt keinen Grund einen Coin zu verkaufen, wenn er von $0.05 bis $600 in drei Monaten steigen
 kann, wie es Byteballs und andere Coins taten. Dies ist ein altbekanntes Muster für Personen,
 die in den letzten acht Jahren den Münzmarkt beobachtet haben. Das ist vor allem für Personen
 ersichtlich, die die Psychologie des Finanzmarktes verstehen und wissen wie Blasen entstehen.
 
 Alle Coins wie IOTA, Litecoin, Byteballs, Bitcoin hatten eine sehr lange Latenzzeit.
 
-Das liegt daran, dass das exponentielle Wachstum einer kleinen Nutzergemeinde, selbst bei 1%
-pro Tag, Jahre dauert, bis das Wachstum so weit fortgeschritten ist bis es die öffentliche
-Aufmerksamkeit erreicht.
+Das liegt daran, dass das exponentielle Wachstum einer kleinen Nutzergemeinde, selbst bei 
+1% pro Tag, Jahre dauert, bis das Wachstum so weit fortgeschritten ist, dass es die 
+öffentliche Aufmerksamkeit erreicht.
 
 Die User-Community wächst kontinuierlich und konstant über Jahre hinweg, aber die Wertsteigerung
 erfolgt plötzlich und heftig (sobald die Coin/Wertanlage/Markt eine kritische Wahrnehmungsschwelle
@@ -105,7 +105,7 @@ Intern verwenden wir nicht den Preis als Messgröße, sondern betrachten grundle
 - Verbesserung der Marketingbemühungen und der Skycoin-Struktur/Organisation (wie viele Personen sind
 im Bounty-Programm aktiv)
 
-Als wir die Coin und das Marketing verbessert haben, ist das Skycoin Volumen zurückgegangen, weil die Leute
+Als wir den Coin und das Marketing verbessert haben, ist das Skycoin Volumen zurückgegangen, weil die Leute
 weniger bereit waren zu verkaufen. Wenn wir wichtige Nachrichten veröffentlichen, steigt der Skycoin-Preis
 nicht, aber das Volumen sinkt, weil weniger Leute zum Marktclearing-Preis verkaufen. Als wir die Coindrops
 zu Testzwecken gemacht haben, stieg der Skycoin-Preis, da wir Münzen auf dem Markt verkauften.
@@ -151,7 +151,7 @@ der anderen Coins und der Preis blieb sehr stabil.
 
 - Skycoin hat Entwickler (die meisten Projekte, die zig oder hunderte Millionen Dollar einsammeln, haben keine
 Entwickler)
-- Skycoin hat ihre eigene Blockchain (die ERC20-Token und viele Projekte, die zig oder hunderte Millionen Dollar
+- Skycoin hat seine eigene Blockchain (die ERC20-Token und viele Projekte, die zig oder hunderte Millionen Dollar
 in "ICOs" einsammeln, haben keine Blockchain).
 - Skycoin hat eine Software, die lauffähig und funktionsfähig ist (fast alle ICOs, die zig oder hunderte Millionen
 Dollar einsammeln, haben keine Software oder sammeln das Geld nur, um Entwickler anzuheuern/oder Software zu
@@ -167,9 +167,9 @@ in seinen Channel bekommen kann.)
 - etc
 
 Auf der Basis von Fundamentaldaten machen wir uns also sehr gut. Für den Großteil des Marktes ist es jedoch
-unmöglich von außen auf eine Coin zu schauen und herauszufinden: "Benutzt das wirklich jemand?", "Hat diese Coin
+unmöglich von außen auf einen Coin zu schauen und herauszufinden: "Benutzt das wirklich jemand?", "Hat dieser Coin
 tatsächlich eine User-Community?", "Sind diese 100 Millionen Dollar pro Tag an Handelsvolumen real oder handelt
-es sich um einen Bot, der mit sich selbst tradet, um den Anschein von Volumen zu kreieren?". "Ist die Coin
+es sich um einen Bot, der mit sich selbst tradet, um den Anschein von Volumen zu kreieren?". "Ist der Coin
 wirklich 200 Millionen wert, oder hat irgendein Typ 200 Millionen Coins erschaffen und angefangen sie mit sich
 selbst für $1 pro Coin zu traden?". "Folgt dieser Coin tatsächlich jemand auf Twitter oder haben sie 50.000 Bots
 gekauft, um sich selber zu folgen?".
@@ -205,7 +205,7 @@ von den spekulativen Coins in einen fundamentalen oder wertorientierten Markt ve
 wird jedoch der größte Teil des Marktes aus wertlosen Asset-Tokens bestehen, ohne Einnahmen oder Einkommen und ohne
 wirtschaftlichem Nutzen und ohne Geschäftstätigkeit, die eine Bewertung von hundert Millionen Dollar oder Milliarden
 Dollar aufweisen werden. Der einzige Wert der Tokens wird darin bestehen, dass es Leute geben wird, die mit diesen
-Tokens solidere, kaufkräftigere Währungen wie Bitcoin oder Giralgeld kaufen wollen (Pump and Dump).
+Tokens solidere, kaufkräftigere Währungen wie Bitcoin oder Fiatgeld kaufen wollen (Pump and Dump).
 
 Ich glaube, dass die nächste Stufe der Kryptowährungen, in die wir eintreten, Coins sein werden, die auf
 User-Communities, realwirtschaftlichen Aktivitäten, kryptobasierten Anwendungen und auf Waren basierende Coins
@@ -213,7 +213,7 @@ User-Communities, realwirtschaftlichen Aktivitäten, kryptobasierten Anwendungen
 Marketingslogans, wie "Wir sind IoT" (ohne IoT-Geräte) und "Wir haben Smart Contracts" (die niemand benutzt), beruht.
 
 Dann ist ein großer Teil der Skycoin Community auch sehr geduldig und testet neue Software (mit Bugs) oder die
-schwierig zu bedienen und zu installieren ist (wie die BBS-App, die Mobile Wallet und der Skymessenger). Sie haben
+schwierig zu bedienen und zu installieren ist (wie die BBS-App, das Mobile Wallet und der Skymessenger). Sie haben
 also etwas Erfahrung mit dem, was wir aufbauen, was die Öffentlichkeit nicht gesehen hat und was nicht vermarktet
 wurde etc. Viele Leute verfolgen die Fortschritte des Skycoin Projekts aufmerksam aus nächster Nähe und testen die
 Anwendungen.
@@ -223,7 +223,7 @@ Tracking von BTC wieder aufnehmen wird. Vor allem nach der Einbindung des OTC-Ma
 
 Der Preis ist ein nachlaufender Indikator, daher ist er nicht sinnvoll. Preissteigerungen können außerordentlich
 stark und schnell erfolgen und spiegeln häufig das Wachstum oder die Anpassung der Nutzerbasis wider, die über
-Jahre hinweg kontinuierlich erfolgt ist. Er kann auch veranschaulichen, was passiert, wenn eine Coin die
+Jahre hinweg kontinuierlich erfolgt ist. Er kann auch veranschaulichen, was passiert, wenn ein Coin die
 Wahrnehmungsschwelle überschreitet, weil plötzlich gezielte Werbemaßnahmen und Börsennotierungen mit hoher
 Intensität stattfinden (die Monate oder Jahre in Anspruch nehmen, um den Grundstein dafür zu legen).
 
@@ -248,8 +248,8 @@ hat unseren Zeitplan um ein halbes Jahr verschoben, ist aber kein großes Proble
 
 Die Mehrzahl der großen Coin-Bestände wurde aus dem Handel genommen und ist im Wesentlichen illiquide, da das
 Risiko eines Verlustes durch staatliche Eingriffe besteht, dass eine Börse gehackt wird und/oder die Inhaber nicht
-bereit sind, sich der invasiven Verfolgung und Überwachung zu unterwerfen, die die Nutzung der aktuellen Börse mit
-sich bringt.
+bereit sind, sich der invasiven Verfolgung und Überwachung zu unterwerfen, die die Nutzung der aktuellen Börsen mit
+sich bringen.
 
 Da die meisten Bitcoins außerbörslich gehandelt werden und nicht in den Auftragsbüchern aufscheinen
 ("Non-Exchange Traded"), wird der Markt für Krypto-Assets aus den oben genannten Gründen weitgehend von einer
@@ -293,13 +293,13 @@ Die Krypto-Märkte formieren sich zu einer neuen Kabale, die in Aufbau und Funkt
 Wall-Street ist, gegen die die Bitcoin entwickelt wurde.
 
 - die Mining-Pool Kabale (die drei Mining-Pools, die das Netzwerk kontrollieren. Jetzt werden sie von staatlich
-geförderten Mining-Pools herausgefordert, wie z.B. die von der russischen Regierung geförderte Einrichtung.
+geförderten Mining-Pools herausgefordert, wie z.B. die von der russischen Regierung geförderte Einrichtung)
 - die Börsenkabale (die Börsen, die zur Konvertierung zwischen Fiat und Krypto zugelassen sind, die die
 Handels- und Börsengebühren festsetzen und die Regulierung oder Verbindungen mit dem alten Bankensystem nutzen,
 um den Wettbewerb auszuschließen)
 - die Coin Whitelist Kabale (Apple Whitelist, Koreanische Whitelist, Japanische Whitelist, etc.)
 
 Es ist sehr beunruhigend zu beobachten, was auf dem Bitcoin-Börsenmarkt passiert. Ich denke, dass das eine
-weitere Entwicklungsphase in der Kryptowährung darstellt. Es scheint einen Zyklus der Konsolidierung und dann
+weitere Entwicklungsphase der Kryptowährung darstellt. Es scheint einen Zyklus der Konsolidierung und dann
 der Re-Dezentralisierung zu geben, als Reaktion auf die Missbräuche, sobald sich eine Oligarchie gebildet hat
 und beginnt ihre Macht zu missbrauchen.
