@@ -1,10 +1,10 @@
 +++
-title = “Skycoin Digest: So… what do you stand for?“
+title = "Skycoin Digest: So… what do you stand for?"
 tags = [
-    “Skycoin Digest“,
+    "Skycoin Digest",
     "Infographics",
 ]
-date = "2018-01-26”
+date = "2018-01-26"
 categories = [
     "Infographics",
 ]

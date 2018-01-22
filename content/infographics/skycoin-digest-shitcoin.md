@@ -1,10 +1,10 @@
 +++
-title = “Skycoin Digest: Is SKY another Shitcoin?“
+title = "Skycoin Digest: Is SKY another Shitcoin?"
 tags = [
-    “Skycoin Digest“,
+    "Skycoin Digest",
     "Infographics",
 ]
-date = "2018-01-22”
+date = "2018-01-22"
 categories = [
     "Infographics",
 ]

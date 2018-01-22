@@ -1,10 +1,10 @@
 +++
-title = “Skycoin Digest: Why do we need a FREE internet?“
+title = "Skycoin Digest: Why do we need a FREE internet?"
 tags = [
-    “Skycoin Digest“,
+    "Skycoin Digest",
     "Infographics",
 ]
-date = "2018-01-28”
+date = "2018-01-28"
 categories = [
     "Infographics",
 ]
