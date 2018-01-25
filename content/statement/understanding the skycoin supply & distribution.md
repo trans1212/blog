@@ -18,7 +18,7 @@ Skycoin has a total supply of 100 million premined coins. Currently the circulat
 and 25 million coins are currently unlocked. 
 
 The remaining supply of immediately distributable Skycoin in this moment comes down to 17.721.960 million coins (~17,7%).
-These coins will be used to further the growth of the skycoin project (salary for staff members) as well as to incentivize 
+These coins will be used to further the growth of the skycoin project as well as to incentivize 
 the [Skywire meshnet](https://www.skycoin.net/blog/overview/skywire---skycoin-meshnet-project/).
 
 The 75 million (75%) undistributable Skycoin **cannot be distributed until the first 25 million** (25%) have been distributed. 
@@ -36,7 +36,7 @@ There is an [OTC](https://otc.skycoin.net/) that comes up regularly to erratic
 times and it contains **up to 10BTC worth of Skycoin** each day it opens. 
 The price is adjusted manually and set at 10% above [coinmarketcap](https://coinmarketcap.com/currencies/skycoin/) rate.
 
-The other part of the funds is being used and will be used to **pay staff members**, **listings on exchanges** and **production facilities** for the hardware
+The other part of the funds is being used and will be used to **build product**, **listings on exchanges** and **production facilities** for the hardware
 components of Skywire (antennas, chips etc.) as well as to **pay Skywire participants** for providing bandwith when the mainnet of Skywire launches.
 
 The end goal is to have a network that is in a closed, internal economic cycle, meaning that the Skywire incentives are tweaked in a
