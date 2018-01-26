@@ -10,7 +10,7 @@ categories = [
 ]
 +++
 
-##Understanding Supply
+## Understanding Supply
 
 Skycoin has a total supply of 100 million premined coins. Currently the circulating supply is at 7.278.040 SKY (~7,2%).
 
@@ -28,7 +28,7 @@ to distribute them. This process depends on the growth of Skywire.
 Unlocking the total supply of 100 million takes a **minimum of 14 years** and the distribution can be extended to up to 25 years 
 if necessary.
 
-##Understanding Distribution
+## Understanding Distribution
 
 As stated above 17.721.960 million coin (~17.7%) are distributable. 
 
