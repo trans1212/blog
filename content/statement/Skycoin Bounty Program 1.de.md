@@ -13,11 +13,11 @@ categories = [
 
 *Aktualisiert erneut am August 29, 2017. Hinzufügen von Übersetzungsbelohnungen.*
 
-*Aktualisiert August 29, 2017. Hinzufügen von Reddit-Aktivitäts-Bonus. Erhöhen der GIF-Belohnung zu 20.*
+*Aktualisiert August 29, 2017. Hinzufügen von Reddit-Aktivitäts-Bonus. Erhöhen der GIF-Belohnung auf 20.*
 
 *Aktualisiert September 3, 2017. Hinzufügen von Französisch zu Übersetzungsbelohnungen.*
 
-*Aktualisiert September 12, 2017. Erhöhen der Infographicbelohnung zu 30.*
+*Aktualisiert September 12, 2017. Erhöhen der Infographikbelohnung zu 30.*
 
 Bewerben für Belohnungen im [Skycoin-Belohnungsprogramm Telegram Channel](https://t.me/skycoinbounty)
 
@@ -93,11 +93,11 @@ Schlechte Übersetzungen werden keine Belohnung erhalten, obwohl es einem in die
 
 Blog-Posts, Artikel
 
-* Verhandelbar basierend auf der Anzahl der Aufrufe, veröffentlichen von Outletqualität.
-* Kontaktaufnahme mit uns, bis wir einen Weg gefunden haben, wertvolle Werke zu valutieren.
+* Verhandelbar basierend auf der Anzahl der Aufrufe, Veröffentlichungsstelle, Qualität.
+* Nimm im Voraus Kontakt mit uns auf, bis wir einen Weg gefunden haben, wertvolle Werke zu valutieren.
 
-Seid bitte aufrichtig mit den Werken die für das Belohnungsprogramm erstellt werden. 
-Wenn es in schlechtem Licht erscheint werden wir die Belohnung senken oder einbehalten (zum Beispiel, gefakte Youtube-Aufrufe oder schlechte Infografiken).
+Seid bitte aufrichtig mit den Werken, die für das Belohnungsprogramm erstellt werden. 
+Wenn sie in schlechtem Licht erscheinen, werden wir die Belohnung senken oder einbehalten (zum Beispiel, gefakte Youtube-Aufrufe oder schlechte Infografiken).
 
 ## Social Media Engagement
 
