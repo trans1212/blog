@@ -17,7 +17,7 @@ categories = [
 
 *Aktualisiert September 3, 2017. Hinzufügen von Französisch zu Übersetzungsbelohnungen.*
 
-*Aktualisiert September 12, 2017. Erhöhen der Infografikbelohnung zu 30.*
+*Aktualisiert September 12, 2017. Erhöhen der Infografikbelohnung auf 30.*
 
 *Aktualisiert November 8, 2017. Grafik- und Videobounty werden von Fall zu Fall im Bounty-Channel behandelt.
 
