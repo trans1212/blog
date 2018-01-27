@@ -1,5 +1,5 @@
 +++
-title = "Skycoin Digest: So… what do you stand for?"
+title = "Skycoin Digest: Why do we need a FREE internet?"
 tags = [
     "Skycoin Digest",
     "Infographics",
@@ -9,4 +9,4 @@ categories = [
     "Infographics",
 ]
 +++
-![Skycoin Infographic](/img/1200_What-do-you-stand-for.jpg)
+![Skycoin Infographic](/img/1200_Free-Internet.jpg)
