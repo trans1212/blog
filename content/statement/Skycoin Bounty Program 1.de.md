@@ -17,7 +17,13 @@ categories = [
 
 *Aktualisiert September 3, 2017. Hinzufügen von Französisch zu Übersetzungsbelohnungen.*
 
-*Aktualisiert September 12, 2017. Erhöhen der Infographikbelohnung zu 30.*
+*Aktualisiert September 12, 2017. Erhöhen der Infografikbelohnung zu 30.*
+
+*Aktualisiert November 8, 2017. Grafik- und Videobounty werden von Fall zu Fall im Bounty-Channel behandelt.
+
+*Aktualisiert December 7, 2017. Hinzufügen von Portugiesisch.
+
+*Aktualisiert December 10, 2017. Hinzufügen von Italienisch.
 
 Bewerben für Belohnungen im [Skycoin-Belohnungsprogramm Telegram Channel](https://t.me/skycoinbounty)
 
@@ -25,35 +31,20 @@ Bewerben für Belohnungen im [Skycoin-Belohnungsprogramm Telegram Channel](https
 
 <!-- MarkdownTOC autolink="true" bracket="round" -->
 
-- [Grafiken](#graphics)
-- [Videos](#video)
+- [Grafiken und Videos](#graphics-and-videos)
 - [Übersetzungen](#translations)
 - [Schriftstellerei](#writing)
 - [Social Media Engagement](#social-media-engagement)
 
 <!-- /MarkdownTOC -->
 
-## Grafiken
+## Grafiken und Videos
 
 Infografiken über Skycoin, Skywire meshnet, BBS, CXO etc.
 
 Brandinggüter (Logos, Farben) sind unter [Downloadseite](https://www.skycoin.net/downloads) verfügbar. 
 
-* 30 SKY jeweils
-
-## Videos
-
-Youtube Videos (z.B. Vlog ähnliches Material) über Skycoin im Allgemeinen.
-
-* 1 SKY pro 1000 Aufrufe.
-* Muss von einem relevanten (z.B. cryptowährungsrelatiertem) Youtube-Account stammen.
-* Das Video muss selbsterstellter Inhalt sein (oder ausreichend modifizierter derivativer Inhalt).
-
-Produktion von Promotionsvideos (z.B. Beschreiben der Skycoin-Technologie)
-
-* 150 SKY.
-* Man kann dies ebenso zu seinem Youtube-Channel hinzufügen und diese Belohnung erhalten.
-* Skycoin ist es erlaubt diese Videos auf ihrem eigenen Youtube-Channel, oder auf der Skycoin-Website zu verwenden.
+Tretet dem [Skycoin Bounty-Programm Telegramchannel](https://t.me/skycoinbounty) bei, um Informationen über aktuell verfügbare Grafik- und Videobounty informiert zu werden.
 
 ## Übersetzungen
 
@@ -67,18 +58,12 @@ Akzeptierte Sprachen sind:
 * 한국어
 * Ελληνικά
 * Français
-* Nederlands (maximal 30 SKY Belohnung pro Artikel)
+* Português
+* Italiano
 
-*Beachte: 中文 and Рyсский Übersetzungen haben bereits alle jemanden, der an ihnen arbeitet.*
+*Beachte: 中文 and Рyсский Übersetzungen haben bereits alle jemanden, der sich um die Übersetzung kümmert.*
 
 Wir werden weitere Sprachen hinzufügen, aber sind momentan nicht in der Lage andere Sprachen zu verifizeren.
-
-Pro 500 Worte gibt es 5 Sky. Zum Beispiel:
-
-* 1-500 Worte: 5 SKY
-* 501-1000 Worte: 10 SKY
-* 1001-1500 Worte: 15 SKY
-* ...und so weiter...
 
 Am Ende jedes englischsprachigen Blog-Posts wird die Belohnungshöhe des Artikels deklariert.
 
@@ -86,8 +71,10 @@ Der Post darf noch nicht übersetzt sein.
 
 Falls der Post schon übersetzt wurde und man findet Fehler oder Verbesserungen, kann man einen kleinen Betrag als Anerkennung erhalten.
 
-Einer oder zwei andere Muttersprachler der übersetzten Sprache müssen die Übersetzung auf ihre Qualität prüfen.
+Einer, oder zwei andere Muttersprachler der übersetzten Sprache, müssen die Übersetzung auf ihre Qualität prüfen.
 Schlechte Übersetzungen werden keine Belohnung erhalten, obwohl es einem in diesem Fall frei steht, solange Verbesserungen anzubringen, bis sie akzeptiert wird.
+
+Anweisungen für das Einreichen von Übersetzungen ins GitHub sind hier zu finden: https://github.com/skycoin/blog/files/1469162/github-translation-manual.pdf
 
 ## Schriftstellerei
 
