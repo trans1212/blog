@@ -10,7 +10,10 @@ categories = [
     "Skywire",
     "Statement",
 ]
+bounty = 4
 +++
+
+*Sign up to our mailing list for Skywire Miner updates: http://eepurl.com/c4DyAv*
 
 How can we create a truly free and open internet? To answer this question, we
 developed Skywire, the new alternative internet. Skywire is a groundbreaking,
