@@ -14,7 +14,7 @@ categories = [
 
 ### Viscript
 
-[Viscript](https://github.com/skycoin/viscript) ist eine plattform-unanbhängige CLI und Anwendungsstarter, sowie letztendlich Clustermanagement. Es basiert auf einer Signal-Bibliothek, die als Signal-Server fungiert, sodass es die Client-Signale, ähnlich wie die Knoten & Komponenten in Skywire, verwalten kann.
+[Viscript](https://github.com/skycoin/viscript) ist eine plattform-unabhängige CLI, sowie ein Anwendungsstarter und wird letztendlich auch für das Clustermanagement verwendet werden. Es basiert auf einer Signal-Bibliothek, welche als Signal-Server fungiert, sodass es die Client-Signale, ähnlich wie die Knoten & Komponenten in Skywire, verwalten kann. Es kann im GUI-Modus oder im Headless-Modus ausgeführt werden.
 
 #### Viscript GUI Screenshot:
 
@@ -36,17 +36,17 @@ Wir können App-Konfigurationen im config.yaml file hinzufügen, wie z.B. den me
         Full Example Command:
             start meshnet-socks-server sockssrv0 101.202.34.56:9000 8001
 ```
-Nachdem viscript neugestartet wurde können wir die Anwendungen, welche von viscript gestartet wurde, mittels Kommando-Anwendungen prüfen.
+Nachdem viscript neugestartet wurde können wir die Anwendungen, welche von viscript gestartet wurde, mittels Kommando-Anwendungen überprüfen.
 
-Wie man in dem Screenshot erkennt, können wir Anwedungen mit dem Kommando `s` (`s apptracker 127.0.0.1:20000`) starten.
+Wie man in dem Screenshot erkennt, können wir Anwendungen mit dem Kommando `s` (`s apptracker 127.0.0.1:20000`) starten.
 
 Danach startet viscript mit einer eindeutigen Sequenz-ID und wir können die ID anpingen (`ping`), die Ressourcennutzung überprüfen (`ru`), oder die Anwendung mittels der ID herunterfahren (`sd`).
 
 ### Skywire
 
-[Skywire](https://github.com/skycoin/skywire) ist ein alternatives Peer-zu-Peer Netzwerk, dass die Kontrolle den IDA/ISP entzieht und den Usern zurückgibt. Es enthält etliche Komponenten, Knotenmanager, Knoten und Anwendungen laufen über das Meshnet(vermaschtes Netz) als eine Art VPN-Client, VPN-Server, Socks-Client, Socks-Server und so weiter.
+[Skywire](https://github.com/skycoin/skywire) ist ein alternatives Peer-zu-Peer Netzwerk, dass die Kontrolle den IDA (ISP) entzieht und den Usern zurückgibt. Es enthält etliche Komponenten, Knotenmanager, Knoten und Anwendungen, welche über das Meshnet (vermaschtes Netz) als eine Art VPN-Client laufen, VPN-Server, Socks-Client, Socks-Server und so weiter.
 
-Alle Komponenten aus Skywire, basieren auf einer Signal-Bibliothek und agieren als Signal-Client. Sie können also via viscript gestartet, verwaltet oder heruntergefahren werden.
+Alle Komponenten aus Skywire basieren auf einer Signal-Bibliothek und agieren als Signal-Client. Sie können also via viscript gestartet, verwaltet oder heruntergefahren werden.
 
 ## Architektur
 
@@ -72,13 +72,13 @@ Alle Komponenten aus Skywire, basieren auf einer Signal-Bibliothek und agieren a
 
 ------
 
-Für jeden Service gibt es clientseitige und serverseitige Anwendunge, wie den VPN-Client und den VPN-Server. Sie laufen über das Skywire-Meshnet. Bekannt ist, dass Skycoin die Währung von Skywire ist und wenn ein User Traffic weiterleitet, oder Netzwerkressourcen bereitstellt, erhält er oder sie Skycoin als Vergütung. Gleichermaßen werden Skycoin ausgegeben, um Netzwerkressourcen zu verbrauchen, oder Medien zu konsumieren. Sobald die Gebührenerfassung und die Begleichung implementiert sind, wird Skywire Coins, für das Betreiben des Netzwerks, generieren.
+Für jeden Service gibt es clientseitige und serverseitige Anwendungen, wie den VPN-Client und den VPN-Server. Sie laufen über das Skywire-Meshnet. Wie bereits bekannt, ist Skycoin die Währung von Skywire und wenn ein User Traffic weiterleitet, oder Netzwerkressourcen bereitstellt, erhält er oder sie Skycoin als Vergütung. Gleichermaßen werden Skycoin ausgegeben, um Netzwerkressourcen zu verbrauchen, oder Medien zu konsumieren. Sobald die Gebührenerfassung und die Begleichung implementiert sind, wird Skywire Coins, für das Betreiben des Netzwerks, generieren.
 
-Knoten, Knotenmanager und der Messenger sind zentrale Komponenten des Skywire-Meshnet. Knoten sind Peer-zu-Peer Meshknoten. Service-Anwendungen registrieren sich bei einem Knoten und deren Traffic wird über den Knoten weitergeleitet. Der Knotenmanager verwaltet die Routen zwischen den Knoten im Meshnet. Der Messenger erlaubt es den Usern, Cluster über deren öffentlichen Schlüssel anzusehen. Das sind Eckpunkte des Skywire-Meshnet.
+Knoten, Knotenmanager und der Messenger sind zentrale Komponenten des Skywire-Meshnet. Knoten sind Peer-zu-Peer Meshknoten. Service-Anwendungen registrieren sich bei einem Knoten und deren Traffic wird über den Knoten weitergeleitet. Der Knotenmanager verwaltet die Routen zwischen den Knoten im Meshnet. Der Messenger erlaubt es den Usern, Cluster, über deren öffentliche Schlüssel anzusehen. Dies sind die Eckpunkte des Skywire-Meshnet.
 
 ## Zusammenfassung
 
-Viscript und Skywire sind immernoch unter starker Entwicklung. Wir haben jedoch viele spannende Meilensteine rund um das Skycoin-Ökosystem erreicht. Wir genießen es das volle Potential eines freien Internets der Zukunft freizuschalten!
+Viscript und Skywire sind immernoch unter heftiger Entwicklung. Wir haben jedoch viele spannende Meilensteine rund um das Skycoin-Ökosystem erreicht. Wir genießen es, das volle Potential eines freien Internets der Zukunft freizuschalten!
 
 #### Sky-Messenger Screenshot:
 
