@@ -17,9 +17,9 @@ Skycoin BBS v3.1 wurde endlich veröffentlicht!
 
 - Update zur aktuellen CXO-Version.
 - Reimplementierung der CXO-Datenstruktur für leichtere Verwaltung der Änderungen.
-- Vorstellung eines `Views`-Modul, das die Implementierung von verschiedenen Wegen Inhalte zu "betrachten" erleichtert.
+- Vorstellung eines `Views`-Modul, welches die Implementierung von verschiedenen Wegen Inhalte zu "betrachten" erleichtert.
 - Implementierung des Exports/Imports von Brettern (boards) zu/von Dateien.
-- Erste Implementierung für das Folgen oder Vemeiden von Usern.
+- Initiale Implementierung für das Folgen oder Vemeiden von Usern.
 - Verbesserte Nutzeroberfläche (in Arbeit).
 - Automatische Peer-zu-Peer Zwischenstation von Brettern.
 
