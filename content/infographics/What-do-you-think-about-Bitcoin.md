@@ -4,6 +4,7 @@ tags = [
     "Skycoin Digest",
     "Infographics",
 ]
+bounty = 4
 date = "2018-01-29"
 categories = [
     "Infographics",
