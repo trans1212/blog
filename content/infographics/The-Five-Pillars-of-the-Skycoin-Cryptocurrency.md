@@ -4,7 +4,8 @@ tags = [
     "Skycoin Digest",
     "Infographics",
 ]
-date = "2018-02-03"
+bounty = 4
+date = "2018-02-08"
 categories = [
     "Infographics",
 ]
@@ -17,11 +18,11 @@ The 5 Pillars of Skycoin
 
 a truly decentralized, 51% attack proof, lightning quick cryptocurrency that was designed to fullfill satoshi’s original vision.
 
-## __2. SKYLEDGER__
+## __2. SKYWIRE__
 
 a mesh network that allows you to earn Skycoin for forwarding traffic/bandwidth. This is a similar to Tor or BitTorrent, except that you will be paid to participate.
 
-## __3. SKYWIRE__
+## __3. SKYLEDGER__
 
 a platform similar to Ethereum’s ERC20 platform, in the way a 1992 Geo Metro is similar to a 2018 Bugatti Chiron. They are both cars after all.  
 
