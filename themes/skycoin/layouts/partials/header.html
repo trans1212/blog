@@ -18,7 +18,7 @@
     <meta property="og:url" content="{{ .Permalink }}">
     <meta property="og:site_name" content="{{ .Site.Title }}">
     {{ if .Params.image }}
-    <meta property="og:image" content="{{$baseurl}}{{ .Params.image }}">
+    <meta property="og:image" content="{{ .Params.image | absURL }}">
     {{ end }}
     {{ range .Params.tags }}
     <meta property="og:tags" content="{{ . }}">
