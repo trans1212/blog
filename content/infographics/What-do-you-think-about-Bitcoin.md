@@ -9,8 +9,8 @@ date = "2018-01-29"
 categories = [
     "Infographics",
 ]
+image = "/img/What-do-you-think-about-Bitcoin.jpg"
 +++
-![Skycoin Infographic](/img/What-do-you-think-about-Bitcoin.jpg)
 
 ## Bitcoin was Amazing
 
