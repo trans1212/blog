@@ -20,7 +20,7 @@
 
   <section class="post__content">
      {{if .Params.image}}
-  <img  src="{{.Params.image}}">
+  <img  src="{{.Params.image | absURL }}">
   {{ else }}
   
   {{ end }}

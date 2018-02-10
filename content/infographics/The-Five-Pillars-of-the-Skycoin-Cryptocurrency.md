@@ -9,7 +9,7 @@ date = "2018-02-08"
 categories = [
     "Infographics",
 ]
-image = "/img/The-Five-Pillars-of-the-Skycoin-Cryptocurrency.jpg"
+image = "img/The-Five-Pillars-of-the-Skycoin-Cryptocurrency.jpg"
 +++
 
 
