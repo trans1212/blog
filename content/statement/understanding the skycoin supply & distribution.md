@@ -12,7 +12,7 @@ categories = [
 
 ## Understanding Supply
 
-Skycoin has a total supply of 100 million premined coins. Currently the circulating supply is at 7.278.040 SKY (~7,2%).
+Skycoin has a total supply of 100 million coins created in the genesis block. Currently the circulating supply is at 7.278.040 SKY (~7,2%).
 
 75 million coins (75%) are timelocked ([hardcoded in skycoin.go](https://github.com/skycoin/skycoin/blob/develop/cmd/skycoin/skycoin.go) scroll down to bottom)
 and 25 million coins are currently unlocked. 
