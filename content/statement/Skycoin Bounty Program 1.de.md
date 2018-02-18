@@ -31,9 +31,9 @@ Bewerben für Belohnungen im [Skycoin-Belohnungsprogramm Telegram Channel](https
 
 <!-- MarkdownTOC autolink="true" bracket="round" -->
 
-- [Grafiken und Videos](#graphics-and-videos)
-- [Übersetzungen](#translations)
-- [Schriftstellerei](#writing)
+- [Grafiken und Videos](#grafiken-und-videos)
+- [Übersetzungen](#%C3%9Cbersetzungen)
+- [Schriftstellerei](#schriftstellerei)
 - [Social Media Engagement](#social-media-engagement)
 
 <!-- /MarkdownTOC -->
@@ -42,7 +42,7 @@ Bewerben für Belohnungen im [Skycoin-Belohnungsprogramm Telegram Channel](https
 
 Infografiken über Skycoin, Skywire meshnet, BBS, CXO etc.
 
-Brandinggüter (Logos, Farben) sind unter [Downloadseite](https://www.skycoin.net/downloads) verfügbar. 
+Brandinggüter (Logos, Farben) sind unter [Downloadseite](https://www.skycoin.net/downloads) verfügbar.
 
 Tretet dem [Skycoin Bounty-Programm Telegramchannel](https://t.me/skycoinbounty) bei, um Informationen über aktuell verfügbare Grafik- und Videobounty informiert zu werden.
 
@@ -83,16 +83,14 @@ Blog-Posts, Artikel
 * Verhandelbar basierend auf der Anzahl der Aufrufe, Veröffentlichungsstelle, Qualität.
 * Nimm im Voraus Kontakt mit uns auf, bis wir einen Weg gefunden haben, wertvolle Werke zu valutieren.
 
-Seid bitte aufrichtig mit den Werken, die für das Belohnungsprogramm erstellt werden. 
+Seid bitte aufrichtig mit den Werken, die für das Belohnungsprogramm erstellt werden.
 Wenn sie in schlechtem Licht erscheinen, werden wir die Belohnung senken oder einbehalten (zum Beispiel, gefakte Youtube-Aufrufe oder schlechte Infografiken).
 
 ## Social Media Engagement
 
 Spezieller Bonus für aktive Community Mitglieder
 
-* 10 SKY - 100 [Skycoin subreddit](https://reddit.com/r/skycoinproject) Posts
-* 100 SKY - 500 [Skycoin subreddit](https://reddit.com/r/skycoinproject) Posts
-* 1000 SKY - 2500 [Skycoin subreddit](https://reddit.com/r/skycoinproject) Posts
+* 10 SKY per 100 [Skycoin subreddit](https://reddit.com/r/skycoinproject) Posts
 
 *Wenn du andere Ideen für das Bewerben von Skycoin hast die eine Belohnung verdienen, bitte fühl dich dazu aufgerufen diese in unserem Telegram-Channel vorzuschlagen.*
 
