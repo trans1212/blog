@@ -1,5 +1,5 @@
 +++
-title = "Skycoin Digest: Why do we need a FREE Internet? [INFOGRAPHIC]"
+title = "Skycoin Übersicht: Warum brauchen wir ein FREIES Internet? [INFOGRAPHIC]"
 tags = [
     "Skycoin Digest",
     "Infographics",
@@ -12,24 +12,24 @@ categories = [
 image = "img/Why-do-we-need-a-free-internet.jpg"
 +++
 
-## Why are we building a free internet?
+## Warum bauen wir ein freies Internet auf? 
 
-**_It’s a long list so we’ll give you our top 3._**
+**_Es ist eine lange liste, deshalb hier unsere Top 3._**
 
-### 1.) Freedom 
+### 1.) Freiheit 
 
- All over the world governments both deny and restrict their citizenries access to the internet as well as censor opposing voices. They have forgotten who they serve.
+ Überall auf der Welt beschränken und verweigern  Regierungen ihren Bürgern den freien Zugang zum Internet. Gleichzeitig zensieren sie kritische Stimmen. Sie haben vergessen wem sie dienen. 
 
-### 2.) Privacy
+### 2.) Privatsphäre
 
-Governments & Corporations track and censor everything we do online. Whether it’s to get dirt on a political opponent or sell you the next new batman figurine… It’s wrong. Your online identity does NOT belong to you in todays internet.
+Regierungen & Unternehmen verfolgen und zensieren alles, was wir online tun. Egal ob es um eine Schmutzkampagne gegen den politisccehn Gegner geht, oder darum euch die neue Batman-Figure zu verkaufen... Es ist falsch. Eure Online-Identität gehört NICHT euch im derzeitigen Internet. 
 
-### 3.) Access
+### 3.) Zugang
 
-It’s 2018 and still we have countries with no infrastructure or access to the internet. We aim to fix this.
+Es ist das Jahr 2018 und es gibt immer noch Länder ohne entsprechende Infrastruktur und Zugang zum Internet. Wir wollen das ändern. 
 
-Skywire will allow any individual with access to a computer to become part of a peer-to-peer, blockchain based alternative internet; Secure and private that gives the power back to the people.
+Skywire erlaubt jedem Einzelnen mit Zugang zu einem Computer, Teil eines Peer-to-Peer und Blockchain-basiertem alternativen Internets zu werden. Sicherheit und Privatsphäre transferiert die Macht wieder hin zum Nutzer.  
 
-There is no room for surveillance or censorship on our network. Users are safe from being hacked, tracked or jacked. You are your own VPN.
+Es gibt keinen Platz für Überwachung oder Zensur in unserem Netzwerk. Die Nutzer sind davor sicher, gehackt, verfolgt oder bestohlen zu werden. Du bist dein eigener VPN. 
 
-> “Privacy and security are not something that can be duct taped on the top level of a stack. It requires the proper design of every component from the hardware, up. Skycoin takes a mathematically strict, elegant approach that allows a simpler implementation by having a self contained protocol and ecosystem.”
+> “Privacy and security are not something that can be duct taped on the top level of a stack. Es erfordert ein passendes Design jeder einzelnen Komponente ausgehend von der Hardware. Skycoin verfolgt einen mathematisch genauen und eleganten Ansatz, der eine einfachere Implementierung durch ein in sich abgeschlossenes Protokoll und Ökosystem erlaubt.”
