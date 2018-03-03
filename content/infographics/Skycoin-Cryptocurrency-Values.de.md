@@ -1,5 +1,5 @@
 +++
-title = "Skycoin Digest: What We Stand For [INFOGRAPHIC]"
+title = "Skycoin Übersicht: Wofür wir stehen  [INFOGRAPHIC]"
 tags = [
     "Skycoin Digest",
     "Infographics",
@@ -12,11 +12,11 @@ categories = [
 image = "img/Skycoin-Cryptocurrency-Values.jpg"
 +++
 
-## Here's what we stand for...
+## Dafür stehen wir...
 
-  * Popularization of decentralization by fixing problems that Bitcoin can’t.
-  * Our Core Features are: Speed, Privacy, Security and Ecosystem.
-  * Security (51% attack proof).
-  * Decentralization – No miners holding the network hostage, no inflation.
-  * Privacy – Skywire brings truly anonymous Social networks, VPNs and messaging apps.
-  * Building a new internet free from government and corporate control.
+  * Popularisierung der Dezentralisierung durch das lösen von Problemen, die Bitcoin nicht lösen kann. 
+  * Kernelemente: Geschwindigkeit, Privatssphäre, Sicherheit und Ökosystem.
+  * Sicherheit (sicher vor 51%-Attacken). 
+  * Dezentralisierung - Keine Miner die das Netzwerk in Geiselhaft halten, keine Inflation. 
+  * Privatssphäre - Skywire bringt wirklich anonyme Soziale-Netzwerke, VPNs und Messenger-Apps mit. 
+  * Aufbau eines neuen Internets, frei von Kontrolle durch Regierung und Unternehmen.
