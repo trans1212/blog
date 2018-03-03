@@ -14,7 +14,7 @@ image = "img/Why-do-we-need-a-free-internet.jpg"
 
 ## Warum bauen wir ein freies Internet auf? 
 
-**_Es ist eine lange liste, deshalb hier unsere Top 3._**
+**_Es ist eine lange Liste, deshalb hier unsere Top 3._**
 
 ### 1.) Freiheit 
 
@@ -22,7 +22,7 @@ image = "img/Why-do-we-need-a-free-internet.jpg"
 
 ### 2.) Privatsphäre
 
-Regierungen & Unternehmen verfolgen und zensieren alles, was wir online tun. Egal ob es um eine Schmutzkampagne gegen den politisccehn Gegner geht, oder darum euch die neue Batman-Figure zu verkaufen... Es ist falsch. Eure Online-Identität gehört NICHT euch im derzeitigen Internet. 
+Regierungen & Unternehmen verfolgen und zensieren alles, was wir online tun. Egal ob es um eine Schmutzkampagne gegen den politischen Gegner geht, oder darum, euch die neue Batman-Figure zu verkaufen... Es ist falsch. Eure Online-Identität gehört NICHT euch im derzeitigen Internet. 
 
 ### 3.) Zugang
 
@@ -32,4 +32,4 @@ Skywire erlaubt jedem Einzelnen mit Zugang zu einem Computer, Teil eines Peer-to
 
 Es gibt keinen Platz für Überwachung oder Zensur in unserem Netzwerk. Die Nutzer sind davor sicher, gehackt, verfolgt oder bestohlen zu werden. Du bist dein eigener VPN. 
 
-> “Privacy and security are not something that can be duct taped on the top level of a stack. Es erfordert ein passendes Design jeder einzelnen Komponente ausgehend von der Hardware. Skycoin verfolgt einen mathematisch genauen und eleganten Ansatz, der eine einfachere Implementierung durch ein in sich abgeschlossenes Protokoll und Ökosystem erlaubt.”
+> “Privatsphäre und Sicherheit sind nichts, was man einfach auf ein bestehendes Protokoll draufkleben könnte. Es erfordert ein passendes Design jeder einzelnen Komponente ausgehend von der Hardware. Skycoin verfolgt einen mathematisch genauen und eleganten Ansatz, der eine einfachere Implementierung durch ein in sich abgeschlossenes Protokoll und Ökosystem erlaubt.”
