@@ -1,5 +1,5 @@
 +++
-title = "Skycoin Übersicht: Skywire Overview [INFOGRAPHIC]"
+title = "Skycoin Übersicht: Skywire  [INFOGRAPHIC]"
 tags = [
     "Skycoin Digest",
     "Infographics",
