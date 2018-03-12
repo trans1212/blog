@@ -1,5 +1,5 @@
 +++
-title = "Skycoin Digest: Skywire Overview [INFOGRAPHIC]"
+title = "Skycoin Übersicht: Skywire Overview [INFOGRAPHIC]"
 tags = [
     "Skycoin Digest",
     "Infographics",
@@ -13,16 +13,16 @@ categories = [
 image = "img/Skycoin-Digest-Skywire-Overview.jpg"
 +++
 
-## Skywire – Reinventing the Internet
+## Skywire – Die Neuerfindung des Internets 
 
-The Skycoin ecosystem has several critical pieces, all beautifully held together by Skywire.
+Das Skycoin-Ökosystem besteht aus vielen kritischen Teilen, alle zusammengehalten durch Skywire. 
 
-Skywire takes back control from ISPs and puts it into the hands of users. That means no huge Internet bills and no unfair business practices. A self-sufficient network, 100% owned and operated by its users.
+Skywire bringt die Kontrolle von den ISPs zurück in die Hände der Nutzer. Das bedeutet keine hohen Internetrechnungen und unfaire Geschäftspraktiken mehr. Ein autarkes Netzwerk, zu 100 Prozent in Besitz und verwaltet durch die Nutzer. 
 
-Skywire uses peer-to-peer blockchain technology to create a decentralized mesh network that’s fast, private, and secure.
+Skywire nutzt Peer-to-Peer Blockchain-Technologie um ein schnelles, privates und sicheres dezentralisiertes Mesh-Netzwerk aufzubauen. 
 
-With our incentivized mesh network, users can earn coins for running nodes and providing bandwidth. They can spend coins to use bandwidth e.g. consuming media or other network resources and services.
+In unserem Mesh-Netzwerk können Nutzer Coins durch die Bereitstellung von Nodes und Bandbreite verdienen, dies dient als Anreiz. Diese Coins wiederum können ausgegeben werden, um Bandbreite zu nutzen in Form von beispielsweise Medienkonsum oder anderer Netzwerk-Ressourcen und Angebote. 
 
-Skywire is end-to-end encrypted and nodes are uniquely identified by a public key hash instead of an IP address. This renders man-in-the-middle attacks impossible.
+Skywire verfügt über eine Ende-zu-Ende-Verschlüsselung und Nodes sind eindeutig identifizierbar durch einen öffentlichen Key-Hash anstelle einer IP-Adresse. Ein Man-in-the-Middle-Angriff (Janus-Angriff) wird dadurch unmöglich. 
 
-We're not just changing the Internet, we're reinventing it.
+Wir verändern das Internet nicht nur, wir erfinden es neu. 
